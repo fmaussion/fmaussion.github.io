@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Fabien Maussion
-description: "Climate scientist, glaciologist."
+description: "Climate, glaciers, and scientific programming."
 locale: en_US
 url: http://fabienmaussion.info
 # url: http://localhost:4000
@@ -31,7 +31,7 @@ kramdown:
 owner:
   name: Fabien Maussion
   avatar: fabi-portrait.jpg
-  bio: "Climate scientist, glaciologist."
+  bio: "Climate, glaciers, and scientific programming."
   email: fabien.maussion@uibk.ac.at
   disqus-shortname:
   twitter:

@@ -18,9 +18,9 @@ University of Innsbruck.
 
 Before that, I was working at the 
 [Chair of Climatology](http://www.klima.tu-berlin.de/index.php?show=home_start&lan=en/),
-TU Berlin, where I finished my PhD in 2014. 
-I obtained my master degree from the French aerospace engineering school 
-[ISAE-Supaéro](http://www.isae.fr/en) in 2008.
+TU Berlin, where I obtained my PhD in 2014. 
+I graduated from the French aerospace engineering school 
+[ISAE-Supaero](http://www.isae.fr/en) in 2008.
 
 
 ![ACINN Logo](http://acinn.uibk.ac.at/sites/all/themes/imgi/images/acinn_logo.png)
