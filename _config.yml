@@ -32,7 +32,14 @@ owner:
   name: Fabien Maussion
   avatar: fabi-portrait.jpg
   bio: "Climate, glaciers, and scientific programming."
-  email: fabien.maussion@uibk.ac.at
+  github: fmaussion
+  bitbucket: fmaussion
+  orcid: 0000-0002-3211-506X
+  scholar: tTpQiSgAAAAJ
+  mendeley: fabien-maussion
+  researchgate: Fabien_Maussion
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  email:
   disqus-shortname:
   twitter:
   facebook: #username
@@ -43,9 +50,6 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: fmaussion
-  bitbucket: fmaussion
-  stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
   lastfm: #username
