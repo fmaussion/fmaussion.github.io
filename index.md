@@ -12,7 +12,7 @@ image:
 
 # About me
 
-I am a post-doc and lecturer at the 
+I am a post-doctoral researcher and lecturer at the 
 [Institute of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at/),
 University of Innsbruck.
 
