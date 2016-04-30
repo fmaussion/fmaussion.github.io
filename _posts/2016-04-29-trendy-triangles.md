@@ -2,6 +2,8 @@
 layout: post
 title: "Trendy triangles"
 excerpt: "On the use of triangle plots to analyse trends."
+image:
+  feature: fm-header-6.jpg
 modified:
 categories:
 date: 2016-04-29T11:00:00+01:00
