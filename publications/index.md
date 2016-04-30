@@ -1,7 +1,7 @@
 ---
 layout: page
 image:
-  feature: fm-header-1.jpg
+  feature: fm-header-3.jpg
 title: "Publications"
 ---
 
