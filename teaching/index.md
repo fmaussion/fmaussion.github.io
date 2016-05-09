@@ -48,7 +48,7 @@ balance of a glacier surface.
 for graduate students (every semester, 2hrs, co-taught with others). 
 
 
-## Supervised theses
+## Student advisees
 
 **Cerny, M.** (master thesis)
 : Drivers of recent lake level changes on the Tibetan Plateau
@@ -62,7 +62,7 @@ for graduate students (every semester, 2hrs, co-taught with others).
 **Zolles, T.** (master thesis)
 : Improve the uncertainty assessment of surface energy and mass balance models
 
-Click [here]({{ site.url }}/teaching/theses) for the list of past theses.
+Click [here]({{ site.url }}/teaching/theses) for the list of past advisees.
 
 ## All courses
 
