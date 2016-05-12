@@ -1,7 +1,7 @@
 ---
 layout: page
 image:
-  feature: fm-header-2.jpg
+  feature: fm-header-1.jpg
 title: "About"
 modified: 2016-05-12
 ---
