@@ -6,7 +6,7 @@ title: "About"
 modified: 2016-05-12
 ---
 
-<span><i class="fa fa-creative-commons"></i> {{ site.time | date: '%Y' }} {{ site.owner.name }}. 
+<span><i class="fa fa-creative-commons"></i> {{ site.time | date: '%Y' }} {{ site.owner.name }}.</span>
 
 The views expressed on this site are personnal and do not necessarily represent the official positions of my employers.
 
@@ -14,4 +14,4 @@ The views expressed on this site are personnal and do not necessarily represent 
 
 Unless specified otherwise, the content of this site (including images) are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
-Site hosted on <a href="https://pages.github.com/" rel="nofollow"> GitHub</a>, powered by <a href="http://jekyllrb.com" rel="nofollow"> Jekyll</a> using the <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> theme (V2).</span>
+Site hosted on <a href="https://pages.github.com/" rel="nofollow"> GitHub</a>, powered by <a href="http://jekyllrb.com" rel="nofollow"> Jekyll</a> using the <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> theme (V2).
