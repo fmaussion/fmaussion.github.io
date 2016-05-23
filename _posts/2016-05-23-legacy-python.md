@@ -6,7 +6,7 @@ image:
   feature: fm-header-6.jpg
 modified:
 categories:
-date: 2016-05-23T11:00:00+01:00
+date: 2016-05-23T00:00:00+00:00
 draft: false
 comments: true
 ---
