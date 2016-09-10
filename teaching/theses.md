@@ -6,6 +6,15 @@ title: "Supervised theses (completed)"
 modified: 2016-05-09
 ---
 
+### 2016
+
+**Oberrauch, M.** (bachelor thesis)
+: Calibration and validation of a glacier model applied to the Upper Grindelwald Glacier from 1880 to present
+
+**Gstir, T.**  (bachelor thesis)
+: Klimasensitivität des Oberen Grindelwaldgletschers untersucht mithilfe des OGGMs
+
+
 ### 2013
 
 **Discher, V.** (bachelor thesis)
