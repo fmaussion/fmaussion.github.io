@@ -71,8 +71,8 @@ Click [here]({{ site.url }}/teaching/theses) for the list of past advisees.
 
 Semester | Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Level | Institution&nbsp; | Evaluation |
 :---|:---|:---|:---|:---|:---|
-Winter 2016 | Physics of the climate system | Graduate | ACINN | not yet evaluated |  
-Winter 2016 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | not yet evaluated |  
+Winter 2016/17 | Physics of the climate system | Graduate | ACINN | not yet evaluated |  
+Winter 2016/17 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | not yet evaluated |  
 Summer 2016 | The Cryosphere in the Climate System | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2016SS_Cryo.pdf) |
 Summer 2016 | The climate system | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2016SS_Klima.pdf) |
 Summer 2016 | Literature seminar glaciology / climatology | Graduate | ACINN | not evaluated |
