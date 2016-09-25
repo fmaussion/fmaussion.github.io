@@ -3,8 +3,8 @@
 title: Fabien Maussion
 description: "Climate, glaciers, and scientific programming."
 locale: en_US
-# url: http://fabienmaussion.info
-url: http://localhost:4000
+url: http://fabienmaussion.info
+# url: http://localhost:4000
 image:
   feature: fm-header-1.jpg
 
