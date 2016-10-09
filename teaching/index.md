@@ -7,8 +7,7 @@ modified: 2016-05-09
 ---
 
 I teach various courses[^1] at the ACINN, mostly for students
-in the [atmospheric sciences](http://acinn.uibk.ac.at/education-imgi)
-and in physical geography.
+in [atmospheric sciences](http://acinn.uibk.ac.at/education-imgi).
 
 [^1]: VO ("Vorlesung", regular lectures) VU ("Vorlesung mit Übung", lectures with integrated practicals), and SE ("Seminars").
 
