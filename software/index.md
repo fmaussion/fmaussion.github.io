@@ -17,10 +17,11 @@ great potential. Among other things, OGGM participated to the
 
 ### Salem
 
-[Salem](https://github.com/fmaussion/salem) is a small python library to do some
-GIS stuff I needed to do. Together with [Cleo](https://github.com/fmaussion/cleo),
-they provide a framework to read, analyse, and plot geoscientific data.
-
+[Salem](http://salem.readthedocs.io/en/stable/) is a small python library to do
+geoscientific data processing and plotting. It extends
+[xarray](https://github.com/pydata/xarray) to add
+geolocalised subsetting, masking, and plotting operations to xarray’s
+DataArray and DataSet structures.
 
 ### DownGlacier
 
