@@ -11,12 +11,16 @@ draft: false
 comments: true
 ---
 
-*Note: this post was originally published in March 2016 on the OGGM
+*Note 1: this post was originally published in March 2016 on the OGGM
 website. It is now reproduced here with a few small modifications.*
 
 *Note 2: in the meantime, the ITMIX group discussed the preliminary results at
 the EGU assembly in Vienna. It turns out that OGGM is doing quite a good job!
 More about this by the end of 2016.*
+
+*Note 3: the paper summarizing the experiment is online for review!* *Visit*
+**[this link](http://www.the-cryosphere-discuss.net/tc-2016-250/)**  *to read
+and discuss the manuscript.*
 
 
 OGGM participates to the [ITMIX][ITMIX] experiment organised by the IACS
