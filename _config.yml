@@ -45,13 +45,13 @@ owner:
   facebook: #username
   google:
     plus: #username
-    analytics: UA-9101891-2
+    analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
   linkedin: #username
-  instagram: #username
+  instagram: uibk.climate
   lastfm: #username
   tumblr: #username
   pinterest: #username
