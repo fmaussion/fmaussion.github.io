@@ -10,8 +10,6 @@ image:
   </div>
 </footer>
 
-# About me
-
 I am a post-doctoral researcher and lecturer at the
 [Institute of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at/),
  part of the [Research Centre for Climate](https://www.uibk.ac.at/climate-cryosphere/)
