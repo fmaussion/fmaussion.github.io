@@ -2,6 +2,7 @@
 layout: page
 image:
   feature: fm-header-1.jpg
+title: "About me"
 ---
 
 <footer role="contentinfo">
@@ -10,7 +11,6 @@ image:
   </div>
 </footer>
 
-# About me
 
 I am a post-doctoral researcher and lecturer at the
 [Institute of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at/),
