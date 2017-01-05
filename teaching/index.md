@@ -11,10 +11,10 @@ in [atmospheric sciences](http://acinn.uibk.ac.at/education-imgi).
 
 [^1]: VO ("Vorlesung", regular lectures) VU ("Vorlesung mit Übung", lectures with integrated practicals), and SE ("Seminars").
 
-### VO - The climate system
+### VO - Introduction to meteorology and climatology
 
-[Fundamentals of the climate system](https://orawww.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=16S&lvnr_id_in=707670)
-for undergraduate students (summer semester, 2hrs). Topics: components of the
+[Fundamentals of the climate system](https://orawww.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=16W&lvnr_id_in=707606)
+for undergraduate students (winter semester, 2hrs). Topics: components of the
 climate system, general circulation of the atmosphere and of the oceans,
 climate variability (ENSO, NAO, Monsoon), climate change and climate policy.
 
@@ -23,7 +23,8 @@ climate variability (ENSO, NAO, Monsoon), climate change and climate policy.
 
 [Advanced course in physical climatology](https://orawww.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=15W&lvnr_id_in=707712)
 for graduate students (winter semester, 3hrs). Practicals: individual
-study of the general circulation of the atmosphere using reanalysis data.
+study of the general circulation of the atmosphere using reanalysis data and
+Python.
 Topics: climate variability, synoptic climatology, paleoclimate, climate modelling,
 climate change and feedbacks.
 
@@ -61,8 +62,8 @@ for graduate students (every semester, 2hrs).
 **Thorlaksson, D.** (master thesis)
 : Improving the ice thickness estimation module of the [OGGM](http://oggm.org/) model
 
-**Zolles, T.** (master thesis)
-: Improve the uncertainty assessment of surface energy and mass balance models
+**Schwienbacher, F.** (bachelor thesis)
+: Model sensitivity of the mass-balance module of the [OGGM](http://oggm.org/) model
 
 Click [here]({{ site.url }}/teaching/theses) for the list of past advisees.
 

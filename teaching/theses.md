@@ -8,6 +8,9 @@ modified: 2016-05-09
 
 ### 2016
 
+**Zolles, T.** (master thesis)
+: Uncertainty estimation of a glacier mass balance model
+
 **Oberrauch, M.** (bachelor thesis)
 : Calibration and validation of a glacier model applied to the Upper Grindelwald Glacier from 1880 to present
 
@@ -17,12 +20,11 @@ modified: 2016-05-09
 
 ### 2013
 
-**Discher, V.** (bachelor thesis)
-: Extreme precipitation events over the Tibetan Plateau and their spatial and temporal variability
-
-
 **Klein, C.** (master thesis)
 : Analysis of air temperature near-surface altitudinal gradients on the Tibetan Plateau
+
+**Discher, V.** (bachelor thesis)
+: Extreme precipitation events over the Tibetan Plateau and their spatial and temporal variability
 
 
 ### 2011
