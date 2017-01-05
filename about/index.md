@@ -6,7 +6,7 @@ title: "About"
 modified: 2016-05-12
 ---
 
-<span><i class="fa fa-creative-commons"></i> {{ site.time | date: '%Y' }} {{ site.owner.name }}.</span>
+<span><i class="fa fa-creative-commons"></i> 2016 - {{ site.time | date: '%Y' }} {{ site.owner.name }}.</span>
 
 The views expressed on this site are personnal and do not necessarily represent the official positions of my employers.
 
