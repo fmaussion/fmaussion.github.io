@@ -12,7 +12,7 @@ title: "About me"
 </footer>
 
 
-I am a post-doctoral researcher and lecturer at the
+I am an assistant professor at the
 [Institute of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at/),
  part of the [Research Centre for Climate](https://www.uibk.ac.at/climate-cryosphere/)
 at the University of Innsbruck.
