@@ -48,6 +48,18 @@ balance of a glacier surface.
 for graduate students (every semester, 2hrs).
 
 
+## Workshops
+
+I regularly give workshops related to programming, open-source and open-science
+topics. Two of my recent presentations are available online:
+
+- **31.01.2017**: [Getting started with Python](http://fabienmaussion.info/acinn_python_workshop/)
+- **07.02.2017**: [xarray: multi-dimensional data analysis in Python](http://fabienmaussion.info/acinn_xarray_workshop)
+
+(if you are curious about the tool I used to generate these presentations,
+[this blog post]({{ site.url }}/2017/02/16/html-presentations-w-rise/))
+explains it in a little more detail)
+
 ## Student advisees
 
 **Cerny, M.** (master thesis)
