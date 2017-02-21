@@ -19,20 +19,18 @@ Randolph Glacier Inventory ([RGI](http://www.glims.org/RGI/), Version 5).
 
 ## The problem
 
-It seems appropriate to provide a little bit of context before going on.
+Let's provide a little bit of context before going on.
 The RGI is the first
 and, as of today, the only global inventory of glacier outlines
-available. Before the RGI, the inventories were scattered across various sources
-and mostly not publicly available. The other reference database
-([GLIMS](https://nsidc.org/glims/))
-is centralized but not (yet) globally complete[^1].
-
-[^1]: There are other reasons why GLIMS is not currently suitable for large-scale
-      glacier modeling, but we'll skip this discussion for now.
-
+available[^1].
 WGMS-FoG is the reference database for surface mass-balance observations[^2].
 Each year, various institutes around the globe send their data to the WGMS,
 which centralizes and publishes them.
+
+
+[^1]: The [GLIMS](https://nsidc.org/glims/) database is centralized and
+      just reached global completeness. it will provide a good alternative to
+      the RGI in the near future.
 
 [^2]: I also mention the [GMBAL](http://people.trentu.ca/~gcogley/glaciology/glglmbal.htm#Top)
       database provided by Graham Cogley, which is - as far as I know - largely
@@ -101,8 +99,9 @@ RGI**[^5].
 [^4]: Five years of data is an arbitrary threshold we chose to use to determine
       which glaciers should be considered for validation
 
-[^5]: a couple of remaining glaciers are duplicates, and the rest have yet to
-      be linked
+[^5]: removing the duplicates leaves us with 16 glaciers which have yet to be
+      linked. The problem here is that there are strong discrepancies between
+      the RGI and the WGMS, and that the RGI outlines are partly missing
 
 These 263 glaciers have very different mass-balance record lengths:
 
