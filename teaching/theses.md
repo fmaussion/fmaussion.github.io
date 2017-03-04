@@ -6,6 +6,12 @@ title: "Supervised theses (completed)"
 modified: 2016-05-09
 ---
 
+### 2017
+
+**Schwienbacher, F.** (bachelor thesis)
+: Model sensitivity of the mass-balance module of the [OGGM](http://oggm.org/) model
+
+
 ### 2016
 
 **Zolles, T.** (master thesis)
@@ -15,7 +21,7 @@ modified: 2016-05-09
 : Calibration and validation of a glacier model applied to the Upper Grindelwald Glacier from 1880 to present
 
 **Gstir, T.**  (bachelor thesis)
-: Klimasensitivität des Oberen Grindelwaldgletschers untersucht mithilfe des OGGMs
+: Klimasensitivität des Oberen Grindelwaldgletschers untersucht mithilfe des [OGGM](http://oggm.org/)s
 
 
 ### 2013

@@ -57,7 +57,7 @@ topics. Two of my recent presentations are available online:
 - **07.02.2017**: [xarray: multi-dimensional data analysis in Python](http://fabienmaussion.info/acinn_xarray_workshop)
 
 (if you are curious about the tool I used to generate these presentations,
-[this blog post]({{ site.url }}/2017/02/16/html-presentations-w-rise/))
+[this blog post]({{ site.url }}/2017/02/18/html-presentations-w-rise/))
 explains it in a little more detail)
 
 ## Student advisees
@@ -74,17 +74,15 @@ explains it in a little more detail)
 **Thorlaksson, D.** (master thesis)
 : Improving the ice thickness estimation module of the [OGGM](http://oggm.org/) model
 
-**Schwienbacher, F.** (bachelor thesis)
-: Model sensitivity of the mass-balance module of the [OGGM](http://oggm.org/) model
-
 Click [here]({{ site.url }}/teaching/theses) for the list of past advisees.
 
 ## All courses
 
 Semester | Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Level | Institution&nbsp; | Evaluation |
 :---|:---|:---|:---|:---|:---|
-Winter 2016/17 | Physics of the climate system | Graduate | ACINN | not yet evaluated |  
-Winter 2016/17 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | not yet evaluated |  
+Winter 2016/17 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2016WS_PhyClim.pdf) |  
+Winter 2016/17 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2016WS_EKlim.pdf) |  
+Winter 2016/17 | Literature seminar glaciology / climatology | Graduate | ACINN | not evaluated |
 Summer 2016 | The Cryosphere in the Climate System | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2016SS_Cryo.pdf) |
 Summer 2016 | The climate system | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2016SS_Klima.pdf) |
 Summer 2016 | Literature seminar glaciology / climatology | Graduate | ACINN | not evaluated |
