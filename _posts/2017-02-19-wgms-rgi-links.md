@@ -78,8 +78,8 @@ by the WGMS in 2016. I summarize here the results of this collaborative effort.
 
 ## The links
 
-*Note: the code used to make these analyses is available
-[here](https://github.com/OGGM/oggm/blob/master/docs/notebooks/wgms_refmbdata.ipynb)*
+*Note: the code used to make these analyses is available*
+[here](https://github.com/OGGM/oggm/blob/master/docs/notebooks/wgms_refmbdata.ipynb)
 
 The lookup table contains 4,331 links between the various databases (WGMS, WGI,
 GLIMS, and RGI), and 2,959 with the RGI alone. Most of them have been created
