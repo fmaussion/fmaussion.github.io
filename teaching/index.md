@@ -50,7 +50,7 @@ for graduate students (every semester, 2hrs).
 
 ## Workshops
 
-I regularly give workshops related to programming, open-source and open-science
+I give workshops related to programming, open-source and open-science
 topics. Two of my recent presentations are available online:
 
 - **31.01.2017**: [Getting started with Python](http://fabienmaussion.info/acinn_python_workshop/)
@@ -64,9 +64,6 @@ explains it in a little more detail)
 
 **Cerny, M.** (master thesis)
 : Drivers of recent lake level changes on the Tibetan Plateau
-
-**Schlumpberger, M.** (master thesis)
-: Wet and dry spells in the Rio Santa Basin, Peruvian Andes, and connections to the large scale circulation
 
 **Siller, M.** (master thesis)
 : WRF simulation of wet and dry spells in the Rio Santa Basin, Peruvian Andes

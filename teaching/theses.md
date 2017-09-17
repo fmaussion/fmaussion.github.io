@@ -11,11 +11,14 @@ modified: 2016-05-09
 **Schwienbacher, F.** (bachelor thesis)
 : Model sensitivity of the mass-balance module of the [OGGM](http://oggm.org/) model
 
+**Schlumpberger, M.** (master thesis)
+: Wet and dry spells in the Rio Santa Basin, Peruvian Andes, and connections to the large scale circulation ([link](http://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/2115159))
+
 
 ### 2016
 
 **Zolles, T.** (master thesis)
-: Uncertainty estimation of a glacier mass balance model
+: Uncertainty estimation of a glacier mass balance model ([link](http://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/1651787))
 
 **Oberrauch, M.** (bachelor thesis)
 : Calibration and validation of a glacier model applied to the Upper Grindelwald Glacier from 1880 to present
