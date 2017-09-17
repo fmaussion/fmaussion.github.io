@@ -6,7 +6,7 @@ image:
   feature: fm-header-6.jpg
 modified:
 categories:
-date: 2017-09-18T23:00:00
+date: 2017-09-17T09:00:00
 draft: false
 comments: true
 ---
@@ -25,7 +25,7 @@ have to navigate in wild, untouched landscapes.
 
 <figure>
     <a href="/images/blog/iceland/glacier_sun.JPG" >
-    <img src="/images/blog/iceland/glacier_sun.JPG" alt="Image missing" width="100%" />
+    <img src="/images/blog/iceland/glacier_sun_small.JPG" alt="Image missing" width="100%" />
     </a>
     <figcaption>Skeiðarárjökull glacier seen from Blátindur</figcaption>
 </figure>
@@ -45,9 +45,22 @@ considerably in comparison to Dieter Graser's description in
 2006 and the accelerated melting of the glacier won't make things easier in
 the future.*
 
+<figure>
+    <a href="/images/blog/iceland/map_overview.jpg" >
+    <img src="/images/blog/iceland/map_overview_small.jpg" alt="Image missing" width="100%" />
+    </a>
+    <figcaption>Map of our trek (background imagery: Bing Maps)</figcaption>
+</figure>
+
 
 * [Preparation]({{ site.url }}/posts/iceland_trek/00_preparation)
 * [Day One: from Skaftafell to Blátindur]({{ site.url }}/posts/iceland_trek/01_day)
+* [Day Two: from Blátindur to Skeiðarárjökull]({{ site.url }}/posts/iceland_trek/02_day)
+* [Day Three: from Skeiðarárjökull to Graenalon]({{ site.url }}/posts/iceland_trek/03_day)
+* [Day Four: from Graenalon to Eldgîgur]({{ site.url }}/posts/iceland_trek/04_day)
+* [Day Five: from Eldgîgur to Brúarárbotnar]({{ site.url }}/posts/iceland_trek/05_day)
+* [Day Six: from Brúarárbotnar to Hverfisfljót]({{ site.url }}/posts/iceland_trek/06_day)
+* [Day Seven: from Hverfisfljót to the Ring Road]({{ site.url }}/posts/iceland_trek/07_day)
 
 
 #### Notes

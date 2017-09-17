@@ -51,5 +51,5 @@ dried fruits and all sorts of soups in powder form.
 </figure>
 
 
-* [Back to the trek's homepage]({{ site.url }}/2017/09/15/iceland-trek/)
+* [Back to the trek's homepage]({{ site.url }}/2017/09/17/iceland-trek/)
 * [Day One: from Skaftafell to Blátindur]({{ site.url }}/posts/iceland_trek/01_day)

@@ -98,7 +98,7 @@ after a strenuous hike under heavy load surely? Damn you Blátindur!
 Conni can barely stand on her wobbly legs when she finally reaches the ridge to
 be rewarded with a more beautiful glacier sunset than she could have imagined.
 It’s magnificent, intimidating, it’s cold. We’re lucky there’s no wind at all.
-It’s much too late to think of going any further: we pitch the tent on a rocky 
+It’s much too late to think of going any further: we pitch the tent on a rocky
 spot with a slight angle, and we congratulate ourselves for an excellent camp
 on one of the most exposed ridges in Skaftafell. Not quite like in the handbook
 but hey, there’s at least that tiny stone ridge potentially protecting us
@@ -108,10 +108,10 @@ Pasta, good night. There was no wind.
 
 <figure>
     <a href="/images/blog/iceland/glacier_sun.JPG" >
-    <img src="/images/blog/iceland/glacier_sun.JPG" alt="Image missing" width="100%" />
+    <img src="/images/blog/iceland/glacier_sun_small.JPG" alt="Image missing" width="100%" />
     </a>
     <figcaption>Skeiðarárjökull glacier seen from our camping spot at Blátindur</figcaption>
 </figure>
 
-* [Back to the trek's homepage]({{ site.url }}/2017/09/15/iceland-trek/)
-* [Day Two]()
+* [Back to the trek's homepage]({{ site.url }}/2017/09/17/iceland-trek/)
+* [Day Two: from Blátindur to Skeiðarárjökull]({{ site.url }}/posts/iceland_trek/02_day)
