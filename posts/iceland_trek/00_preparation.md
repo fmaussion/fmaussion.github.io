@@ -16,8 +16,8 @@ two wise decisions that we didn't regret afterwards: we bought neoprene socks,
 and we changed the itinerary. We were going to start from Skaftafell instead (in
 order to have the most challenging bits of the trail right at the beginning),
 and instead of *crossing* the Hverfisfljót we would follow it towards the main
-road in the South (based on the recommendation of another Iceland fan and
-trekker [David Abadie](www.bigfootenislande.fr)).
+road in the South (based on the recommendation of another Iceland trekker
+  [David Abadie](www.bigfootenislande.fr)).
 
 Although there is no path, the trek is drawn on the Icelandic walking maps and,
 thankfully, on this [online map](https://en.ja.is/kort/?type=map&x=581801&y=410585&z=6).
@@ -42,6 +42,12 @@ carefully: we had supplies for 8 days (including 2 spare days) à
 2200 kCal a day, all veggie of course. All time favourites include
 peanuts (and peanut butter), muesli, pasta/couscous, soya granules,
 dried fruits and all sorts of soups in powder form.
+
+Before leaving Skaftafell we left an approximate itinerary on the
+[safetravel.is](http://safetravel.is/) portal, with an estimated date of
+arrival. In case we didn't contact them before that date they would send the
+rescue (at least this is what they say). Good we didn't need to check if this
+system works or not!
 
 <figure>
     <a href="/images/blog/iceland/groedel.JPG" >

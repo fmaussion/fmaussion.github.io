@@ -20,7 +20,7 @@ little information about the trail, the most comprehensive reports being
 that of [Dieter Graser's](http://www.isafold.de/graenalon06/default.htm) (in German)
 and [David Abadie's](http://www.bigfootenislande.fr) (in French) very useful websites.
 From their stories we knew that the trek wouldn't be an easy
-endeavor. We'd have to do some serious glacier and river crossings and we would
+endeavor. We'd have to do some glacier traverses, river crossings and we would
 have to navigate in wild, untouched landscapes.
 
 <figure>

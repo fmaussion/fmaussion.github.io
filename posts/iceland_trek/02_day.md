@@ -18,8 +18,8 @@ Good start!
     <a href="/images/blog/iceland/d2_wakeup.JPG" >
     <img src="/images/blog/iceland/d2_wakeup.JPG" alt="Image missing" width="100%" />
     </a>
-    <figcaption>The ridge towards Blátindur summit. We pitched our tent
-    not far from here.</figcaption>
+    <figcaption>On the way to Blátindur summit. We pitched our tent
+    on the ridge behind Conni.</figcaption>
 </figure>
 
 Other than that we feel recovered and a grey-blueish weather promises good
@@ -220,7 +220,7 @@ Conni silently agrees.
     <a href="/images/blog/iceland/d2_tent2.JPG" >
     <img src="/images/blog/iceland/d2_tent2.JPG" alt="Image missing" width="49%" />
     </a>
-    <figcaption>An unlikely spot to pith a tent. </figcaption>
+    <figcaption>An unlikely spot to pitch a tent. </figcaption>
 </figure>
 
 <figure>
