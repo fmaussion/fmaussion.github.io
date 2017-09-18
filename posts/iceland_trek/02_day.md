@@ -40,11 +40,11 @@ insane views over the glacier.
 Two snow fields and one steep moraine later we finally reach a point that allows
 easy passage onto Skeiðarárjökull, avoiding large meltwater lakes at the glacier
 edge reaching further eastwards. We put on our crampons – in view of the rugged
-glacier surface we've glad that we've taken them: carrying this extra weight
+glacier surface we're glad that we've taken them: carrying this extra weight
 won’t have been for nothing! In addition to our GPS tracks and the hiking map,
 we had printed out two [crevasse maps](http://safetravel.is/crevasse-maps/vatnajokull-2013/)
 indicating “danger zones” for both glaciers on our
-way.  Therefore, we already knew we could expect a rather friendly glacier to
+way. Therefore, we already knew we could expect a rather friendly glacier to
 start with, gradually developing into a monster. But we hadn’t expected such a
 clever, subtle monster with an unbelievable determination to keep us away, to
 slowly crush our spirit rather than our bodies. To intimidate us to our limits
@@ -65,12 +65,10 @@ sunshine and in a very good mood. The glacier surface is becoming rougher and
 rougher, forcing us to bounce up and down over ever growing ice bumps. Fabien
 rushes over the ice in impressive speed, taking bumps in long strides without
 having to climb up or down. Conni on the other hand, given her considerably
-shorter legs, has to jump around (rather than just make a step) between these
-bumps slowing her down and wearing her out. The bumps keep growing, just like
-the crevasses do. More and more of them, springing open to the left and the
-right, making us feel like in a labyrinth for the first time, making Fabien
-nervous.
-
+shorter legs, has to jump around between these bumps slowing her down and wearing 
+her out. The bumps keep growing, just like the crevasses do. More and more of them, 
+springing open to the left and the right, making us feel like in a labyrinth for 
+the first time, making Fabien nervous.
 
 
 <figure>
@@ -139,13 +137,13 @@ actual danger zones of this glacier.
     <a href="/images/blog/iceland/d2_meltingblack.JPG" >
     <img src="/images/blog/iceland/d2_meltingblack.JPG" alt="Image missing" width="100%" />
     </a>
-    <figcaption>Not a terrain you'd want to walk into. By such a sunny day the
+    <figcaption>Not a terrain you'd want to walk into. On such a sunny day the
     melting is so strong that one can actually see the water vapor escaping
     from the dirt. </figcaption>
 </figure>
 
-Closer and closer now come the peaks of an area the locals call the
-"black forest". Within the distance of a few metres the surroundings change
+Closer and closer now come the peaks of an area the locals call
+"the Black Forest". Within the distance of a few metres the surroundings change
 from friendly flat ice to a moonscape with huge gaping crevasses between
 ash-covered ice pyramids. The long line of black mountains stretches many
 kilometres in North-South direction, further than we can see from here.
