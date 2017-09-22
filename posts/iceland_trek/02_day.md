@@ -65,9 +65,9 @@ sunshine and in a very good mood. The glacier surface is becoming rougher and
 rougher, forcing us to bounce up and down over ever growing ice bumps. Fabien
 rushes over the ice in impressive speed, taking bumps in long strides without
 having to climb up or down. Conni on the other hand, given her considerably
-shorter legs, has to jump around between these bumps slowing her down and wearing 
-her out. The bumps keep growing, just like the crevasses do. More and more of them, 
-springing open to the left and the right, making us feel like in a labyrinth for 
+shorter legs, has to jump around between these bumps slowing her down and wearing
+her out. The bumps keep growing, just like the crevasses do. More and more of them,
+springing open to the left and the right, making us feel like in a labyrinth for
 the first time, making Fabien nervous.
 
 
@@ -124,7 +124,7 @@ Good joke!
 So far we roughly stuck to the GPS track corresponding to the path on the
 Sékort 5 map. The path made sense to us since it would stay away from vast
 orange "danger zones" directly to the West and South of
-Graenalon on the western side of the glacier. It would lead us through an area
+Grænalón on the western side of the glacier. It would lead us through an area
 where the indicated danger zone is comparably narrow and therefore seemed to be
 a wise choice. For comparison, the 2006 GPS track from Dieter Graser went far
 more south (see map below). In a quickly changing environment such as a glacier,
@@ -230,4 +230,4 @@ Conni silently agrees.
 </figure>
 
 * [Back to the trek's homepage]({{ site.url }}/2017/09/17/iceland-trek/)
-* [Day Three: from Skeiðarárjökull to Graenalon]({{ site.url }}/posts/iceland_trek/03_day)
+* [Day Three: from Skeiðarárjökull to Grænalón]({{ site.url }}/posts/iceland_trek/03_day)

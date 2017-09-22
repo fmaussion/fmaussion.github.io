@@ -5,7 +5,7 @@ image:
 title: From Skaftafell to Hverfisfljót, Day Four
 ---
 
-## Graenalon – Eldgîgur
+## Grænalón – Eldgîgur
 
 (In construction)
 
