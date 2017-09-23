@@ -12,13 +12,16 @@ modified: 2016-05-09
 : Model sensitivity of the mass-balance module of the [OGGM](http://oggm.org/) model
 
 **Schlumpberger, M.** (master thesis)
-: Wet and dry spells in the Rio Santa Basin, Peruvian Andes, and connections to the large scale circulation ([link](http://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/2115159))
+: Wet and dry spells in the Rio Santa Basin, Peruvian Andes, and connections to the large scale circulation ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-6985))
+
+**Zier, C.** (master thesis, co-supervised)
+: Wie beeinflussen großskalige Wetterstrukturen das lokale Wetter in den Anden von Chile? Ein Downscaling Experiment ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-7092))
 
 
 ### 2016
 
 **Zolles, T.** (master thesis)
-: Uncertainty estimation of a glacier mass balance model ([link](http://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/1651787))
+: Uncertainty estimation of a glacier mass balance model ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-5240))
 
 **Oberrauch, M.** (bachelor thesis)
 : Calibration and validation of a glacier model applied to the Upper Grindelwald Glacier from 1880 to present

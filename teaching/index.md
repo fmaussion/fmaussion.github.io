@@ -71,12 +71,23 @@ explains it in a little more detail)
 **Thorlaksson, D.** (master thesis)
 : Improving the ice thickness estimation module of the [OGGM](http://oggm.org/) model
 
+**Hartmann, M.** (master thesis)
+: Sources of air masses and moisture during wet and dry spells in the Rio Santa
+  basin, Peruvian Andes
+
+**Hatvan, V.** (master thesis @ UNIS Svalbard, co-supervised)
+: Evaluation of the physical SNOWPACK model under arctic conditions
+
+**Kilian, M.** (master thesis @ DWD, co-supervised)
+: Chemische Veränderung der globalen Atmosphäre nach Vulkanausbrüchen in globalen Klima-Chemie Modellsimulationen
+
 Click [here]({{ site.url }}/teaching/theses) for the list of past advisees.
 
 ## All courses
 
 Semester | Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Level | Institution&nbsp; | Evaluation |
 :---|:---|:---|:---|:---|:---|
+Summer 2017 | The Cryosphere in the Climate System | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2017SS_Cryo.pdf) |
 Winter 2016/17 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2016WS_PhyClim.pdf) |  
 Winter 2016/17 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2016WS_EKlim.pdf) |  
 Winter 2016/17 | Literature seminar glaciology / climatology | Graduate | ACINN | not evaluated |
