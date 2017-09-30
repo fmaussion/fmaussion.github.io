@@ -10,7 +10,7 @@ Here is a list of the projects I contribute to:
 
 ### OGGM
 
-[OGGM](https://github.com/OGGM/oggm) is an open source glacier model written
+[OGGM](http://oggm.org) is an open source glacier model written
 in python. Among other things, OGGM participated to the
 [Ice Thickness Models Intercomparison eXperiment](http://fabienmaussion.info/2016/06/18/itmix-experiment-phase1/).
 
@@ -37,7 +37,7 @@ to longer time periods in a semi-automated manner.
 
 ### motionless
 
-[motionless](https://github.com/ryancox/motionless), is a Python library that
+[motionless](https://github.com/ryancox/motionless) is a Python library that
 takes the pain out of generating Google Static Map URLs.
 
 ### Other projects

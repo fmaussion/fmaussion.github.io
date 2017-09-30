@@ -78,7 +78,7 @@ explains it in a little more detail)
 **Hatvan, V.** (master thesis @ UNIS Svalbard, co-supervised)
 : Evaluation of the physical SNOWPACK model under arctic conditions
 
-**Kilian, M.** (master thesis @ DWD, co-supervised)
+**Kilian, M.** (master thesis @ DLR, co-supervised)
 : Chemische Veränderung der globalen Atmosphäre nach Vulkanausbrüchen in globalen Klima-Chemie Modellsimulationen
 
 Click [here]({{ site.url }}/teaching/theses) for the list of past advisees.
