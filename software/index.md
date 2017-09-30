@@ -12,7 +12,7 @@ Here is a list of the projects I contribute to:
 
 [OGGM](http://oggm.org) is an open source glacier model written
 in python. Among other things, OGGM participated to the
-[Ice Thickness Models Intercomparison eXperiment](http://fabienmaussion.info/2016/06/18/itmix-experiment-phase1/).
+[Ice Thickness Models Intercomparison eXperiment](http://oggm.org/2016/06/18/itmix-experiment-phase1/).
 
 ### xarray
 
