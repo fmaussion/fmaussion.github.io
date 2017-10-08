@@ -7,20 +7,20 @@ title: From Skaftafell to Hverfisfljót, Day Four
 
 ## Grænalón – Eldgígur
 
-After sunset it got extremely windy. A sand storm is battering our tent and Fabien's door herring gets loose. We have to go out and check all other herrings in haste. It’s around 3am and white mist mystically lightens the sky. It flickers here and there and quickly changes shape - the play of Northern Lights that aren’t strong enough to show any colour. The wind is surprisingly mild and allows us to admire them a bit longer before we tighten all guylines and go back to sleep.
+After sunset it got extremely windy. A sand storm is battering our tent and loosens a crucial herring on Fabien's side. In a haste, we have to scramble outside to save our tent from being blown over and to check all other herrings. It’s around 3am and something that looks like white mist mystically lightens the sky. It flickers here and there and quickly changes shape - the play of Northern Lights that aren’t strong enough to show any colour. The wind is surprisingly mild and allows us to admire them a bit longer before we tighten all guylines and go back to sleep.
 
 In the morning we’re in silent mental preparation for the river crossing. Conni doesn’t even bother with putting on socks or shoes but dismantles the tent wearing her neoprene socks and Crocs. Unsurprisingly, we’re also not very hungry so breakfast is quickly dealt with.
 The very few options we have to attempt to wade through the river are all a few steps away from our camp. On the river's far side a dark wet line looms out of the water and indicates a drop in the water level during the night of slightly more than 5cm. Better than nothing, we think. Any a tiny weakening of the current could make all the difference.
 
-We quickly reiterate our river-crossing safety rules: open your rucksack straps, cross where the river is widest, don’t cross in a bend, turn around when the water level reaches up to your thighs - you have much less control when your knees are under water. Sounds sensible enough! Fabien starts a first attempt at the widest bit of river and stands knee high in the water after only four steps. He turns around with a questioning look on his face. Right, let’s drop the "no higher than knee" rule.
+We quickly reiterate our river-crossing safety rules: open your rucksack straps, cross where the river is widest, don’t cross in a bend, turn around when the water level reaches up to your thighs - you have much less control when your knees are under water. Sounds sensible enough! Fabien starts a first attempt at the widest bit of river and stands knee high in the water after only four steps. He turns around with a questioning look on his face. Right, let’s drop the "no higher than knee"-rule.
 
 <figure>
     <a href="/images/blog/iceland/d4_river.JPG" >
     <img src="/images/blog/iceland/d4_river.JPG" alt="Image missing" width="100%" />
     </a>
     <figcaption>The river at the location we crossed it. The big stone in the
-    forefront was giving shelter to Fabien when he reached Conni's hand. The
-    water level at that point was 10 cm below her hip.</figcaption>
+    foreground was giving shelter to Fabien when he reached for Conni's hand. The
+    water level at that point was about 10 cm below her hip.</figcaption>
 </figure>
 
 We give it a second try, this time together, but feel overwhelmed by the current after we’re not even halfway through. In spite of the neoprene socks, Conni’s feet have reached almost painfully low temperatures after further unfruitful waddling in the freezing water. What are the alternatives? There is one last potential crossing point to test, wider than the others but uncomfortably closer to the deep cascade just behind a bend. Conni needs to warm up her feet and is rather intimidated by now. It is therefore up to Fabien to brace himself for a sole pretest. He targets a friendly looking sandy spot on the other side of the river and sets off from where he can follow a diagonal against the current. Carefully Fabien makes his way forward and it really looks promising until he reaches the last quarter. All of a sudden his steps are slowing down as he desperately looks back, dangerously staggering for a moment. There is no point in trying to turn around now. Fighting the water masses with all his strength, he hauls himself to the other side. With a bewildered look on his face, he paces up and down the river bank, cursing loudly. And here we are, separated by a ghastly glacier river.
@@ -58,7 +58,7 @@ Having scrambled up the steep giant steps, we find ourselves in a vast stony des
     <a href="/images/blog/iceland/d4_easy.JPG" >
     <img src="/images/blog/iceland/d4_easy.JPG" alt="Image missing" width="100%" />
     </a>
-    <figcaption>Friendly rivers, happy Conni.</figcaption>
+    <figcaption>Friendly rivers, good mood!</figcaption>
 </figure>
 
 We’re now moving along the southern edge of the Vatnajökull ice cap and navigate through the Beinadalur valley. The glaciers didn't leave much behind: a barren nothingness sliced by freezing rivers.
@@ -74,8 +74,8 @@ We’re now moving along the southern edge of the Vatnajökull ice cap and navig
     <a href="/images/blog/iceland/d4_secondpb.JPG" >
     <img src="/images/blog/iceland/d4_secondpb.JPG" alt="Image missing" width="100%" />
     </a>
-    <figcaption>The second problem of the day. We are too far North and have
-    to walk down the river for about 500 m before finding a spot to cross.</figcaption>
+    <figcaption>The second problem of the day. We are too far North - where the river is carved into a gorge - and have
+    to walk downstream for about 500 m before finding a spot to cross.</figcaption>
 </figure>
 
 Consequently we have to cross three more rivers but none of these is even close to comparable to the first one. We even elaborate our technique by crossing at the same time and staying at the same height, with Fabien crossing upstream such that he - just in case - slightly weakens the current for Conni.
@@ -101,10 +101,10 @@ The scenery is so wide, rough and pure that all our exhaustion seems forgotten w
     <a href="/images/blog/iceland/satellite_art.jpg" >
     <img src="/images/blog/iceland/satellite_art_s.jpg" alt="Image missing" width="100%" />
     </a>
-    <figcaption>Space (God?) art (click for a high resolution image).</figcaption>
+    <figcaption>Our footsteps seen from space (click for a high resolution image).</figcaption>
 </figure>
 
- With a great view of Siðujökull and the impressively black Hágöngur, we make camp at the foot of the blazingly red Eldgígur. What an amazing play of colours this landscape has to offer anew each day!
+ With a great view of Siðujökull and the impressively black Hágöngur, we make camp at the foot of the blazingly red Eldgígur. What an amazing play of colours this landscape has to offer each day anew!
 
  <figure>
      <a href="/images/blog/iceland/d4_redcamp.JPG" >
