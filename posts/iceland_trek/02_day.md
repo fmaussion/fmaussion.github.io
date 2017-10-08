@@ -22,7 +22,7 @@ Good start!
     on the ridge behind Conni.</figcaption>
 </figure>
 
-Other than that we feel recovered and a grey-blueish weather promises good
+Other than that, we feel recovered and a grey-blueish weather promises good
 conditions for the glacier traverse. By day we can now clearly see the ridge
 that will lead us all the way to the edge of Skeiðarárjökull – not a short walk
 and somewhat exposed but compared to the day before a rather nice scramble with
@@ -45,11 +45,10 @@ won’t have been for nothing! In addition to our GPS tracks and the hiking map,
 we had printed out two [crevasse maps](http://safetravel.is/crevasse-maps/vatnajokull-2013/)
 indicating “danger zones” for both glaciers on our
 way. Therefore, we already knew we could expect a rather friendly glacier to
-start with, gradually developing into a monster. But we hadn’t expected such a
+start with, gradually developing into a very hostile environment.
+But we hadn’t expected such a
 clever, subtle monster with an unbelievable determination to keep us away, to
-slowly crush our spirit rather than our bodies. To intimidate us to our limits
-with an uppermost hostile environment rather than going for a full
-frontal attack.
+slowly crush our spirit rather than our bodies.
 
 
 <figure>
@@ -86,10 +85,10 @@ traverse would be, the glacier has the atmosphere of someone who won’t let go
 of you quite so easily. Fabien on the other hand, being the glaciologist he is,
 felt more optimistic and was therefore prone to a deeper fall in terms of
 morale. Struggling with finding a way through the first heavily crevassed
-section (orange on glacier map) he couldn’t stop himself from exclaiming
-“Oooooh Conni, this doesn’t look good”. This in itself is quite funny in
-hindsight since that section was absolutely nothing compared to the true grim
-face that was waiting for us.
+section (orange on the glacier map) he exclaimed his first
+“Oh Conni, this doesn’t look good” (it wouldn't be the last one).
+This in itself is quite funny in hindsight since that section was absolutely
+nothing compared to the true grim face that was waiting for us.
 
 <figure>
     <a href="/images/blog/iceland/d2_blackroad.JPG" >
@@ -103,7 +102,7 @@ Luckily, not long after, the heavily crevassed section would give way to a
 friendlier terrain again interspersed with black heaps of ash hiding plain ice.
 In such areas of friendly small crevasses we soon realise it’s a good idea to
 actually look for and then follow them. Friendly crevasses are the quickest way
-to travel since obviously, where there’s a crevasse you can’t have a bump. Even
+to travel since, obviously, where there’s a crevasse you can’t have a bump. Even
 better than friendly crevasses are ash streets though, like flat black highways.
 For the first time we enjoy ourselves enough to admire the glorious play of
 colours surrounding us: black and white fighting for dominance, embraced from
@@ -127,7 +126,7 @@ orange "danger zones" directly to the West and South of
 Grænalón on the western side of the glacier. It would lead us through an area
 where the indicated danger zone is comparably narrow and therefore seemed to be
 a wise choice. For comparison, the 2006 GPS track from Dieter Graser went far
-more south (see map below). In a quickly changing environment such as a glacier,
+more south. In a quickly changing environment such as a glacier,
 any kind of track should be used with caution. Although we contacted the
 Icelandic Mountain Guides, Dieter Graser and David Abadie for general
 information on the glacier traverse, we weren’t quite prepared for the
@@ -179,8 +178,8 @@ that we won’t leave this glacier today.
 In two more attempts we cross the first line of mountains, searching for a
 passage over the second line but we repeatedly find ourselves stuck in a
 labyrinth of impassable crevasses and walls of ice. Fabien always makes sure we
-have the exact waypoints for a retreat - no chance of doing anything without
-GPS in this terrain. But what are the chances of finding a direct passage over
+have the exact waypoints for a retreat - without a GPS, no chance in this
+terrain. But what are the odds of finding a direct passage over
 not only one of these obstacles but over all three of them? We feel despair
 welling up. Of course we’re not in immediate danger as long as we don’t jump
 into any of these crevasses but our entire tour is at stake. Will we have to
@@ -199,9 +198,9 @@ positivity left.
 
 As we climb another particularly wide pyramid on the second
 range of ice mountains we’re discussing the options of trying our luck further
-to the North or South. But the ranges are long and stay quite high as far as
+to the North or South. But the ranges are long and stay high as far as
 we can see. We’re doubtful and on top of that we need to find a place to sleep.
-Fabien is already complaining about how cold a night on the ice will be when Conni
+Fabien complains about how cold a night on the ice will be when Conni
 bursts out “Why can’t we stay here then? It’s warmer and soft, looks comfortable!”
 – we’re standing on a flat bit directly on the peak of one of the ice giants
 with at least 1m of sand and ash piled on top. It’s the kind of material in

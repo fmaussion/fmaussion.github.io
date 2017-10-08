@@ -11,10 +11,10 @@ The bus from Reykjavík arrives at Skaftafell in the early afternoon.
 Although the original plan had been to spend the rest of the day in Skaftafell
 for preparations and some relaxed sight-seeing, we feel that we should take
 advantage of the magnificent weather. Unlikely enough, the forecast promises
-at least four more days of relatively stable weather with
+at least four more days of (relatively) stable weather with
 only little rain, which seems to us like a gift from heaven.
 We are well aware that the difficult terrain we will face over the next
-few days will be more than enough of a challenge for us. Starting this odyssey
+few days will be more than enough of a challenge for us: starting this odyssey
 with the prospect of typical bad Icelandic weather with no visibility,
 horizontal rain and wind gusts knocking you over wouldn’t have been an option.
 So we leave the crowd of tourists at the Visitor Center and take off at 4 p.m.
@@ -31,7 +31,7 @@ The rucksacks are heavy with eight days’ worth of food and some extra three
 litres of water pressing down on our shoulders (we don’t expect to find much
 water until on/after Skeiðarárjökull). Fortunately, the first few kilometres
 are part of the normal hiking network and therefore well maintained and
-absolutely flat. This however doesn’t change the fact that we’ll have to climb
+absolutely flat. But we know that soon we’ll have to climb
 just over 1000 m through pathless terrain (not entirely though,
 as we’ll happily discover) to come near our intended first camping spot.
 
@@ -39,7 +39,7 @@ as we’ll happily discover) to come near our intended first camping spot.
     <a href="/images/blog/iceland/d1_valley.JPG" >
     <img src="/images/blog/iceland/d1_valley.JPG" alt="Image missing" width="100%" />
     </a>
-    <figcaption>Towards the Blánúhkadalur valley with its small canyon.</figcaption>
+    <figcaption>Towards the Blánúhkadalur valley.</figcaption>
 </figure>
 
 Surprisingly, reaching the Blánúhkadalur valley demands skill in stumbling

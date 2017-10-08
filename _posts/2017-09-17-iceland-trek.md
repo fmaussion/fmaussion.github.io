@@ -21,7 +21,7 @@ that of [Dieter Graser's](http://www.isafold.de/graenalon06/default.htm) (in Ger
 and [David Abadie's](http://www.bigfootenislande.fr) (in French) very useful websites.
 From their stories we knew that the trek wouldn't be an easy
 endeavor. We'd have to do some glacier traverses, river crossings and we would
-have to navigate in wild, untouched landscapes.
+have to navigate in untouched areas.
 
 <figure>
     <a href="/images/blog/iceland/glacier_sun.JPG" >
@@ -31,14 +31,14 @@ have to navigate in wild, untouched landscapes.
 </figure>
 
 The trek fulfilled all our expectations: it was a truly wild adventure rewarded
-with wonderful, magical landscapes that we had to share with no other
-(we didn't see any other human being during the seven days of our trip).
+with wonderful landscapes.
 
 **Disclaimer**: *We decided to write a description of our itinerary here,
 and trekkers might find this information useful. However, we'd like to
-emphasize that this information is given with no warranty and that this trek
-should not be taken lightly. The walk isn't technically difficult, but is
-remote and engaged. The conditions in Iceland are very variable, and
+emphasize that this information is given with no warranty.
+The walk isn't technically difficult, but is
+remote and engaged (we didn't see any other human being during the seven days
+of our trip). The conditions in Iceland are very variable, and
 the glacier and river crossings can be significantly more challenging in bad
 weather conditions. The glacier traverse, in particular, has changed
 considerably in comparison to Dieter Graser's description in
