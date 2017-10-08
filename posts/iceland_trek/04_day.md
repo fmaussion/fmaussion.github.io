@@ -5,9 +5,9 @@ image:
 title: From Skaftafell to Hverfisfljót, Day Four
 ---
 
-## Grænalón – Eldgîgur
+## Grænalón – Eldgígur
 
-After sunset it got extremely windy. A sand storm is battering our tent and Fabien's door herring gets loose. We have to go out and check all other herrings in haste. The wind is surprisingly mild and allows us to have a look at the sky. White stripes mystically lightens the sky. It flickers here and there and quickly changes shape - the play of Northern Lights that aren’t strong enough to show any colour. It’s around 3am, and we go back to sleep.
+After sunset it got extremely windy. A sand storm is battering our tent and Fabien's door herring gets loose. We have to go out and check all other herrings in haste. It’s around 3am and white mist mystically lightens the sky. It flickers here and there and quickly changes shape - the play of Northern Lights that aren’t strong enough to show any colour. The wind is surprisingly mild and allows us to admire them a bit longer before we tighten all guylines and go back to sleep.
 
 In the morning we’re in silent mental preparation for the river crossing. Conni doesn’t even bother with putting on socks or shoes but dismantles the tent wearing her neoprene socks and Crocs. Unsurprisingly, we’re also not very hungry so breakfast is quickly dealt with.
 The very few options we have to attempt to wade through the river are all a few steps away from our camp. On the river's far side a dark wet line looms out of the water and indicates a drop in the water level during the night of slightly more than 5cm. Better than nothing, we think. Any a tiny weakening of the current could make all the difference.
@@ -58,7 +58,7 @@ Having scrambled up the steep giant steps, we find ourselves in a vast stony des
     <a href="/images/blog/iceland/d4_easy.JPG" >
     <img src="/images/blog/iceland/d4_easy.JPG" alt="Image missing" width="100%" />
     </a>
-    <figcaption>Friendly rivers, happy mood.</figcaption>
+    <figcaption>Friendly rivers, happy Conni.</figcaption>
 </figure>
 
 We’re now moving along the southern edge of the Vatnajökull ice cap and navigate through the Beinadalur valley. The glaciers didn't leave much behind: a barren nothingness sliced by freezing rivers.
@@ -67,15 +67,15 @@ We’re now moving along the southern edge of the Vatnajökull ice cap and navig
     <a href="/images/blog/iceland/d4_notmuch.JPG" >
     <img src="/images/blog/iceland/d4_notmuch.JPG" alt="Image missing" width="100%" />
     </a>
-    <figcaption>There's not much here.</figcaption>
+    <figcaption>There's not much here...</figcaption>
 </figure>
 
 <figure>
     <a href="/images/blog/iceland/d4_secondpb.JPG" >
     <img src="/images/blog/iceland/d4_secondpb.JPG" alt="Image missing" width="100%" />
     </a>
-    <figcaption>The second problem of the day. We are too farth North and have
-    to walk down the river about 500 m before finding a spot to cross.</figcaption>
+    <figcaption>The second problem of the day. We are too far North and have
+    to walk down the river for about 500 m before finding a spot to cross.</figcaption>
 </figure>
 
 Consequently we have to cross three more rivers but none of these is even close to comparable to the first one. We even elaborate our technique by crossing at the same time and staying at the same height, with Fabien crossing upstream such that he - just in case - slightly weakens the current for Conni.
@@ -84,27 +84,27 @@ Consequently we have to cross three more rivers but none of these is even close 
     <a href="/images/blog/iceland/d4_fabi.JPG" >
     <img src="/images/blog/iceland/d4_fabi.JPG" alt="Image missing" width="100%" />
     </a>
-    <figcaption>Vatnajökull's outlet glaciers in the background.</figcaption>
+    <figcaption>Vatnajökull's outlet glaciers.</figcaption>
 </figure>
 
-The scenery is so wide, rough and pure that all our exhaustion seems forgotten when we cross the last lava field in the late afternoon. This place is surreal an island of green and white colours stands in what looks like a lake that dried out. The soil is sandy and we almost feel ashamed to leave our footsteps behind.
+The scenery is so wide, rough and pure that all our exhaustion seems forgotten when we cross the last lava field in the late afternoon. An island of green and white colours stands in what looks like a lake that dried out. The soil is sandy and we almost feel ashamed to leave our footsteps behind.
 
 <figure>
     <a href="/images/blog/iceland/d4_improbable.JPG" >
     <img src="/images/blog/iceland/d4_improbable.JPG" alt="Image missing" width="100%" />
     </a>
-    <figcaption>An improbable landscape.</figcaption>
+    <figcaption>The last hours of the day seem surreal. We walk on a lake of sand,
+    with the Eldgígur and Hágöngur mountains in the background</figcaption>
 </figure>
 
 <figure>
     <a href="/images/blog/iceland/satellite_art.jpg" >
     <img src="/images/blog/iceland/satellite_art_s.jpg" alt="Image missing" width="100%" />
     </a>
-    <figcaption>The same landscape seen from space (click for a high resolution image).</figcaption>
+    <figcaption>Space (God?) art (click for a high resolution image).</figcaption>
 </figure>
 
  With a great view of Siðujökull and the impressively black Hágöngur, we make camp at the foot of the blazingly red Eldgígur. What an amazing play of colours this landscape has to offer anew each day!
-
 
  <figure>
      <a href="/images/blog/iceland/d4_redcamp.JPG" >

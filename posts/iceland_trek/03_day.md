@@ -116,4 +116,4 @@ However, our route through the Black Forest might not be the best choice for the
 
 
 * [Back to the trek's homepage]({{ site.url }}/2017/09/17/iceland-trek/)
-* [Day Four: from Grænalón to Eldgîgur]({{ site.url }}/posts/iceland_trek/04_day)
+* [Day Four: from Grænalón to Eldgígur]({{ site.url }}/posts/iceland_trek/04_day)

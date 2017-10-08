@@ -57,7 +57,7 @@ the future.*
 * [Day One: from Skaftafell to Blátindur]({{ site.url }}/posts/iceland_trek/01_day)
 * [Day Two: from Blátindur to Skeiðarárjökull]({{ site.url }}/posts/iceland_trek/02_day)
 * [Day Three: from Skeiðarárjökull to Grænalón]({{ site.url }}/posts/iceland_trek/03_day)
-* [Day Four: from Grænalón to Eldgîgur]({{ site.url }}/posts/iceland_trek/04_day)
+* [Day Four: from Grænalón to Eldgígur]({{ site.url }}/posts/iceland_trek/04_day)
 * [Day Five: from Eldgîgur to Brúarárbotnar]({{ site.url }}/posts/iceland_trek/05_day)
 * [Day Six: from Brúarárbotnar to Hverfisfljót]({{ site.url }}/posts/iceland_trek/06_day)
 * [Day Seven: from Hverfisfljót to the Ring Road]({{ site.url }}/posts/iceland_trek/07_day)
