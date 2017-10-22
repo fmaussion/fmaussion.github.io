@@ -57,8 +57,8 @@ What is left are high terraces of sand indicating past lake levels, like a stair
     oberved on <a href="https://earthengine.google.com/iframes/timelapse_player_embed.html#v=64.17486,-17.39815,11.022,latLng&t=0.00"><u>Google Timelapse</u></a> </figcaption>
 </figure>
 
-With the euphoria of the successful glacier traverse fading, Conni has time to find new reasons to worry. “You know what”, she says, “I think now we’ll be trapped between a hell of a glacier and a hell of a glacier river. You’ll see.” And yes, that’s what we would see.
-Following footsteps of mountain guide groups along the Grænalón banks we can already see the river that would be the cause of our arguably most stupid decision leading to the most dangerous situation on this trip.
+With the euphoria of the successful glacier traverse fading, Conni has time to find new reasons to worry. “You know what”, she says, “I think now we’ll be trapped between this glacier and some frightening glacier river. You’ll see.” - which would turn out to be quite correct.
+Following footprints of mountain guide groups along the Grænalón banks we can already see the river that would be the cause of the most dangerous situation on this trip.
 
 <figure>
     <a href="/images/blog/iceland/d3_grae_3.JPG" >
@@ -69,7 +69,7 @@ Following footsteps of mountain guide groups along the Grænalón banks we can a
     </a>
 </figure>
 
-Innocently glittering in the sunshine, we see it fanning out in several big streams in what used to be the lake. We knew we would have to cross it somewhere - this would have been our moment to cross it where it’s spread out and in a wide flat terrain. But that would’ve meant to climb down all those giant stairs - and up again. In addition it was hard to tell whether the old lakebed might be muddy to the degree of sinking in.
+Innocently glittering in the sunshine, we see it fanning out in several big streams in what used to be the lake. We knew we would have to cross it somewhere and this would have been our moment to cross it where it’s spread out in a wide flat terrain. But that would’ve meant to climb down all those giant stairs - and up again. In addition it was hard to tell whether the old lakebed might be muddy to the degree of sinking in.
 
 <figure>
     <a href="/images/blog/iceland/d3_flowers.JPG" >
@@ -79,8 +79,8 @@ Innocently glittering in the sunshine, we see it fanning out in several big stre
     source of water creates beautiful oases.</figcaption>
 </figure>
 
-In any case, we trust our GPS track (and some footsteps here and there), which suggests that this river can be crossed further upstream. So we head several kilometres further upstream - but of course the river doesn’t become any friendlier.
-When we arrive at the point of river crossing according to our map and GPS, we’re standing in an area where the river is deeply carved into a small valley with mostly steep slopes and only very few points that would allow a crossing at all (if you planned to actually be able to get out of the river on the other side). Ugh, how we missed that sick feeling in our stomach.
+In any case, we trust our GPS track (and some more footprints here and there), which suggests that this river can be crossed further upstream. So we head several kilometres further upstream - but of course the river doesn’t become any friendlier.
+When we arrive at the point of the river crossing according to our map and GPS, we’re standing in an area where the river is deeply carved into a small valley with mostly steep slopes and only very few points that would allow a traverse at all (if you planned to actually be able to get out of the river on the other side). Ugh, how we missed that sick feeling in our stomach.
 We walk up and down our new grey-murky gurgling obstacle, not able to enjoy the tumbling masses of water in the rapids, let alone the cascade right behind the would-be crossing point. The sound of a river usually tells you what to expect when trying to cross it and the sound of this glacier river pretty clearly stated “stay away”.
 
 We instantly decide to camp on the river bank. At least there would be less water in the morning and we absolutely don’t feel like dealing with a problem of that margin the same day we survived the Black Forest. It’s pretty clear to us by now that this tour would be a continuous problem solving. The uneasy feeling of not knowing what kind of crazy challenge comes next would be our constant companion. Of course, the fact that we have no cell phone reception out here and couldn’t call for help if anything happened doesn’t ease the tension.
@@ -109,7 +109,7 @@ We knew from the hiking map that the guides now traverse the
 Black Forest much more to the North (orange line) than Dieter Graser did
 in 2006 (pink). We found it basically impossible to cross at the location
 suggested by both tracks, unless maybe by chance. Our solution (walking
-at least 1km North than the suggested track) turned out to be quite
+at least 1km further north than the suggested track) turned out to be quite
 good.
 
 However, our route through the Black Forest might not be the best choice for the glacier passage to Grænalón. In hindsight we discussed potential routes passing way further south, avoiding the area completely. However, it’s worth to point out that a passage in the South necessitates redirecting northward behind the Black Forest in order to reach Grænalón. This passage leads through heavily crevassed sections in which crevasses mostly lie perpendicular to the track direction. We recommend to check Bing maps (yes, Bing maps, not Google, the latter is not up to date and the images are of inferior quality) for the current state of the glacier when you plan your trip. The satellite images show very clearly the direction of crevasses and the state of the Black Forest. And no, we hadn’t checked these images before our trip. But on the other hand we’re not sure we would’ve changed anything if we had, due to discussed reasons. A possibly much easier alternative might have been to change the itinerary and aim for leaving the glacier somewhere close to the GPS coordinates 64° 6.220'N, 17° 21.285'W. We would’ve missed Grænalón (but hey, it’s only a puddle now anyway) but we could’ve without problems headed north through Núpsá valley to hit the normal track again. Oh - and we wouldn’t have had to deal with the glacier river.
