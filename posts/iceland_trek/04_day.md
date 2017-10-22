@@ -10,7 +10,7 @@ title: From Skaftafell to Hverfisfljót, Day Four
 After sunset it got extremely windy. A sand storm is battering our tent and loosens a crucial herring on Fabien's side. In a haste, we have to scramble outside to save our tent from being blown over and to check all other herrings. It’s around 3am and something that looks like white mist mystically lightens the sky. It flickers here and there and quickly changes shape - the play of Northern Lights that aren’t strong enough to show any colour. The wind is surprisingly mild and allows us to admire them a bit longer before we tighten all guylines and go back to sleep.
 
 In the morning we’re in silent mental preparation for the river crossing. Conni doesn’t even bother with putting on socks or shoes but dismantles the tent wearing her neoprene socks and Crocs. Unsurprisingly, we’re also not very hungry so breakfast is quickly dealt with.
-The very few options we have to attempt to wade through the river are all a few steps away from our camp. On the river's far side a dark wet line looms out of the water and indicates a drop in the water level during the night of slightly more than 5cm. Better than nothing, we think. Any a tiny weakening of the current could make all the difference.
+The very few options we have to attempt to wade through the river are all a few steps away from our camp. On the river's far side a dark wet line looms out of the water and indicates a drop in the water level during the night of slightly more than 5cm. Better than nothing, we think. Any tiny weakening of the current could make all the difference.
 
 We quickly reiterate our river-crossing safety rules: open your rucksack straps, cross where the river is widest, don’t cross in a bend, turn around when the water level reaches up to your thighs - you have much less control when your knees are under water. Sounds sensible enough! Fabien starts a first attempt at the widest bit of river and stands knee high in the water after only four steps. He turns around with a questioning look on his face. Right, let’s drop the "no higher than knee"-rule.
 
@@ -74,7 +74,7 @@ We’re now moving along the southern edge of the Vatnajökull ice cap and navig
     <a href="/images/blog/iceland/d4_secondpb.JPG" >
     <img src="/images/blog/iceland/d4_secondpb.JPG" alt="Image missing" width="100%" />
     </a>
-    <figcaption>The second problem of the day. We are too far North - where the river is carved into a gorge - and have
+    <figcaption>The second problem of the day. We are too far north - where the river is carved into a gorge - and have
     to walk downstream for about 500 m before finding a spot to cross.</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Consequently we have to cross three more rivers but none of these is even close 
     <figcaption>Vatnajökull's outlet glaciers.</figcaption>
 </figure>
 
-The scenery is so wide, rough and pure that all our exhaustion seems forgotten when we cross the last lava field in the late afternoon. An island of green and white colours stands in what looks like a lake that dried out. The soil is sandy and we almost feel ashamed to leave our footsteps behind.
+The scenery is so wide, rough and pure that all our exhaustion seems forgotten when we traverse the last lava field in the late afternoon. An island of green and white colours stands in what looks like a lake that dried out. The soil is sandy and we almost feel ashamed to leave our footprints behind.
 
 <figure>
     <a href="/images/blog/iceland/d4_improbable.JPG" >
@@ -101,7 +101,7 @@ The scenery is so wide, rough and pure that all our exhaustion seems forgotten w
     <a href="/images/blog/iceland/satellite_art.jpg" >
     <img src="/images/blog/iceland/satellite_art_s.jpg" alt="Image missing" width="100%" />
     </a>
-    <figcaption>Our footsteps seen from space (click for a high resolution image).</figcaption>
+    <figcaption>Our footprints seen from space in this pristine landscape (click for a high resolution image). The red peak is Eldgígur. </figcaption>
 </figure>
 
  With a great view of Siðujökull and the impressively black Hágöngur, we make camp at the foot of the blazingly red Eldgígur. What an amazing play of colours this landscape has to offer each day anew!
