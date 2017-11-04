@@ -47,9 +47,9 @@ As we reach the southern edge of the plateau, we can already see the sea at the 
     </a>
 </figure>
 
-If we take the direct route, we could reach the ring road in the late afternoon
-today. Instead, we decide to stick to our original plan and to make a detour
-in the direction of Hnúta to have a look at the dreaded Hverfisfljót and this
+If we took the direct route, we could reach the ring road in the late afternoon
+today. Instead, we decide to stick to our original plan to make a detour
+in the direction of Hnúta for having a look at the dreaded Hverfisfljót and this
 extraordinary thing we could see there, we were told (only we had no idea what
 that thing could be; thanks again David!).
 
@@ -102,7 +102,7 @@ natural bridge over the Hverfisfljót whilst following the river further southwa
 *Note: David went much closer to the canyon and took
 <u><a href="https://sway.com/y0spzxrzePHcMxN4/">impressive pictures</a></u>.
 It seems that the river isn't really subterranean: the canyon is so narrow
-that it is not visible from below.*
+that it is just not visible from below.*
 
 <figure>
     <a href="/images/blog/iceland/d6_hydro.JPG" >
