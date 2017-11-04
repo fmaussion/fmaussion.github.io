@@ -60,7 +60,7 @@ What do they expect when there’s nowhere else to go?!
     <a href="/images/blog/iceland/d7_conni.JPG" >
     <img src="/images/blog/iceland/d7_conni.JPG" alt="Image missing" width="100%" />
     </a>
-    <figcaption>Soup, Skyr, internet and dry clothes - luxury!.</figcaption>
+    <figcaption>Soup, Skyr, internet and dry clothes - luxury!</figcaption>
 </figure>
 
 We reserve a whole corner of the dining room and indecently do exactly all of

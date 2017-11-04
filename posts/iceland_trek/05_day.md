@@ -75,13 +75,10 @@ uninvitingly deep valley made of a muddy ice-sand mishmash, separating us from
 the saving ice. How come that nothing here can be simple?
 
 <figure>
-    <a href="/images/blog/iceland/d5_badriver.JPG" >
-    <img src="/images/blog/iceland/d5_badriver.JPG" alt="Image missing" width="100%" />
+    <a href="/images/blog/iceland/d5_welcome.JPG" >
+    <img src="/images/blog/iceland/d5_welcome.JPG" alt="Image missing" width="100%" />
     </a>
-    <figcaption>There are good reasons to prefer the glacier to its forefield:
-    mud is one of them, and huge meltwater rivers are another. This particular
-    one must flow right below our feet before being disgorged with
-    violence.</figcaption>
+    <figcaption>The "welcoming" sight of Siðujökull.</figcaption>
 </figure>
 
 Walking up and down the ridge of our moraine, we find a spot to slide into the
@@ -97,10 +94,10 @@ which give the mud more stability. Slightly disappointed with the straightforwar
 solution Conni hurries behind.  
 
 <figure>
-    <a href="/images/blog/iceland/d5_welcome.JPG" >
-    <img src="/images/blog/iceland/d5_welcome.JPG" alt="Image missing" width="100%" />
+    <a href="/images/blog/iceland/d5_friendly.JPG" >
+    <img src="/images/blog/iceland/d5_friendly.JPG" alt="Image missing" width="100%" />
     </a>
-    <figcaption>The "welcoming" sight of Siðujökull.</figcaption>
+    <figcaption>What a friendly glacier!</figcaption>
 </figure>
 
 Siðujökull turns out to be a perfectly friendly glacier in this area. With
@@ -112,10 +109,13 @@ at all. Sunshine is now breaking through the fog and turns the glacier into a
 bright glittering sea of white and turquoise.
 
 <figure>
-    <a href="/images/blog/iceland/d5_friendly.JPG" >
-    <img src="/images/blog/iceland/d5_friendly.JPG" alt="Image missing" width="100%" />
+    <a href="/images/blog/iceland/d5_badriver.JPG" >
+    <img src="/images/blog/iceland/d5_badriver.JPG" alt="Image missing" width="100%" />
     </a>
-    <figcaption>What a friendly glacier!</figcaption>
+    <figcaption>There are good reasons to prefer the glacier to its forefield:
+    mud is one of them, and huge meltwater rivers are another. This particular
+    one must flow right below our feet before being disgorged with
+    violence.</figcaption>
 </figure>
 
 In the distance immense rivers emerge from beneath the glacier tongue.
