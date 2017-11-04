@@ -1,7 +1,7 @@
 ---
 layout: page
 image:
-  feature: fm-header-1.jpg
+  feature: fm-header-7.jpg
 title: "About"
 modified: 2016-05-12
 ---
@@ -24,6 +24,7 @@ Site hosted on <a href="https://pages.github.com/" rel="nofollow"> GitHub</a>, p
 * [Teaching]({{ site.url }}/images/fm-header-4.jpg): Zhadang Glacier, Mount Nyainqêntanglha (7162 m a.s.l.), and Nam Co lake (Tibet)
 * [Software]({{ site.url }}/images/fm-header-5.jpg): Prins Karls Forland (Svalbard)
 * [Posts]({{ site.url }}/images/fm-header-6.jpg): Valley on the way to Naimona’nyi Glacier (Tibet)
+* [About]({{ site.url }}/images/fm-header-7.jpg): Landmannalaugar, Iceland
 
 
 ### Other things
