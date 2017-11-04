@@ -47,6 +47,15 @@ and rightly so since one of his shoes resembles an abstract sculpture made of
 clay with his entire sock nicely woven in. We’re feeling slightly trapped -
 not a new sensation on this trip but something you can’t get used to.
 
+<figure>
+    <a href="/images/blog/iceland/map_glacier_2_large.jpg" >
+    <img src="/images/blog/iceland/map_glacier_2_small.jpg" alt="Image missing" width="100%" />
+    </a>
+    <figcaption>Unless we walked on the glacier without noticing it, even recent
+    images show a larger glacier than we've seen in August. The river we are
+    trying to avoid, however, is clearly visible.</figcaption>
+</figure>
+
 
 We don’t know where exactly we should look for the glacier and we’re standing in
 the midsts of patchy man-devouring quicksand! We’re voting for a semi-retreat
@@ -158,6 +167,12 @@ start of the Brúará river, which is supposed to follow a beautiful valley.
 We end our day in a mossy meadow next to the river which is, judging from
 very well-fertilised areas, often frequented by geese and sheep.
 Today is definitely a micropur day!
+
+<figure>
+    <a href="/images/blog/iceland/d5_flowers.JPG" >
+    <img src="/images/blog/iceland/d5_flowers.JPG" alt="Image missing" width="100%" />
+    </a>
+</figure>
 
 <figure>
     <a href="/images/blog/iceland/d5_camp.JPG" >
