@@ -141,7 +141,7 @@ field under a suddenly blue sky. Again, we feel guilty to leave any evidence of
 our passage in this perfectly smooth and untouched landscape so Conni enjoys
 herself by walking in Fabien’s footsteps for a while. For the first time in days,
 we spot a flock of tiny birds hopping around sparse tufts of grass, finally
-confirming our approach to more habitable surroundings. Having climbed the the
+confirming our approach to more habitable surroundings. Having climbed the
 Kálfafellsfjallsendi plateau, we get a wonderful view that allows us to trace
 back our previous days and to wave goodbye to the lava deserts, the glaciers
 and their mighty rivers.
@@ -178,7 +178,7 @@ Today is definitely a micropur day!
     <a href="/images/blog/iceland/d5_camp.JPG" >
     <img src="/images/blog/iceland/d5_camp.JPG" alt="Image missing" width="100%" />
     </a>
-    <figcaption>Our camp at the source of the Brúará river.</figcaption>
+    <figcaption>Our camp at the spring of the Brúará river.</figcaption>
 </figure>
 
 
