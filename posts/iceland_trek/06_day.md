@@ -36,7 +36,7 @@ obstacles to worry about anymore, we take our time today to soak up the scenery.
     <a href="/images/blog/iceland/d6_bruara2.JPG" >
     <img src="/images/blog/iceland/d6_bruara2.JPG" alt="Image missing" width="49.9%" />
     </a>
-    <figcaption>... but it quickly transforms in an impressive basaltic canyon.</figcaption>
+    <figcaption>... but it quickly transforms into an impressive basaltic canyon.</figcaption>
 </figure>
 
 As we reach the southern edge of the plateau, we can already see the sea at the horizon - almost back in civilisation!
@@ -45,9 +45,7 @@ As we reach the southern edge of the plateau, we can already see the sea at the 
     <a href="/images/blog/iceland/d6_far.JPG" >
     <img src="/images/blog/iceland/d6_far.JPG" alt="Image missing" width="100%" />
     </a>
-   <figcaption>The Brúará river bed is small at first...</figcaption>
 </figure>
-
 
 If we take the direct route, we could reach the ring road in the late afternoon
 today. Instead, we decide to stick to our original plan and to make a detour
@@ -59,7 +57,7 @@ that thing could be; thanks again David!).
     <a href="/images/blog/iceland/d6_traverse.JPG" >
     <img src="/images/blog/iceland/d6_traverse.JPG" alt="Image missing" width="100%" />
     </a>
-   <figcaption>Trough the Núpahraun lava field towards Hverfisfljót.</figcaption>
+   <figcaption>Through the Núpahraun lava field towards Hverfisfljót.</figcaption>
 </figure>
 
 <figure>
@@ -78,6 +76,7 @@ a big tuft of grass sitting lonely right on top, punks!
     <a href="/images/blog/iceland/d6_punk.JPG" >
     <img src="/images/blog/iceland/d6_punk.JPG" alt="Image missing" width="100%" />
     </a>
+   <figcaption>Punk boulder!</figcaption>
 </figure>
 
 When we arrive at a spot from where we should see the Hverfisfljót tumbling down
@@ -100,10 +99,10 @@ vanishes into the depth of this channel before reappearing at the foot of Hnúta
 
 We don’t go any closer to verify but still discuss the possible existence of a
 natural bridge over the Hverfisfljót whilst following the river further southward.
-*Note: David went much closer to the subterranean canyon and took
+*Note: David went much closer to the canyon and took
 <u><a href="https://sway.com/y0spzxrzePHcMxN4/">impressive pictures</a></u>.
-We recommend having a look at his blog.*
-
+It seems that the river isn't really subterranean: the canyon is so narrow
+that it is not visible from below.*
 
 <figure>
     <a href="/images/blog/iceland/d6_hydro.JPG" >
