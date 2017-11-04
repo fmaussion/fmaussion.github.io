@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: homepage
 image:
   feature: fm-header-7.jpg
 title: "About"
