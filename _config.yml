@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Fabien Maussion
-description: "Climate, glaciers, and scientific programming."
+bio: "Climate, glaciers, and other things."
 locale: en_US
 url: http://fabienmaussion.info
 # url: http://localhost:4000
@@ -31,7 +31,7 @@ kramdown:
 owner:
   name: Fabien Maussion
   avatar: fabi-portrait.jpg
-  bio: "Climate, glaciers, and scientific programming."
+  bio: "Climate, glaciers, and other things."
   github: fmaussion
   bitbucket: fmaussion
   orcid: 0000-0002-3211-506X
