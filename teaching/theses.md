@@ -17,6 +17,9 @@ modified: 2016-05-09
 **Zier, C.** (master thesis, co-supervised)
 : Wie beeinflussen großskalige Wetterstrukturen das lokale Wetter in den Anden von Chile? Ein Downscaling Experiment ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-7092))
 
+**Thorlaksson, D.** (master thesis)
+: Calibrating a glacier ice thickness model from in-situ point measurements ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/1945420))
+
 
 ### 2016
 

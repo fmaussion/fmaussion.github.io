@@ -51,10 +51,11 @@ for graduate students (every semester, 2hrs).
 ## Workshops
 
 I give workshops related to programming, open-source and open-science
-topics. Two of my recent presentations are available online:
+topics. Some of my recent presentations are available online:
 
 - **31.01.2017**: [Getting started with Python](http://fabienmaussion.info/acinn_python_workshop/)
 - **07.02.2017**: [xarray: multi-dimensional data analysis in Python](http://fabienmaussion.info/acinn_xarray_workshop)
+- **07.02.2017**: [What open-source can do for you and what you can do for open-source](http://fabienmaussion.info/acinn_pres_os)
 
 (if you are curious about the tool I used to generate these presentations,
 [this blog post]({{ site.url }}/2017/02/18/html-presentations-w-rise/))
@@ -65,11 +66,11 @@ explains it in a little more detail)
 **Cerny, M.** (master thesis)
 : Drivers of recent lake level changes on the Tibetan Plateau
 
-**Siller, M.** (master thesis)
-: WRF simulation of wet and dry spells in the Rio Santa Basin, Peruvian Andes
+**Göbel, M.** (master thesis)
+: From case-studies to climate: laying the ground for a long-term WRF simulation in Peru
 
-**Thorlaksson, D.** (master thesis)
-: Improving the ice thickness estimation module of the [OGGM](http://oggm.org/) model
+**Gregor, P.** (master thesis)
+: Glacier ice thickness inversion using regulariztion approaches
 
 **Hartmann, M.** (master thesis)
 : Sources of air masses and moisture during wet and dry spells in the Rio Santa
@@ -80,6 +81,9 @@ explains it in a little more detail)
 
 **Kilian, M.** (master thesis @ DLR, co-supervised)
 : Chemische Veränderung der globalen Atmosphäre nach Vulkanausbrüchen in globalen Klima-Chemie Modellsimulationen
+
+**Siller, M.** (master thesis)
+: WRF simulation of wet and dry spells in the Rio Santa Basin, Peruvian Andes
 
 Click [here]({{ site.url }}/teaching/theses) for the list of past advisees.
 
