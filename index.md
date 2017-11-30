@@ -24,7 +24,7 @@ I graduated from the French aerospace engineering school
 [ISAE-Supaero](http://www.isae.fr/en) in 2008.
 
 
-![ACINN Logo](http://acinn.uibk.ac.at/sites/all/themes/imgi/images/acinn_logo.png)
+![ACINN Logo](/images/acinn_logo.png)
 {: .image-pull-right .max-width-20}
 
 ### Contact
