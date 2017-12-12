@@ -14,11 +14,14 @@ modified: 2016-05-09
 **Schlumpberger, M.** (master thesis)
 : Wet and dry spells in the Rio Santa Basin, Peruvian Andes, and connections to the large scale circulation ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-6985))
 
-**Zier, C.** (master thesis, co-supervised)
-: Wie beeinflussen großskalige Wetterstrukturen das lokale Wetter in den Anden von Chile? Ein Downscaling Experiment ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-7092))
+**Siller, M.** (master thesis)
+: WRF simulation of wet and dry spells in the Rio Santa Basin, Peruvian Andes - A WRF Modeling Case Study ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-7816))
 
 **Thorlaksson, D.** (master thesis)
-: Calibrating a glacier ice thickness model from in-situ point measurements ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/1945420))
+: Calibrating a glacier ice thickness model from in-situ point measurements ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-7259))
+
+**Zier, C.** (master thesis, co-supervised)
+: Wie beeinflussen großskalige Wetterstrukturen das lokale Wetter in den Anden von Chile? Ein Downscaling Experiment ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-7092))
 
 
 ### 2016
