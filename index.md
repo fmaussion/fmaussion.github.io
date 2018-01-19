@@ -2,7 +2,7 @@
 layout: homepage
 image:
   feature: fm-header-1.jpg
-title: "About me"
+title: "About"
 ---
 
 <footer role="contentinfo">
@@ -13,7 +13,7 @@ title: "About me"
 
 
 I am an assistant professor at the
-[Institute of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at/),
+[Department of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at/),
  part of the [Research Centre for Climate](https://www.uibk.ac.at/climate-cryosphere/)
 at the University of Innsbruck.
 
