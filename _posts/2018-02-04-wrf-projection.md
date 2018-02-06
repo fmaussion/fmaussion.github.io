@@ -113,10 +113,6 @@ always centered in its own projection) but it is required for the child domains
 and see how they compare to the original WRF ones:
 
 ```python
-bad_proj = pyproj.Proj(proj='lcc', # projection type: Lambert Conformal Conic
-                       lat_1=ds.TRUELAT1, lat_2=ds.TRUELAT2, # Cone intersects with the sphere
-                       lat_0=ds.MOAD_CEN_LAT, lon_0=ds.STAND_LON, # Center point
-                       ) # The Earth is now an ellipsoid
 # Transform and plot
 our_lons, our_lats = pyproj.transform(wrf_proj, wgs_proj, xx, yy)
 ds['DIFF'] = np.sqrt((our_lons - ds.XLONG_M)**2 + (our_lats - ds.XLAT_M)**2)
@@ -131,6 +127,10 @@ wgs84 ellipsoid instead?
 
 
 ```python
+bad_proj = pyproj.Proj(proj='lcc', # projection type: Lambert Conformal Conic
+                       lat_1=ds.TRUELAT1, lat_2=ds.TRUELAT2, # Cone intersects with the sphere
+                       lat_0=ds.MOAD_CEN_LAT, lon_0=ds.STAND_LON, # Center point
+                       ) # The Earth is now an ellipsoid
 bad_lons, bad_lats = pyproj.transform(bad_proj, wgs_proj, xx, yy)
 ds['DIFF2'] = np.sqrt((bad_lons - ds.XLONG_M)**2 + (bad_lats - ds.XLAT_M)**2)
 print('The max diff is: {}'.format(ds['DIFF2'].max().values))
