@@ -120,8 +120,9 @@ and most of the research data and the publications I contributed to
 are open access.
 
 
-## Research projects I participated to:
+## Research projects:
 
-* [Dynamic Response of Glaciers on the Tibetan Plateau to Climate Change](http://www.klima.tu-berlin.de/index.php?show=forschung_asien_tibet&lan=en) (PhD project)
-* [Variability and Trends in Water Balance Components of Benchmark Drainage Basins on the Tibetan Plateau](http://www.klima.tu-berlin.de/index.php?show=forschung_asien_tibet_wet&lan=en) (Scientific Coordinator)
-* [Multidecadal to Centennial Climate Variability: Assessing the Conditions for the Glaciation of Tropical Mountains](http://acinn.uibk.ac.at/research/ice-and-climate/projects/climvar) (Post Doc)
+* [The Upper Grindelwald Glacier as indicator for Holocene climate variability](http://acinn.uibk.ac.at/research/ice-and-climate/projects/grindelwald) (2018-2020, PI)
+* [Multidecadal to Centennial Climate Variability: Assessing the Conditions for the Glaciation of Tropical Mountains](http://acinn.uibk.ac.at/research/ice-and-climate/projects/climvar) (2010-2014, Post Doc)
+* [Variability and Trends in Water Balance Components of Benchmark Drainage Basins on the Tibetan Plateau](http://www.klima.tu-berlin.de/index.php?show=forschung_asien_tibet_wet&lan=en) (2011-2014, Scientific Coordinator)
+* [Dynamic Response of Glaciers on the Tibetan Plateau to Climate Change](http://www.klima.tu-berlin.de/index.php?show=forschung_asien_tibet&lan=en) (2008-2014, PhD project)

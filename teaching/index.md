@@ -34,6 +34,15 @@ climate change and feedbacks.
 </figure>
 
 
+### VU - Scientific Programming
+
+[Advanced course in programming](https://orawww.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=18S&lvnr_id_in=707716)
+for graduate students (winter semester, 2+1hrs). Modern programming techniques for (geo-)scientists:
+numerics, software structure, unit testing, object oriented programming, version control, open development practices...
+
+The lecture notes are [available online](http://fabienmaussion.info/scientific_programming/).
+
+
 ### VU - The Cryosphere in the Climate System
 
 [Advanced course in glaciology](https://orawww.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=16S&lvnr_id_in=707711)
@@ -44,8 +53,8 @@ balance of a glacier surface.
 
 ### SE - Literature seminar glaciology / climatology
 
-[Paper discussion group](http://acinn-litsem.readthedocs.io)
-for graduate students (every semester, 2hrs).
+[Paper discussion group](https://acinn-litsem.github.io/)
+for graduate students (winter semester, 2hrs).
 
 
 ## Workshops
@@ -63,14 +72,8 @@ explains it in a little more detail)
 
 ## Student advisees
 
-**Cerny, M.** (master thesis)
-: Drivers of recent lake level changes on the Tibetan Plateau
-
-**Göbel, M.** (master thesis)
-: From case-studies to climate: laying the ground for a long-term WRF simulation in Peru
-
 **Gregor, P.** (master thesis)
-: Glacier ice thickness inversion using regulariztion approaches
+: Glacier ice thickness inversion using regularization approaches
 
 **Hartmann, M.** (master thesis)
 : Sources of air masses and moisture during wet and dry spells in the Rio Santa
@@ -84,10 +87,12 @@ explains it in a little more detail)
 
 Click [here]({{ site.url }}/teaching/theses) for the list of past advisees.
 
-## All courses
+## Past courses and student evaluations
 
 Semester | Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Level | Institution&nbsp; | Evaluation |
 :---|:---|:---|:---|:---|:---|
+Winter 2017/18 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2017WS_PhyClim.pdf) |  
+Winter 2017/18 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2017WS_EKlim.pdf) |
 Summer 2017 | The Cryosphere in the Climate System | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2017SS_Cryo.pdf) |
 Winter 2016/17 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2016WS_PhyClim.pdf) |  
 Winter 2016/17 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2016WS_EKlim.pdf) |  
