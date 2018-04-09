@@ -37,7 +37,7 @@ the glacier geometrical widths; (c) inversion of the glacier thickness using a m
 and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.</figcaption>
 </figure>
 
-**Relevant publications:** [Farinotti et al., 2017](https://www.the-cryosphere.net/11/949/2017/); [in preparation](https://github.com/OGGM/oggm)
+**Relevant publications:** [Maussion et al., 2018](https://www.geosci-model-dev-discuss.net/gmd-2018-9/); [Farinotti et al., 2017](https://www.the-cryosphere.net/11/949/2017/)
 
 
 ### Climate of the Tibetan Plateau
