@@ -9,7 +9,7 @@ modified: 2016-05-09
 I teach various courses[^1] at the ACINN, mostly for students
 in [atmospheric sciences](http://acinn.uibk.ac.at/education-imgi).
 
-<a href="http://fabienmaussion.info/scientific_programming" color="red"> Click here</a> <font color="red">if you are here for the Scientific Programming lecture notes.</font>
+<a href="http://fabienmaussion.info/scientific_programming"  style="color:red"> Click here</a> <font color="red">if you are here for the Scientific Programming lecture notes.</font>
 
 [^1]: VO ("Vorlesung", regular lectures) VU ("Vorlesung mit Übung", lectures with integrated practicals), and SE ("Seminars").
 
@@ -44,6 +44,16 @@ numerics, software structure, unit testing, object oriented programming, version
 
 The lecture notes are [available online](http://fabienmaussion.info/scientific_programming/).
 
+
+### VU - Transparency and communication in Earth Sciences
+
+[Elective module](https://orawww.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=18S&lvnr_id_in=707823)
+for graduate students (2hrs). Taking "the influence of artificial snow production on climate" as an example for a research topic,
+the students get acquainted with several
+fundamental tenets of open science: Open Data, Open Peer Review, Open Methodology, Open Source, Open Educational Outreach.
+
+Among other things, the students have to set-up a [website](https://transparency-lecture.github.io) which
+summarizes their result to a broader audience.
 
 ### VU - The Cryosphere in the Climate System
 

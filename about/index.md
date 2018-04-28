@@ -8,7 +8,7 @@ modified: 2016-05-12
 
 <span><i class="fa fa-creative-commons"></i> 2016 - {{ site.time | date: '%Y' }} {{ site.owner.name }}.</span>
 
-The views expressed on this site are personnal and do not necessarily represent the official positions of my employers.
+The views expressed on this site are personal and do not necessarily represent the official positions of my employers.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
 
