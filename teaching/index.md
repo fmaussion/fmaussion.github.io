@@ -77,6 +77,7 @@ topics. Some of my recent presentations are available online:
 - **31.01.2017**: [Getting started with Python](http://fabienmaussion.info/acinn_python_workshop/)
 - **07.02.2017**: [xarray: multi-dimensional data analysis in Python](http://fabienmaussion.info/acinn_xarray_workshop)
 - **07.11.2017**: [What open-source can do for you and what you can do for open-source](http://fabienmaussion.info/acinn_pres_os)
+- **05.06.2018**: [Create your own website with git and github-pages]({{ site.url }}/teaching/git-jekyll-workshop)
 
 (if you are curious about the tool I used to generate these presentations,
 [this blog post]({{ site.url }}/2017/02/18/html-presentations-w-rise/))
