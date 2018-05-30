@@ -45,13 +45,13 @@ git (e.g. obtained from the first workshop).
 ## Installation instructions (Workshop 1)
 
 If you wish to actively participate during the workshop (highly recommended,
-regardless if you wish to build a website or not), you will have to bring 
+regardless if you wish to create a website or not), you will have to bring 
 your own laptop and install git and jekyll prior to the event. 
 Both tools are fairly easy to install and should 
 work on all three major operating systems (Windows/Mac/Linux).
 
 **Alternatively**, you will be able to use the university computers in the 
-EDV room (for the git part only, unfortunately). If you haven't done so already, 
+EDV room. If you haven't done so already, 
 [request a linux account](https://orawww.uibk.ac.at/public_prod/owa/uvw$web$10.p001)
 at ZID.
 
@@ -90,7 +90,7 @@ directory:
 ### Optional: creating a github account
 
 If you plan to host your webpage on [github pages](https://pages.github.com/)
-(free) or if you plan to use github for personal or open source projects,
+(free) or if you plan to use github for opersonal or open source projects,
 I recommend to create a [github account](https://github.com/join). 
 Personally, I run my github account [under my real name](https://github.com/fmaussion) 
 and affiliation, because I consider github to be a professional platform and an extension 
