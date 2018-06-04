@@ -2,7 +2,7 @@
 layout: page
 image:
   feature: fm-header-4.jpg
-title: "Workshop: create your own website with git and github-pages"
+title: "Workshop: create your own website with jekyll and github-pages"
 modified: 2018-05-29
 ---
 
