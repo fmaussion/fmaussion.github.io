@@ -48,7 +48,7 @@ The slides of the first presentation are available [here](http://fabienmaussion.
 
 ## Presentation (Workshop 2)
 
-The slides of the second presentation are available [here]http://fabienmaussion.info/git-intermediate-ws/).
+The slides of the second presentation are available [here](http://fabienmaussion.info/git-intermediate-ws/).
 
 
 ## Installation instructions (Workshop 1)
