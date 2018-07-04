@@ -48,7 +48,7 @@ If you google a little bit you'll find many posts the subject. From all these
 information, I particularly like this illustration by
 [Pavel Krč](http://www.pkrc.net/wrf-lambert.html):
 
-<img src="http://www.pkrc.net/static/wrf-lambert.png" alt="Image missing" width="60%" />
+<img src="/images/blog/wrf_proj/wrf-lambert.png" alt="Image missing" width="60%" />
 
 The figure makes three points:
 
