@@ -20,9 +20,9 @@ in python. Among other things, OGGM participates to the
 and the [Glacier Model Intercomparison Project](http://www.climate-cryosphere.org/activities/targeted/glaciermip).
 
 
-<a href="http://xarray.pydata.org"><img src="http://xarray.pydata.org/en/latest/_static/dataset-diagram-logo.png" width="200"></a>
+<a href="http://xarray.pydata.org"><img src="https://xarray.pydata.org/en/latest/_static/dataset-diagram-logo.png" width="200"></a>
 
-[Xarray](http://xarray.pydata.org) is a Python library to handle labeled,
+[Xarray](https://xarray.pydata.org) is a Python library to handle labeled,
 multi-dimensional datasets widely used in the geosciences.
 Xarray is a fiscally sponsored project of [NumFOCUS](https://numfocus.org/).
 
