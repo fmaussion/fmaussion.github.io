@@ -55,6 +55,10 @@ fundamental tenets of open science: Open Data, Open Peer Review, Open Methodolog
 Among other things, the students have to set-up a [website](https://transparency-lecture.github.io) which
 summarizes their result to a broader audience.
 
+<figure>
+    <a href="https://transparency-lecture.github.io"><img src="/images/teaching/transp.jpg"></a>
+</figure>
+
 ### VU - The Cryosphere in the Climate System
 
 [Advanced course in glaciology](https://orawww.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=16S&lvnr_id_in=707711)
@@ -83,27 +87,16 @@ topics. Some of my recent presentations are available online:
 [this blog post]({{ site.url }}/2017/02/18/html-presentations-w-rise/))
 explains it in a little more detail)
 
-## Student advisees
-
-**Gregor, P.** (master thesis)
-: Glacier ice thickness inversion using regularization approaches
-
-**Hartmann, M.** (master thesis)
-: Sources of air masses and moisture during wet and dry spells in the Rio Santa
-  basin, Peruvian Andes
-
-**Hatvan, V.** (master thesis @ UNIS Svalbard, co-supervised)
-: Evaluation of the physical SNOWPACK model under arctic conditions
-
-**Kilian, M.** (master thesis @ DLR, co-supervised)
-: Chemische Veränderung der globalen Atmosphäre nach Vulkanausbrüchen in globalen Klima-Chemie Modellsimulationen
-
-Click [here]({{ site.url }}/teaching/theses) for the list of past advisees.
 
 ## Past courses and student evaluations
 
 Semester | Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Level | Institution&nbsp; | Evaluation |
 :---|:---|:---|:---|:---|:---|
+Winter 2018/19 |Scientific Programming | Graduate | ACINN | Not yet evaluated |  
+Winter 2018/19 | Physics of the climate system | Graduate | ACINN | Not yet evaluated |  
+Winter 2018/19 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | Not yet evaluated |
+Summer 2018 | Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018SS_SciPro.pdf) |
+Summer 2018 | Transparency and communication in Earth Sciences | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018SS_Transparency.pdf) |
 Winter 2017/18 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2017WS_PhyClim.pdf) |  
 Winter 2017/18 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2017WS_EKlim.pdf) |
 Summer 2017 | The Cryosphere in the Climate System | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2017SS_Cryo.pdf) |

@@ -37,7 +37,7 @@ the glacier geometrical widths; (c) inversion of the glacier thickness using a m
 and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.</figcaption>
 </figure>
 
-**Relevant publications:** [Maussion et al., 2018](https://www.geosci-model-dev-discuss.net/gmd-2018-9/); [Farinotti et al., 2017](https://www.the-cryosphere.net/11/949/2017/)
+**Relevant publications:** [Maussion et al., 2018](https://www.geosci-model-dev-discuss.net/gmd-2018-9/); [Marzeion et al., 2018](https://www.nature.com/articles/s41558-018-0093-1); [Goosse et al., 2018](https://www.clim-past.net/14/1119/2018/cp-14-1119-2018.html); [Farinotti et al., 2017](https://www.the-cryosphere.net/11/949/2017/)
 
 
 ### Climate of the Tibetan Plateau
@@ -61,7 +61,7 @@ and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.
 </figure>
 
 **Relevant publications:**
-[Maussion et al., 2014](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-13-00282.1); [Curio et al., 2015](http://www.earth-syst-dynam.net/6/109/2015/esd-6-109-2015.html)
+[Mölg et al., 2017](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JD027414); [Maussion et al., 2014](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-13-00282.1); [Curio et al., 2015](http://www.earth-syst-dynam.net/6/109/2015/esd-6-109-2015.html)
 
 
 ### Dynamical downscaling with the WRF model
@@ -120,9 +120,13 @@ and most of the research data and the publications I contributed to
 are open access.
 
 
-## Research projects:
+## Grants:
 
-* [The Upper Grindelwald Glacier as indicator for Holocene climate variability](http://acinn.uibk.ac.at/research/ice-and-climate/projects/grindelwald) (2018-2020, PI)
+### Current
+* [The Upper Grindelwald Glacier as indicator for Holocene climate variability](http://acinn.uibk.ac.at/research/ice-and-climate/projects/grindelwald) (2018-2019, PI)
+* [Modelling glacier length changes in Alps on the base of tree-ring based temperature reconstructions for the last 2500 years](http://acinn.uibk.ac.at/research/ice-and-climate/projects/glacier-length) (2018-2021, PI)
+
+### Past
 * [Multidecadal to Centennial Climate Variability: Assessing the Conditions for the Glaciation of Tropical Mountains](http://acinn.uibk.ac.at/research/ice-and-climate/projects/climvar) (2010-2014, Post Doc)
 * [Variability and Trends in Water Balance Components of Benchmark Drainage Basins on the Tibetan Plateau](http://www.klima.tu-berlin.de/index.php?show=forschung_asien_tibet_wet&lan=en) (2011-2014, Scientific Coordinator)
 * [Dynamic Response of Glaciers on the Tibetan Plateau to Climate Change](http://www.klima.tu-berlin.de/index.php?show=forschung_asien_tibet&lan=en) (2008-2014, PhD project)

@@ -3,8 +3,7 @@
 title: Fabien Maussion
 bio: "Climate, glaciers, and other things."
 locale: en_US
-url: https://fabienmaussion.info
-# url: http://localhost:4000
+url: 
 image:
   feature: fm-header-1.jpg
 
@@ -41,7 +40,7 @@ owner:
   stackoverflow: #http://stackoverflow.com/users/123456/username
   email:
   disqus-shortname: fmaussion
-  twitter:
+  twitter: oggm1
   facebook: #username
   google:
     plus: #username

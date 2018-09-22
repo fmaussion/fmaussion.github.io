@@ -8,6 +8,9 @@ modified: 2016-05-09
 
 ### 2018
 
+**Kilian, M.** (master thesis @ DLR, co-supervised)
+: Impact of the Eruption of Mt. Pinatubo on the chemical composition of the tropical atmosphere as simulated with EMAC
+
 **Cerny, M.** (master thesis)
 : Lake-level changes on the Tibetan Plateau and their Relation to Glacial Melt ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/2347464))
 

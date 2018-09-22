@@ -6,18 +6,26 @@ title: "Software"
 ---
 
 I like writing code and getting involved in open-source software development.
-Here is a list of the projects I contribute to:
 
-### OGGM
+I am a member of <a href="https://numfocus.org/"><img src="https://numfocus.org/wp-content/uploads/2018/01/optNumFocus_LRG.png" height="10"></a>, a nonprofit dedicated
+to supporting the open source scientific computing community.
+
+Here is a list of the projects I actively contribute to:
+
+<a href="http://oggm.org"><img src="https://docs.oggm.org/en/latest/_static/logo.png" width="200"></a>
 
 [OGGM](http://oggm.org) is an open source glacier model written
-in python. Among other things, OGGM participated to the
-[Ice Thickness Models Intercomparison eXperiment](http://oggm.org/2016/06/18/itmix-experiment-phase1/).
+in python. Among other things, OGGM participates to the
+[Ice Thickness Models Intercomparison eXperiment](http://oggm.org/2016/06/18/itmix-experiment-phase1/)
+and the [Glacier Model Intercomparison Project](http://www.climate-cryosphere.org/activities/targeted/glaciermip).
 
-### xarray
 
-[xarray](http://xarray.pydata.org), is a Python library to handle labeled,
+<a href="http://xarray.pydata.org"><img src="http://xarray.pydata.org/en/latest/_static/dataset-diagram-logo.png" width="200"></a>
+
+[Xarray](http://xarray.pydata.org) is a Python library to handle labeled,
 multi-dimensional datasets widely used in the geosciences.
+Xarray is a fiscally sponsored project of [NumFOCUS](https://numfocus.org/).
+
 
 ### Salem
 
