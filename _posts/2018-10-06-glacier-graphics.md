@@ -74,4 +74,4 @@ your feedback as well as improvement suggestions.
 Thanks to [Kevin Pluck](https://twitter.com/kevpluck) from [Pixel Movers & Makers](https://pixelmoversandmakers.com/) we now have an animated GIF too!
 
 <img src="https://raw.githubusercontent.com/OGGM/glacier-graphics/master/glacier_intro/gif/glacier.gif"
-alt="Image missing" width="100%" /></a>
+alt="Image missing" width="100%" />
