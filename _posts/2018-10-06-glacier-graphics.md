@@ -11,19 +11,19 @@ draft: false
 comments: true
 ---
 
-This week I had to prepare a 30 min presentation for an audience of scientists
-with no glaciological background. I wanted to explain some basic concepts
-of glaciology, such as accumulation, ablation, equilibrium line altitude and
-mass movements in a glacier.
+Last week I had to prepare a presentation for an audience with no
+glaciological background. I wanted to explain some basic concepts
+of glaciology such as **accumulation**, **ablation**,
+**equilibrium line altitude** and **mass movement** in a glacier.
 
-Since I'm no good at drawing and I thought these kind of graphics might be
-useful on other occasions, I asked a professional graphic designer
+Since I'm no good at drawing and I thought that such graphics might be
+useful for further occasions, I asked a professional graphic designer
 (who also happens to be my sister) to make a series of simple
-glacier graphics that I could click through while explaining the major
+glacier graphics that I could click through while explaining the
 concepts.
 
-Here is the result (click on the images for a larger version and to
-scroll between them):
+Here is the result *(click on the images for a larger version and to
+scroll between them)*:
 
 
 <a href="https://raw.githubusercontent.com/OGGM/glacier-graphics/master/glacier_intro/png/glacier_01.png">
@@ -70,3 +70,8 @@ all these graphics (as well as some other plots) on a
 
 **Don't hesitate to leave us some comments here or on Github**! We'd love to hear
 your feedback as well as improvement suggestions.
+
+Thanks to [Kevin Pluck](https://twitter.com/kevpluck) from [Pixel Movers & Makers](https://pixelmoversandmakers.com/) we now have an animated GIF too!
+
+<img src="https://raw.githubusercontent.com/OGGM/glacier-graphics/master/glacier_intro/gif/glacier.gif"
+alt="Image missing" width="100%" /></a>
