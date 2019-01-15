@@ -42,18 +42,3 @@ modified: 2016-05-09
 
 **Gstir, T.**  (bachelor thesis)
 : Klimasensitivität des Oberen Grindelwaldgletschers untersucht mithilfe des [OGGM](http://oggm.org/)s
-
-
-### 2013
-
-**Klein, C.** (master thesis)
-: Analysis of air temperature near-surface altitudinal gradients on the Tibetan Plateau
-
-**Discher, V.** (bachelor thesis)
-: Extreme precipitation events over the Tibetan Plateau and their spatial and temporal variability
-
-
-### 2011
-
-**Klein, C.** (bachelor thesis)
-: Validation of the WRF mesoscale numerical atmospheric model: a toolbox prototype for data analysis and visualisation
