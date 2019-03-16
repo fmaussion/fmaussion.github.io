@@ -32,6 +32,7 @@ Site hosted on <a href="https://pages.github.com/" rel="nofollow"> GitHub</a>, p
 
 
 In my spare time I enjoy hiking and climbing mountains, making pictures, and
-playing music. During my time in Toulouse and Berlin I had the chance to play
+playing music. I started a new music project in Innsbruck recently: [Dreizimmerwohnung](http://dreizimmerwohnung.info/).
+During my time in Toulouse and Berlin I had the chance to play
 with the great bands [Inti Watana](https://www.jamendo.com/artist/348758/inti-watana/albums), [Warum Nicht!](http://wnband.wixsite.com/warum-nicht), and
 [Silly Circus Band](http://sillycircusband.bandcamp.com/).
