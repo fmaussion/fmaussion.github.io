@@ -22,7 +22,8 @@ topics I am interested into:
 </figure>
 
 **Relevant publications:**
-[Maussion et al., 2015](http://www.the-cryosphere.net/9/1663/2015/); [Mölg et al., 2012](http://www.the-cryosphere.net/6/1445/2012/); [Mölg et al., 2014](http://www.nature.com/nclimate/journal/v4/n1/full/nclimate2055.html)
+[Maussion et al., 2015](http://www.the-cryosphere.net/9/1663/2015/); [Mölg et al., 2012](http://www.the-cryosphere.net/6/1445/2012/); [Mölg et al., 2014](http://www.nature.com/nclimate/journal/v4/n1/full/nclimate2055.html);
+[Zolles et al., 2019](https://www.the-cryosphere.net/13/469/2019/tc-13-469-2019.html)
 
 
 ### Glaciological modeling at regional and global scales
@@ -37,7 +38,7 @@ the glacier geometrical widths; (c) inversion of the glacier thickness using a m
 and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.</figcaption>
 </figure>
 
-**Relevant publications:** [Maussion et al., 2018](https://www.geosci-model-dev-discuss.net/gmd-2018-9/); [Marzeion et al., 2018](https://www.nature.com/articles/s41558-018-0093-1); [Goosse et al., 2018](https://www.clim-past.net/14/1119/2018/cp-14-1119-2018.html); [Farinotti et al., 2017](https://www.the-cryosphere.net/11/949/2017/)
+**Relevant publications:** [Maussion et al., 2019](https://www.geosci-model-dev.net/12/909/2019/gmd-12-909-2019.html); [Marzeion et al., 2018](https://www.nature.com/articles/s41558-018-0093-1); [Goosse et al., 2018](https://www.clim-past.net/14/1119/2018/cp-14-1119-2018.html); [Farinotti et al., 2017](https://www.the-cryosphere.net/11/949/2017/); [Farinotti et al., 2019](https://www.nature.com/articles/s41561-019-0300-3)
 
 
 ### Climate of the Tibetan Plateau
@@ -123,6 +124,7 @@ are open access.
 ## Grants:
 
 ### Current
+* [AgroClim Huaraz - Water availability and water demand in the Peruvian Andes](https://agroclim-huaraz.info/) (2019-2022, PI)
 * [The Upper Grindelwald Glacier as indicator for Holocene climate variability](http://acinn.uibk.ac.at/research/ice-and-climate/projects/grindelwald) (2018-2019, PI)
 * [Modelling glacier length changes in Alps on the base of tree-ring based temperature reconstructions for the last 2500 years](http://acinn.uibk.ac.at/research/ice-and-climate/projects/glacier-length) (2018-2021, PI)
 

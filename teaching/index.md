@@ -92,9 +92,9 @@ explains it in a little more detail)
 
 Semester | Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Level | Institution&nbsp; | Evaluation |
 :---|:---|:---|:---|:---|:---|
-Winter 2018/19 |Scientific Programming | Graduate | ACINN | Not yet evaluated |  
-Winter 2018/19 | Physics of the climate system | Graduate | ACINN | Not yet evaluated |  
-Winter 2018/19 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | Not yet evaluated |
+Winter 2018/19 |Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018WS_SciPro.pdf)  |  
+Winter 2018/19 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018WS_PhyClim.pdf)  |  
+Winter 2018/19 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018WS_EKlim.pdf) |
 Summer 2018 | Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018SS_SciPro.pdf) |
 Summer 2018 | Transparency and communication in Earth Sciences | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018SS_Transparency.pdf) |
 Winter 2017/18 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2017WS_PhyClim.pdf) |  

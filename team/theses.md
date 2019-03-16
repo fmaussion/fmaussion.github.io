@@ -6,6 +6,11 @@ title: "Supervised theses (completed)"
 modified: 2016-05-09
 ---
 
+### 2019
+
+**Gregor, P.** (master thesis)
+: Inversion of Glacier Bed from Surface Observations by Cost Minimization : Introducing the Open Source Model COMBINE ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/3086935))
+
 ### 2018
 
 **Kilian, M.** (master thesis @ DLR, co-supervised)

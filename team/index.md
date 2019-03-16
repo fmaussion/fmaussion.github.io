@@ -24,11 +24,11 @@ modified: 2018-09-22
 
 ### Master students
 
+**Albrecht, A.** (ACINN)
+: Thesis: *Influence of soil properties initialisation in WRF simulations over the Tropical Andes of Peru*
+
 **Castellani, M.** (ACINN)
 : Thesis: *Estimating the ice thickness of mountain glaciers using neural networks*
-
-**Gregor, P.** (ACINN)
-: Thesis: *Glacier ice thickness inversion using regularization approaches*
 
 **Hartmann, M.** (ACINN)
 : Thesis: *Sources of air masses and moisture during wet and dry spells in the Rio Santa basin, Peruvian Andes*
@@ -39,8 +39,18 @@ modified: 2018-09-22
 **Oberrauch, M.** (ACINN)
 : Thesis: *Testing the importance of explicit glacier dynamics for future glacier evolution in the Alps*
 
+**Schirmeister, Z.** (ACINN)
+: Student helper working on [OGGM-Edu](http://edu.oggm.org)
+
+**Schuster, L.** (ACINN)
+: Student helper working on the [Greenland Caves Project](https://northeastgreenlandcavesproject.com/)
+
 **Trichtl, M.** (ACINN)
 : Thesis: *The atmospheric water budget of the Tibetan Plateau in atmospheric reanalysis products*
+
+**Zauner, C.** (ACINN)
+: Thesis: *Can atmospheric models simulate Puspa rains?*
+
 
 Click [here]({{ site.url }}/team/theses) for the list of past advisees.
 
