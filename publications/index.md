@@ -23,3 +23,5 @@ title: "Publications and outreach"
 - [EOS: Glacial Census Reveals Ice Thicknesses Around the World](https://eos.org/articles/glacial-census-reveals-ice-thicknesses-around-the-world)
 - [TT: Weltweite Gletschermasse laut Studie bislang deutlich überschätzt](https://www.tt.com/panorama/natur/15318348/weltweite-gletschermasse-laut-studie-bislang-deutlich-ueberschaetzt) (in German)
 - [ORF.at: Weltweit weniger Gletschereis als gedacht](https://science.orf.at/stories/2964037/) (in German)
+- [Krone.at: Gletschereis lässt Meeresspiegel ansteigen](https://www.krone.at/1899960) (in German)
+- [Tiroler Tageszeitung: Große Studie - Gletscher verlieren pro Jahr 335 Mrd. Tonnen Eis](https://www.tt.com/panorama/natur/15520085/grosse-studie-gletscher-verlieren-pro-jahr-335-mrd-tonnen-eis) (in German)
