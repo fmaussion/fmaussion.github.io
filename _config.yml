@@ -1,9 +1,9 @@
 # Site wide configuration
 
 title: Fabien Maussion
-bio: "Climate, glaciers, and other things."
+bio: "Climate, glaciers, open science, education, and software development"
 locale: en_US
-url: 
+url:
 image:
   feature: fm-header-1.jpg
 
@@ -30,7 +30,7 @@ kramdown:
 owner:
   name: Fabien Maussion
   avatar: fabi-portrait.jpg
-  bio: "Climate, glaciers, and other things."
+  bio: "Climate, glaciers, open science, education, and software development."
   github: fmaussion
   bitbucket: fmaussion
   orcid: 0000-0002-3211-506X
@@ -40,7 +40,7 @@ owner:
   stackoverflow: #http://stackoverflow.com/users/123456/username
   email:
   disqus-shortname: fmaussion
-  twitter: oggm1
+  twitter: FabClimate
   facebook: #username
   google:
     plus: #username

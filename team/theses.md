@@ -8,6 +8,9 @@ modified: 2016-05-09
 
 ### 2019
 
+**Hatvan, V.** (master thesis)
+: Evaluation of the physical SNOWPACK model under arctic conditions : An applicability study for the area around Longyearbyen, Svalbard ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/3584652))
+
 **Gregor, P.** (master thesis)
 : Inversion of Glacier Bed from Surface Observations by Cost Minimization : Introducing the Open Source Model COMBINE ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](http://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/3086935))
 

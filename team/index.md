@@ -21,25 +21,27 @@ modified: 2018-09-22
 : Working on glacier variations in the Canadian Arctic during the last millennium
 
 
-
 ### Master students
 
-**Albrecht, A.** (ACINN)
+**Albrecht, P.** (ACINN)
 : Thesis: *Influence of soil properties initialisation in WRF simulations over the Tropical Andes of Peru*
 
 **Castellani, M.** (ACINN)
 : Thesis: *Estimating the ice thickness of mountain glaciers using neural networks*
 
+**Frisinghelli, D.** (ACINN)
+: Student helper working on [OGGM-Edu](http://edu.oggm.org)
+
 **Hartmann, M.** (ACINN)
 : Thesis: *Sources of air masses and moisture during wet and dry spells in the Rio Santa basin, Peruvian Andes*
-
-**Hatvan, V.** (ACINN and also UNIS Svalbard, co-supervised)
-: Thesis: *Evaluation of the physical SNOWPACK model under arctic conditions*
 
 **Oberrauch, M.** (ACINN)
 : Thesis: *Testing the importance of explicit glacier dynamics for future glacier evolution in the Alps*
 
 **Schirmeister, Z.** (ACINN)
+: Student helper working on [OGGM-Edu](http://edu.oggm.org)
+
+**Schmitt, P.** (ACINN)
 : Student helper working on [OGGM-Edu](http://edu.oggm.org)
 
 **Schuster, L.** (ACINN)
