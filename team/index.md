@@ -37,6 +37,9 @@ modified: 2018-09-22
 **Oberrauch, M.** (ACINN)
 : Thesis: *Testing the importance of explicit glacier dynamics for future glacier evolution in the Alps*
 
+**Schuster, L.** (ACINN)
+: Thesis: *The response time of glaciers with OGGM*
+
 **Trichtl, M.** (ACINN)
 : Thesis: *The atmospheric water budget of the Tibetan Plateau in atmospheric reanalysis products*
 
@@ -47,6 +50,9 @@ modified: 2018-09-22
 
 **Frisinghelli, D.** (ACINN)
 : Student helper working on [<u>OGGM-Edu</u>](http://edu.oggm.org)
+
+**Hofman, M.** (ACINN)
+: Student helper working on educational resources for climate data analysis
 
 **Schirmeister, Z.** (ACINN)
 : Student helper working on [<u>OGGM-Edu</u>](http://edu.oggm.org)
