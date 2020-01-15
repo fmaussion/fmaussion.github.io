@@ -11,13 +11,17 @@ draft: false
 comments: true
 ---
 
-I pursue my efforts to try to understand how [Holoviews](http://holoviews.org)
-work. After much trial and error, here is a plot I feel comfortable to share.
+In a recent study, [Zekollari et al. (2019)](https://www.the-cryosphere.net/13/1125/2019/),
+computed the predicted volume change of all glaciers in the European Alps.
 
+We display these data in the interactive plot below.
 It shows the future evolution of Alpine glaciers' volume under various
-scenarios and for selected countries/regions. The change is given in % of their
-estimated volume in 2017. Data is from  
-[Zekollari et al. (2019)](https://www.the-cryosphere.net/13/1125/2019/).
+emission scenarios, and for selected countries/regions. Glacier change
+he change is displayed in % of their estimated volume in 2017. When hovering
+with the mouse over each curve, you can display the data in plain text,
+**as well as the estimated uncertainty** (±σ, indicating
+that there is 68% probability that the future glacier volume will fall
+within that range).
 
 <iframe src="/images/blog/bokeh-alps/alps_future.html"
     sandbox="allow-same-origin allow-scripts"
@@ -31,3 +35,6 @@ estimated volume in 2017. Data is from
 Data: [Zekollari et al. (2019)](https://www.the-cryosphere.net/13/1125/2019/).
 Code: on [GitHub](https://gist.github.com/fmaussion/2ce2496774639f16f8c5bddeece3473a).
 Larger plot: [here](/images/blog/bokeh-alps/alps_future_large.html).
+
+
+Thanks to the [HoloViews](http://holoviews.org/) library for the great tools!
