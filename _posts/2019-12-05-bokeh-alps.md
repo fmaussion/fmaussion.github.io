@@ -17,11 +17,11 @@ computed the predicted volume change of all glaciers in the European Alps.
 We display these data in the interactive plot below.
 It shows the future evolution of Alpine glaciers' volume under various
 emission scenarios, and for selected countries/regions. Glacier change
-he change is displayed in % of their estimated volume in 2017. When hovering
+is displayed in % of their estimated volume in 2017. When hovering
 with the mouse over each curve, you can display the data in plain text,
 **as well as the estimated uncertainty** (±σ, indicating
-that there is 68% probability that the future glacier volume will fall
-within that range).
+that there is an estimated 68% probability that the actual future glacier
+volume will fall within that range).
 
 <iframe src="/images/blog/bokeh-alps/alps_future.html"
     sandbox="allow-same-origin allow-scripts"
