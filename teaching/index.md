@@ -92,6 +92,9 @@ explains it in a little more detail)
 
 Semester | Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Level | Institution&nbsp; | Evaluation |
 :---|:---|:---|:---|:---|:---|
+Winter 2019/20 |Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2019WS_SciPro.pdf)  |  
+Winter 2019/20 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2019WS_PhyClim.pdf)  |  
+Winter 2019/20 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2019WS_EKlim.pdf) |
 Winter 2018/19 |Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018WS_SciPro.pdf)  |  
 Winter 2018/19 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018WS_PhyClim.pdf)  |  
 Winter 2018/19 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018WS_EKlim.pdf) |

@@ -21,6 +21,11 @@ modified: 2018-09-22
 : Working on glacier variations in the Canadian Arctic during the last millennium
 
 
+### Visiting students
+
+<b><u> <a href="https://www.uibk.ac.at/acinn/people/li-fei.html.en">Li Fei 李斐</a></u></b> (Institute of Tibetan Plateau Research, China, exchange PhD student)
+: Working on ice volume estimates in High Mountain Asia
+
 ### Student advisees
 
 **Thesis advisees:**
@@ -37,8 +42,14 @@ modified: 2018-09-22
 **Oberrauch, M.** (ACINN)
 : Thesis: *Testing the importance of explicit glacier dynamics for future glacier evolution in the Alps*
 
+**Schirmeister, Z.** (ACINN)
+: Thesis: *Future climate change in the Rio Santa Basin, Peruvian Andes*
+
 **Schuster, L.** (ACINN)
 : Thesis: *The response time of glaciers with OGGM*
+
+**Schmitt, P.** (ACINN)
+: Thesis: *Estimation of ice thickness using inverse methods*
 
 **Trichtl, M.** (ACINN)
 : Thesis: *The atmospheric water budget of the Tibetan Plateau in atmospheric reanalysis products*
@@ -47,9 +58,6 @@ modified: 2018-09-22
 : Thesis: *Can atmospheric models simulate Puspa rains?*
 
 **Employed on projects:**
-
-**Frisinghelli, D.** (ACINN)
-: Student helper working on [<u>OGGM-Edu</u>](http://edu.oggm.org)
 
 **Hofman, M.** (ACINN)
 : Student helper working on educational resources for climate data analysis

@@ -10,6 +10,20 @@ My research interests are broad and varied, and I particularly like to mix and m
 methods and models across disciplines. Here are some of the
 topics I am interested into:
 
+### Glaciological modeling at regional and global scales
+
+<figure>
+    <a href="/images/research/Fig_OGGM.jpg" >
+    <img src="/images/research/Fig_OGGM.jpg" alt="missing" width="100%" />
+    </a>
+    <figcaption>Figure: Example of the OGGM pre-processing workflow applied to the Tasman glacier, New
+Zealand: (a) definition of a local map and computation of the center lines; (b) computation of
+the glacier geometrical widths; (c) inversion of the glacier thickness using a mass-conservation
+and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.</figcaption>
+</figure>
+
+**Relevant publications:** [Maussion et al., 2019](https://www.geosci-model-dev.net/12/909/2019/gmd-12-909-2019.html); [Marzeion et al., 2018](https://www.nature.com/articles/s41558-018-0093-1); [Goosse et al., 2018](https://www.clim-past.net/14/1119/2018/cp-14-1119-2018.html); [Farinotti et al., 2017](https://www.the-cryosphere.net/11/949/2017/); [Farinotti et al., 2019](https://www.nature.com/articles/s41561-019-0300-3); [Recinos et al., 2019](https://www.the-cryosphere.net/13/2657/2019/tc-13-2657-2019.html); [Eis et al., 2019](https://www.the-cryosphere.net/13/3317/2019/)
+
 ### Climate controls on glacier mass-balance
 
 <figure>
@@ -24,22 +38,6 @@ topics I am interested into:
 **Relevant publications:**
 [Maussion et al., 2015](http://www.the-cryosphere.net/9/1663/2015/); [Mölg et al., 2012](http://www.the-cryosphere.net/6/1445/2012/); [Mölg et al., 2014](http://www.nature.com/nclimate/journal/v4/n1/full/nclimate2055.html);
 [Zolles et al., 2019](https://www.the-cryosphere.net/13/469/2019/tc-13-469-2019.html)
-
-
-### Glaciological modeling at regional and global scales
-
-<figure>
-    <a href="/images/research/Fig_OGGM.jpg" >
-    <img src="/images/research/Fig_OGGM.jpg" alt="missing" width="100%" />
-    </a>
-    <figcaption>Figure: Example of the OGGM pre-processing workflow applied to the Tasman glacier, New
-Zealand: (a) definition of a local map and computation of the center lines; (b) computation of
-the glacier geometrical widths; (c) inversion of the glacier thickness using a mass-conservation
-and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.</figcaption>
-</figure>
-
-**Relevant publications:** [Maussion et al., 2019](https://www.geosci-model-dev.net/12/909/2019/gmd-12-909-2019.html); [Marzeion et al., 2018](https://www.nature.com/articles/s41558-018-0093-1); [Goosse et al., 2018](https://www.clim-past.net/14/1119/2018/cp-14-1119-2018.html); [Farinotti et al., 2017](https://www.the-cryosphere.net/11/949/2017/); [Farinotti et al., 2019](https://www.nature.com/articles/s41561-019-0300-3)
-
 
 ### Climate of the Tibetan Plateau
 
@@ -125,10 +123,10 @@ are open access.
 
 ### Current
 * [AgroClim Huaraz - Water availability and water demand in the Peruvian Andes](https://agroclim-huaraz.info/) (2019-2022, PI)
-* [The Upper Grindelwald Glacier as indicator for Holocene climate variability](http://acinn.uibk.ac.at/research/ice-and-climate/projects/grindelwald) (2018-2019, PI)
 * [Modelling glacier length changes in Alps on the base of tree-ring based temperature reconstructions for the last 2500 years](http://acinn.uibk.ac.at/research/ice-and-climate/projects/glacier-length) (2018-2021, PI)
 
 ### Past
+* [The Upper Grindelwald Glacier as indicator for Holocene climate variability](http://acinn.uibk.ac.at/research/ice-and-climate/projects/grindelwald) (2018-2019, PI)
 * [Multidecadal to Centennial Climate Variability: Assessing the Conditions for the Glaciation of Tropical Mountains](http://acinn.uibk.ac.at/research/ice-and-climate/projects/climvar) (2010-2014, Post Doc)
 * [Variability and Trends in Water Balance Components of Benchmark Drainage Basins on the Tibetan Plateau](http://www.klima.tu-berlin.de/index.php?show=forschung_asien_tibet_wet&lan=en) (2011-2014, Scientific Coordinator)
 * [Dynamic Response of Glaciers on the Tibetan Plateau to Climate Change](http://www.klima.tu-berlin.de/index.php?show=forschung_asien_tibet&lan=en) (2008-2014, PhD project)
