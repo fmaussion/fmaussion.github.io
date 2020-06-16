@@ -16,9 +16,14 @@ Here is a list of the projects I actively contribute to:
 
 [OGGM](http://oggm.org) is an open source glacier model written
 in python. Among other things, OGGM participates to the
-[Ice Thickness Models Intercomparison eXperiment](http://oggm.org/2016/06/18/itmix-experiment-phase1/)
-and the [Glacier Model Intercomparison Project](http://www.climate-cryosphere.org/activities/targeted/glaciermip).
+[consensus estimate for the ice thickness distribution of all glaciers on Earth](https://www.nature.com/articles/s41561-019-0300-3)
+and the [Glacier Model Intercomparison Project](http://www.climate-cryosphere.org/mips/glaciermip).
 
+
+<a href="http://edu.oggm.org"><img src="https://edu.oggm.org/en/latest/_static/logos/oggm_edu_s_alpha.png" width="200"></a>
+
+[OGGM-Edu](http://edu.oggm.org) is an educational platform to learn and
+teach about glaciers. It is a project inspired by OGGM but separate from it.
 
 <a href="http://xarray.pydata.org"><img src="https://xarray.pydata.org/en/latest/_static/dataset-diagram-logo.png" width="200"></a>
 

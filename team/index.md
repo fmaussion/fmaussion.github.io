@@ -33,9 +33,6 @@ modified: 2018-09-22
 **Albrecht, P.** (ACINN)
 : Thesis: *Past climate change in the Rio Santa Basin, Peruvian Andes*
 
-**Castellani, M.** (ACINN)
-: Thesis: *Estimating the ice thickness of mountain glaciers using neural networks*
-
 **Hartmann, M.** (ACINN)
 : Thesis: *Sources of air masses and moisture during wet and dry spells in the Rio Santa basin, Peruvian Andes*
 
@@ -45,14 +42,8 @@ modified: 2018-09-22
 **Schirmeister, Z.** (ACINN)
 : Thesis: *Future climate change in the Rio Santa Basin, Peruvian Andes*
 
-**Schuster, L.** (ACINN)
-: Thesis: *The response time of glaciers with OGGM*
-
 **Schmitt, P.** (ACINN)
 : Thesis: *Estimation of ice thickness using inverse methods*
-
-**Trichtl, M.** (ACINN)
-: Thesis: *The atmospheric water budget of the Tibetan Plateau in atmospheric reanalysis products*
 
 **Zauner, C.** (ACINN)
 : Thesis: *Can atmospheric models simulate Puspa rains?*

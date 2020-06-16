@@ -9,7 +9,7 @@ modified: 2016-05-09
 I teach various courses[^1] at the ACINN, mostly for students
 in [atmospheric sciences](http://acinn.uibk.ac.at/education-imgi).
 
-<a href="http://fabienmaussion.info/scientific_programming"  style="color:red"> Click here</a> <font color="red">if you are here for the Scientific Programming lecture notes.</font>
+<a href="http://fabienmaussion.info/scientific_programming"  style="color:red"> Click here</a> <font color="red">if you are here for the Scientific Programming online lecture notes.</font>
 
 [^1]: VO ("Vorlesung", regular lectures) VU ("Vorlesung mit Übung", lectures with integrated practicals), and SE ("Seminars").
 

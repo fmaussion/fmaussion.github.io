@@ -6,6 +6,17 @@ title: "Supervised theses (completed)"
 modified: 2016-05-09
 ---
 
+### 2020
+
+**Castellani, M.** (master thesis)
+: Estimating Glacier Ice Thickness with Machine Learning ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-60115))
+
+**Schuster, L.** (ACINN)
+: Response time sensitivity of glaciers using the Open Global Glacier Model ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/4864453))
+
+**Trichtl, M.** (ACINN)
+: The atmospheric water budget over the Tibetan Plateau in ERA-Interim and ERA5 reanalyses ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/4888002))
+
 ### 2019
 
 **Hatvan, V.** (master thesis)
