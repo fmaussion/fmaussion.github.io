@@ -61,3 +61,9 @@ modified: 2016-05-09
 
 **Gstir, T.**  (bachelor thesis)
 : Klimasensitivität des Oberen Grindelwaldgletschers untersucht mithilfe des [OGGM](http://oggm.org/)s
+
+
+### Aborted
+
+**Hartmann, M.** (ACINN)
+: Thesis: *Sources of air masses and moisture during wet and dry spells in the Rio Santa basin, Peruvian Andes*

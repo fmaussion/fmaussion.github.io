@@ -22,7 +22,7 @@ the glacier geometrical widths; (c) inversion of the glacier thickness using a m
 and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.</figcaption>
 </figure>
 
-**Relevant publications:** [Maussion et al., 2019](https://www.geosci-model-dev.net/12/909/2019/gmd-12-909-2019.html); [Marzeion et al., 2018](https://www.nature.com/articles/s41558-018-0093-1); [Goosse et al., 2018](https://www.clim-past.net/14/1119/2018/cp-14-1119-2018.html); [Farinotti et al., 2017](https://www.the-cryosphere.net/11/949/2017/); [Farinotti et al., 2019](https://www.nature.com/articles/s41561-019-0300-3); [Recinos et al., 2019](https://www.the-cryosphere.net/13/2657/2019/tc-13-2657-2019.html); [Eis et al., 2019](https://www.the-cryosphere.net/13/3317/2019/)
+**Relevant publications:** [Maussion et al., 2019](https://www.geosci-model-dev.net/12/909/2019/gmd-12-909-2019.html); [Marzeion et al., 2018](https://www.nature.com/articles/s41558-018-0093-1); [Marzeion et al., 2020](https://doi.org/10.1029/2019EF001470); [Goosse et al., 2018](https://www.clim-past.net/14/1119/2018/cp-14-1119-2018.html); [Farinotti et al., 2017](https://www.the-cryosphere.net/11/949/2017/); [Farinotti et al., 2019](https://www.nature.com/articles/s41561-019-0300-3); [Recinos et al., 2019](https://www.the-cryosphere.net/13/2657/2019/tc-13-2657-2019.html); [Eis et al., 2019](https://www.the-cryosphere.net/13/3317/2019/)
 
 ### Climate controls on glacier mass-balance
 
@@ -108,7 +108,8 @@ and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.
 [Biskop et al., 2016](http://www.hydrol-earth-syst-sci.net/20/209/2016/hess-20-209-2016.html);
 [Dietze et al., 2014](http://www.clim-past.net/10/91/2014/);
 [Huintjes et al., 2015](http://www.bioone.org/doi/10.1657/AAAR0014-073);
-[Spieß et al., 2015](http://onlinelibrary.wiley.com/doi/10.1111/geoa.12102/abstract)
+[Spieß et al., 2015](http://onlinelibrary.wiley.com/doi/10.1111/geoa.12102/abstract);
+[Pelto et al., 2020](https://doi.org/10.1017/jog.2020.75)
 
 ### Open science
 
@@ -116,7 +117,8 @@ I am fascinated by the opportunities offered by sharing our data and methods
 more efficiently and more transparently.
 I am an enthusiast [open-source programmer]({{ site.url }}/software),
 and most of the research data and the publications I contributed to
-are open access.
+are open access. I am also a scientific editor for the open-access
+journal [Geoscientific Model Development](https://gmd.copernicus.org/).
 
 
 ## Grants:

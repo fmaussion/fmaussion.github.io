@@ -9,9 +9,12 @@ modified: 2016-05-09
 I teach various courses[^1] at the ACINN, mostly for students
 in [atmospheric sciences](http://acinn.uibk.ac.at/education-imgi).
 
-<a href="http://fabienmaussion.info/scientific_programming"  style="color:red"> Click here</a> <font color="red">if you are here for the Scientific Programming online lecture notes.</font>
+<a href="http://fabienmaussion.info/scientific_programming"  style="color:blue"> Click here</a> <font color="blue">if you are here for the <b>Scientific Programming</b> online lecture notes.</font> <br>
+<a href="https://fabienmaussion.info/climate_system"  style="color:blue"> Click here</a> <font color="blue">if you are here for the <b>Climate System</b> online lecture practicals.</font>
 
 [^1]: VO ("Vorlesung", regular lectures) VU ("Vorlesung mit Übung", lectures with integrated practicals), and SE ("Seminars").
+
+## Current courses
 
 ### VO - Introduction to meteorology and climatology
 
@@ -30,10 +33,13 @@ Python.
 Topics: climate variability, synoptic climatology, paleoclimate, climate modelling,
 climate change and feedbacks.
 
+The lecture practicals are [available online](http://fabienmaussion.info/climate_system/).
+
 <figure class="half">
     <a href="/images/teaching/era-temp.jpg"><img src="/images/teaching/era-temp.jpg"></a>
     <a href="/images/teaching/era-ek.jpg"><img src="/images/teaching/era-ek.jpg"></a>
 </figure>
+
 
 
 ### VU - Scientific Programming
@@ -44,6 +50,7 @@ numerics, software structure, unit testing, object oriented programming, version
 
 The lecture notes are [available online](http://fabienmaussion.info/scientific_programming/).
 
+## Past courses
 
 ### VU - Transparency and communication in Earth Sciences
 
@@ -88,11 +95,11 @@ topics. Some of my recent presentations are available online:
 explains it in a little more detail)
 
 
-## Past courses and student evaluations
+## Student evaluations
 
 Semester | Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Level | Institution&nbsp; | Evaluation |
 :---|:---|:---|:---|:---|:---|
-Winter 2019/20 |Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2019WS_SciPro.pdf)  |  
+Winter 2019/20&nbsp; |Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2019WS_SciPro.pdf)  |  
 Winter 2019/20 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2019WS_PhyClim.pdf)  |  
 Winter 2019/20 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2019WS_EKlim.pdf) |
 Winter 2018/19 |Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018WS_SciPro.pdf)  |  

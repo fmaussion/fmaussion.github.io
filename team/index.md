@@ -8,18 +8,11 @@ modified: 2018-09-22
 
 ### PhD students
 
-<b><u> <a href="http://acinn.uibk.ac.at/persons/matthias_dusch">Matthias Dusch</a></u></b> (ACINN & Geographie Innsbruck, co-supervised)
-: Working on [modelling glacier length changes in Alps on the base of tree-ring based temperature reconstructions for the last 2500 years](http://acinn.uibk.ac.at/research/ice-and-climate/projects/glacier-length)
-
-<b><u> <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=11&ved=2ahUKEwjd5vat3M7dAhUCtIsKHYIIC40QFjAKegQIBBAB&url=https%3A%2F%2Fwww.geographie.uni-bremen.de%2Findex.php%3Foption%3Dcom_jresearch%26view%3Dmember%26task%3Dshow%26id%3D81&usg=AOvVaw1Y9ciN7wx4RrZ89nv0XAOM">Julia Eis</a></u></b> (Uni Bremen, co-supervised)
-: Working on predictability of glacier mass change
-
-<b><u> <a href="https://www.researchgate.net/profile/Beatriz_Recinos">Beatriz Recinos</a></u></b> (Uni Bremen, co-supervised)
-: Working on including frontal ablation processes in the [OGGM](http://oggm.org) model
+<b><u> <a href="https://www.uibk.ac.at/acinn/people/lilian-schuster.html.en">Lilian Schuster</a></u></b> (ACINN)
+: Working on [the uncertainty of large scale surface mass-balance models](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/uncertainties-glacier-smb.html.en)
 
 <b><u> <a href="https://www.marum.de/en/Anouk-Vlug.html">Anouk Vlug</a></u></b> (Marum Bremen, co-supervised)
 : Working on glacier variations in the Canadian Arctic during the last millennium
-
 
 ### Visiting students
 
@@ -33,9 +26,6 @@ modified: 2018-09-22
 **Albrecht, P.** (ACINN)
 : Thesis: *Past climate change in the Rio Santa Basin, Peruvian Andes*
 
-**Hartmann, M.** (ACINN)
-: Thesis: *Sources of air masses and moisture during wet and dry spells in the Rio Santa basin, Peruvian Andes*
-
 **Oberrauch, M.** (ACINN)
 : Thesis: *Testing the importance of explicit glacier dynamics for future glacier evolution in the Alps*
 
@@ -44,6 +34,9 @@ modified: 2018-09-22
 
 **Schmitt, P.** (ACINN)
 : Thesis: *Estimation of ice thickness using inverse methods*
+
+**Wöckinger, S.** (ACINN)
+: Thesis: *High Resolution Climate Simulations in the Rio Santa Basin, Peru, with COSMO-CLM-GPU*
 
 **Zauner, C.** (ACINN)
 : Thesis: *Can atmospheric models simulate Puspa rains?*
@@ -59,10 +52,15 @@ modified: 2018-09-22
 **Schmitt, P.** (ACINN)
 : Student helper working on [<u>OGGM-Edu</u>](http://edu.oggm.org)
 
-**Schuster, L.** (ACINN)
-: Student helper working on the [<u>Greenland Caves Project</u>](https://northeastgreenlandcavesproject.com/)
-
 Click [here]({{ site.url }}/team/theses) for the list of past advisees.
+
+### Completed PhDs
+
+<b><u> <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=11&ved=2ahUKEwjd5vat3M7dAhUCtIsKHYIIC40QFjAKegQIBBAB&url=https%3A%2F%2Fwww.geographie.uni-bremen.de%2Findex.php%3Foption%3Dcom_jresearch%26view%3Dmember%26task%3Dshow%26id%3D81&usg=AOvVaw1Y9ciN7wx4RrZ89nv0XAOM">Julia Eis</a></u></b> (2020, Uni Bremen, co-supervised)
+: Thesis link TBA
+
+<b><u> <a href="https://www.researchgate.net/profile/Beatriz_Recinos">Beatriz Recinos</a></u></b> (2020, Uni Bremen, co-supervised)
+: Thesis link TBA
 
 <figure>
     <a href="https://oggm.org/img/blog/3rd_workshop/group_s.jpeg"><img src="https://oggm.org/img/blog/3rd_workshop/group_s.jpeg"></a>
