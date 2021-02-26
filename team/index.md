@@ -57,10 +57,10 @@ Click [here]({{ site.url }}/team/theses) for the list of past advisees.
 ### Completed PhDs
 
 <b><u> <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=11&ved=2ahUKEwjd5vat3M7dAhUCtIsKHYIIC40QFjAKegQIBBAB&url=https%3A%2F%2Fwww.geographie.uni-bremen.de%2Findex.php%3Foption%3Dcom_jresearch%26view%3Dmember%26task%3Dshow%26id%3D81&usg=AOvVaw1Y9ciN7wx4RrZ89nv0XAOM">Julia Eis</a></u></b> (2020, Uni Bremen, co-supervised)
-: Thesis link TBA
+: Reconstructing glacier evolution using a flowline model ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://media.suub.uni-bremen.de/handle/elib/4635))
 
 <b><u> <a href="https://www.researchgate.net/profile/Beatriz_Recinos">Beatriz Recinos</a></u></b> (2020, Uni Bremen, co-supervised)
-: Thesis link TBA
+: Ocean-glacier interaction on the large regional scale ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://media.suub.uni-bremen.de/handle/elib/4637))
 
 <figure>
     <a href="https://oggm.org/img/blog/3rd_workshop/group_s.jpeg"><img src="https://oggm.org/img/blog/3rd_workshop/group_s.jpeg"></a>

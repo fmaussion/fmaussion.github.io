@@ -17,7 +17,12 @@ I am an assistant professor at the
  part of the [Research Centre for Climate](https://www.uibk.ac.at/climate-cryosphere/)
 at the University of Innsbruck.
 
-Before that, I was working at the
+I'm passionate about all things related to our climate system.
+I&#160;specialize on our atmosphere and cryosphere, which I study mostly with the help of 
+numerical and statistical models. I also don't mind leaving my computer and go out to measure things 
+from time to time as well.
+
+Before Innsbruck, I was working at the
 [Chair of Climatology](http://www.klima.tu-berlin.de/index.php?show=home_start&lan=en/),
 TU Berlin, where I obtained my PhD in 2014.
 I graduated from the French aerospace engineering school
