@@ -17,10 +17,10 @@ I am an assistant professor at the
  part of the [Research Centre for Climate](https://www.uibk.ac.at/climate-cryosphere/)
 at the University of Innsbruck.
 
-I'm passionate about all things related to our climate system.
-I&#160;specialize on our atmosphere and cryosphere, which I study mostly with the help of 
-numerical and statistical models. I also don't mind leaving my computer and go out to measure things 
-from time to time as well.
+I am passionate about all things related to the climate system.
+I&#160;specialize on the study of our atmosphere and cryosphere, mostly with the help of 
+numerical and statistical models. 
+I don't mind going outside once in a while to measure things.
 
 Before Innsbruck, I was working at the
 [Chair of Climatology](http://www.klima.tu-berlin.de/index.php?show=home_start&lan=en/),
