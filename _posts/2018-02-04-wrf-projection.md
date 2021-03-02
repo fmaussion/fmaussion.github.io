@@ -4,11 +4,28 @@ title: "Map projections in WRF: it's easy to get it wrong"
 excerpt: "What is a datum shift again?"
 image:
   feature: fm-header-6.jpg
-modified:
+modified: 2021-03-02T00:00:00
 categories:
 date: 2018-01-06T22:00:00
 draft: false
 comments: true
+---
+
+### TL;DR
+
+Since this blog post is now one of the top web search results for "WRF projection",
+I thought it'd be good to summarize the most important points. Here they are:
+
+- all you need to know about the WRF projection parameters is found in the WRF netcdf file output
+- you can plot WRF output with python very easily thanks to the 
+  [WRF-Python](https://wrf-python.readthedocs.io/en/latest/plot.html) 
+  or [salem](https://salem.readthedocs.io/en/stable/wrf.html) packages  
+- if you need to parse the projection parameters yourself: don't forget to adjust the `semimajor_axis` and 
+  `semiminor_axis` projection parameters to 6370000 (sphere)
+
+
+If you want know more, read further... 
+
 ---
 
 Last week I had to sneak into a conversation between ACINN researchers about how

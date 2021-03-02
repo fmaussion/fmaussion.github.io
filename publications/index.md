@@ -32,6 +32,9 @@ title: "Publications and outreach"
 
 [OGGM-Edu](https://edu.oggm.org), an interactive platform to learn and teach about glaciers
 
+*New (Feb 2021):* I recently submitted my habilitation thesis ([wikipedia](https://en.wikipedia.org/wiki/Habilitation)). 
+You can find an online copy [here](https://fabienmaussion.info/habil2.0).
+
 ## Online presentations (selection)
 
 <iframe width="752" height="423" src="https://www.youtube.com/embed/ttJMxcwXUjw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
