@@ -16,7 +16,6 @@ Unless specified otherwise, the content of this site (including images) are lice
 
 Site hosted on <a href="https://pages.github.com/" rel="nofollow"> GitHub</a>, powered by <a href="http://jekyllrb.com" rel="nofollow"> Jekyll</a> using the <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> theme (V2).
 
-
 ### About the panoramas
 * [Homepage]({{ site.url }}/images/fm-header-1.jpg): Lake La’nga Co and Lake Mapam Yumco near Mount Kailash (Tibet)
 * [Research]({{ site.url }}/images/fm-header-2.jpg): Field work at Zhadang Glacier (Tibet)
@@ -28,6 +27,12 @@ Site hosted on <a href="https://pages.github.com/" rel="nofollow"> GitHub</a>, p
 * [About]({{ site.url }}/images/fm-header-8.jpg): Pyrenees, France
 
 ### Other things
+
+Before moving to Innsbruck, I was working at the
+[Chair of Climatology](http://www.klima.tu-berlin.de/index.php?show=home_start&lan=en/),
+TU Berlin, where I obtained my PhD in 2014.
+I graduated from the French aerospace engineering school
+[ISAE-Supaero](http://www.isae.fr/en) in 2008.
 
 In my spare time I enjoy hiking and climbing mountains, making pictures, and
 playing music (current: [Dreizimmerwohnung](http://dreizimmerwohnung.info/), past: [Inti Watana](https://www.jamendo.com/artist/348758/inti-watana/albums), [Warum Nicht!](http://wnband.wixsite.com/warum-nicht), [Silly Circus Band](http://sillycircusband.bandcamp.com/)).

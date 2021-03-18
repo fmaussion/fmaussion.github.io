@@ -6,6 +6,11 @@ title: "Supervised theses (completed)"
 modified: 2016-05-09
 ---
 
+### 2021
+
+**Zauner, C.** (master thesis)
+: Meteorological analysis of a Puspa rain event in the Callejón de Huaylas, Peruvian Andes, with the help of atmospheric simulations and observations ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/5548678))
+
 ### 2020
 
 **Castellani, M.** (master thesis)

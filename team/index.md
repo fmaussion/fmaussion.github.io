@@ -26,6 +26,9 @@ modified: 2018-09-22
 **Albrecht, P.** (ACINN)
 : Thesis: *Past climate change in the Rio Santa Basin, Peruvian Andes*
 
+**Holmgren, E.** (ACINN)
+: Thesis: *Studying peak water with the OGGM model*
+
 **Oberrauch, M.** (ACINN)
 : Thesis: *Testing the importance of explicit glacier dynamics for future glacier evolution in the Alps*
 
@@ -37,9 +40,6 @@ modified: 2018-09-22
 
 **Wöckinger, S.** (ACINN)
 : Thesis: *High Resolution Climate Simulations in the Rio Santa Basin, Peru, with COSMO-CLM-GPU*
-
-**Zauner, C.** (ACINN)
-: Thesis: *Can atmospheric models simulate Puspa rains?*
 
 **Employed on projects:**
 
