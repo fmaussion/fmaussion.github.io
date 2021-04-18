@@ -22,7 +22,7 @@ the glacier geometrical widths; (c) inversion of the glacier thickness using a m
 and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.</figcaption>
 </figure>
 
-**Relevant publications:** [Maussion et al., 2019](https://www.geosci-model-dev.net/12/909/2019/gmd-12-909-2019.html); [Marzeion et al., 2018](https://www.nature.com/articles/s41558-018-0093-1); [Marzeion et al., 2020](https://doi.org/10.1029/2019EF001470); [Goosse et al., 2018](https://www.clim-past.net/14/1119/2018/cp-14-1119-2018.html); [Farinotti et al., 2017](https://www.the-cryosphere.net/11/949/2017/); [Farinotti et al., 2019](https://www.nature.com/articles/s41561-019-0300-3); [Recinos et al., 2019](https://www.the-cryosphere.net/13/2657/2019/tc-13-2657-2019.html); [Eis et al., 2019](https://www.the-cryosphere.net/13/3317/2019/)
+**Relevant publications:** [Maussion et al., 2019](https://www.geosci-model-dev.net/12/909/2019/gmd-12-909-2019.html); [Marzeion et al., 2018](https://www.nature.com/articles/s41558-018-0093-1); [Marzeion et al., 2020](https://doi.org/10.1029/2019EF001470); [Goosse et al., 2018](https://www.clim-past.net/14/1119/2018/cp-14-1119-2018.html); [Farinotti et al., 2017](https://www.the-cryosphere.net/11/949/2017/); [Farinotti et al., 2019](https://www.nature.com/articles/s41561-019-0300-3); [Recinos et al., 2019](https://www.the-cryosphere.net/13/2657/2019/tc-13-2657-2019.html); [Eis et al., 2019](https://www.the-cryosphere.net/13/3317/2019/); [Eis et al., 2021](https://www.frontiersin.org/articles/10.3389/feart.2021.595755/full); [Pelto et al., 2020](https://doi.org/10.1017/jog.2020.75); [Rounce et al., 2021](:https://doi.org/10.1029/2020GL091311);
 
 ### Climate controls on glacier mass-balance
 
@@ -93,8 +93,8 @@ and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.
     <a href="/images/research/Fig_Multi.jpg" >
     <img src="/images/research/Fig_Multi.jpg" alt="missing" width="100%" />
     </a>
-    <figcaption>Left: ice cover duration for several lakes on the TP obtained
-    from remote sensing data (Kropáček et al., 2013). Middle: monthly lake Level
+    <figcaption>Left: atmospheric moisture contribution to precipitation in northeast Greenland 
+    (Schuster et al., 2021). Middle: monthly lake Level
     changes as observed and as simulated by a modelling tool combining atmospheric
     and hydrological models (Biskop et al., 2016). Right: mean shear velocities
     (colour scale) and wind direction and speed over the Tibetan Plateau in summer
@@ -109,7 +109,8 @@ and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.
 [Dietze et al., 2014](http://www.clim-past.net/10/91/2014/);
 [Huintjes et al., 2015](http://www.bioone.org/doi/10.1657/AAAR0014-073);
 [Spieß et al., 2015](http://onlinelibrary.wiley.com/doi/10.1111/geoa.12102/abstract);
-[Pelto et al., 2020](https://doi.org/10.1017/jog.2020.75)
+[Schuster et al., 2021](https://wcd.copernicus.org/articles/2/1/2021/);
+
 
 ### Open science
 
@@ -121,14 +122,21 @@ are open access. I am also a scientific editor for the open-access
 journal [Geoscientific Model Development](https://gmd.copernicus.org/).
 
 
-## Grants:
+## Research projects & grants
 
-### Current
-* [AgroClim Huaraz - Water availability and water demand in the Peruvian Andes](https://agroclim-huaraz.info/) (2019-2022, PI)
-* [Modelling glacier length changes in Alps on the base of tree-ring based temperature reconstructions for the last 2500 years](http://acinn.uibk.ac.at/research/ice-and-climate/projects/glacier-length) (2018-2021, PI)
+### As PI (current)
+- 2021--2024: PROVIDE -- Paris Agreement Overshooting – Reversibility, Climate Impacts and Adaptation Needs (H2020) 
+- 2019--2022: [AgroClim - Huaraz](https://agroclim-huaraz.info/), "Water availability and water demand in the Peruvian Andes" (ÖAW) 
+- 2020--2022: [Scaling regional sea-level changes with climate forcings](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/scaling_regional_sea_level_changes.html.en) (FWF, Co-PI)
 
-### Past
-* [The Upper Grindelwald Glacier as indicator for Holocene climate variability](http://acinn.uibk.ac.at/research/ice-and-climate/projects/grindelwald) (2018-2019, PI)
-* [Multidecadal to Centennial Climate Variability: Assessing the Conditions for the Glaciation of Tropical Mountains](http://acinn.uibk.ac.at/research/ice-and-climate/projects/climvar) (2010-2014, Post Doc)
-* [Variability and Trends in Water Balance Components of Benchmark Drainage Basins on the Tibetan Plateau](http://www.klima.tu-berlin.de/index.php?show=forschung_asien_tibet_wet&lan=en) (2011-2014, Scientific Coordinator)
-* [Dynamic Response of Glaciers on the Tibetan Plateau to Climate Change](http://www.klima.tu-berlin.de/index.php?show=forschung_asien_tibet&lan=en) (2008-2014, PhD project)
+### As PI (completed)
+- 2018--2021: [Modelling glacier length changes in Alps on the base of tree-ring based temperature reconstructions for the last 2500 years](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/modelling-glacier-length-changes.html.en) (Universtität Innsbruck, Co-PI)
+- 2019--2020: "[Glaciers on the Cloud: OGGM-Edu](https://edu.oggm.org)" (University of Innsbruck) 
+- 2018--2019: [The Upper Grindelwald Glacier as indicator for Holocene climate variability](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/holocene-climate-variability.html.en) (TWF) 
+
+### As collaborator
+- 2021--2024: Landslides and Climate Change in highly Sensible Environments: Seismology, Earth Observation and Artificial Intelligence – [HighLand](https://anr.fr/Project-ANR-20-CE01-0006)
+- 2015--2021: Atmospheric Downscaling for Glacierized mountain environments – [DoG](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/dog.html.en)
+- 2014--2015: [Multidecadal to Centennial Climate Variability: Assessing the Conditions for the Glaciation of Tropical Mountains](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/glaciation-of-tropical-mountains.html.en) (FWF) 
+- 2011--2014: [WET](https://www.klima.tu-berlin.de/index.php?show=reg_klima_hochasien_wet&lan=en) -- Variability and Trends in Water Balance Components of Benchmark Drainage Basins on the Tibetan Plateau (BMBF) 
+- 2008--2014: [DynRG-TIP](https://www.klima.tu-berlin.de/index.php?show=reg_klima_hochasien_dynrgtip&lan=en) -- Dynamic Response of Glaciers on the Tibetan Plateau to Climate Change (DFG) 

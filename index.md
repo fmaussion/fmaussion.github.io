@@ -11,18 +11,18 @@ title: "About"
   </div>
 </footer>
 
-I am an assistant professor at the
-[Department of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at/),
- part of the [Research Centre for Climate](https://www.uibk.ac.at/climate-cryosphere/)
+I am an assistant professor at the 
+[Department of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at),
+ part of the [Research Centre for Climate](https://www.uibk.ac.at/climate-cryosphere)
 at the University of Innsbruck.
 
-I&#160;specialize in the study of our climate system, in particular 
-its atmosphere, cryosphere and how they interact. 
+I&#160;specialize in the study of our **climate system**, in particular 
+its **atmosphere, cryosphere and how they interact**. 
 I do this mostly with the help of computer models,
-but I don't mind doing fieldwork sometimes as well.
+but I don't mind going to the field sometimes as well!
 
-I am also active around the topics of open science, open teaching, and open source.
-On this website you'll find some infos and links to the projects I contribute to.
+I am also active around the topics of **open science, open education, and open source**.
+On this website you'll find infos and links to the projects I contribute to.
 
 ![ACINN Logo](/images/acinn_logo.png)
 {: .image-pull-right .max-width-20}
