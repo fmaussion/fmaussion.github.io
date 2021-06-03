@@ -8,6 +8,12 @@ modified: 2016-05-09
 
 ### 2021
 
+**Oberrauch, M.** (master thesis)
+: Testing the importance of explicit glacier dynamics for mountain glacier change projections ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/5878449))
+
+**Schirmeister, Z.** (master thesis)
+: Future climate change in the Peruvian Andes as described by CORDEX data ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/5884055))
+
 **Zauner, C.** (master thesis)
 : Meteorological analysis of a Puspa rain event in the Callejón de Huaylas, Peruvian Andes, with the help of atmospheric simulations and observations ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/5548678))
 
@@ -66,9 +72,3 @@ modified: 2016-05-09
 
 **Gstir, T.**  (bachelor thesis)
 : Klimasensitivität des Oberen Grindelwaldgletschers untersucht mithilfe des [OGGM](http://oggm.org/)s
-
-
-### Aborted
-
-**Hartmann, M.** (ACINN)
-: Thesis: *Sources of air masses and moisture during wet and dry spells in the Rio Santa basin, Peruvian Andes*

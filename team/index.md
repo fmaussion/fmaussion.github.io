@@ -29,12 +29,6 @@ modified: 2018-09-22
 **Holmgren, E.** (ACINN)
 : Thesis: *Studying peak water with the OGGM model*
 
-**Oberrauch, M.** (ACINN)
-: Thesis: *Testing the importance of explicit glacier dynamics for future glacier evolution in the Alps*
-
-**Schirmeister, Z.** (ACINN)
-: Thesis: *Future climate change in the Rio Santa Basin, Peruvian Andes*
-
 **Schmitt, P.** (ACINN)
 : Thesis: *Estimation of ice thickness using inverse methods*
 
@@ -43,14 +37,11 @@ modified: 2018-09-22
 
 **Employed on projects:**
 
-**Hofman, M.** (ACINN)
-: Student helper working on educational resources for climate data analysis
-
-**Schirmeister, Z.** (ACINN)
-: Student helper working on [<u>OGGM-Edu</u>](http://edu.oggm.org)
-
 **Schmitt, P.** (ACINN)
 : Student helper working on [<u>OGGM-Edu</u>](http://edu.oggm.org)
+
+**Oberrauch, M.** (ACINN)
+: Student helper working with OGGM
 
 Click [here]({{ site.url }}/team/theses) for the list of past advisees.
 
