@@ -9,15 +9,24 @@ modified: 2018-09-22
 ### PhD students
 
 <b><u> <a href="https://www.uibk.ac.at/acinn/people/lilian-schuster.html.en">Lilian Schuster</a></u></b> (ACINN)
-: Working on [the uncertainty of large scale surface mass-balance models](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/uncertainties-glacier-smb.html.en)
+: Working on the uncertainty of large scale surface mass-balance models *([project website](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/uncertainties-glacier-smb.html.en))*
 
-<b><u> <a href="https://www.marum.de/en/Anouk-Vlug.html">Anouk Vlug</a></u></b> (Marum Bremen, co-supervised)
-: Working on glacier variations in the Canadian Arctic during the last millennium
+<b><u> <a href="http://www.biomet.co.at/people/lorenz-hanchen/">Lorenz Hänchen</a></u></b> (Institute of Ecology, co-supervised)
+: Working on the spatio-temporal variability in water availability and demand in the Peruvian Andes *([project website](https://agroclim-huaraz.info))*
+
+<b><u> <a href="">Patrick Schmitt</a></u></b> (ACINN)
+: Working on the global glacier response under climate targets overshoot scenarios (EU project PROVIDE)
+
 
 ### Visiting students
 
 <b><u> <a href="https://www.uibk.ac.at/acinn/people/li-fei.html.en">Li Fei 李斐</a></u></b> (Institute of Tibetan Plateau Research, China, exchange PhD student)
 : Working on ice volume estimates in High Mountain Asia
+
+### Post-docs
+
+<b><u> <a href="https://www.uibk.ac.at/acinn/people/anouk-vlug.html.en">Anouk Vlug</a></u></b> (ACINN)
+: Working on the influence of climate forcings on glacier change over the last millennium  *([project website](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/scaling_regional_sea_level_changes.html.en))*
 
 ### Student advisees
 
@@ -28,9 +37,6 @@ modified: 2018-09-22
 
 **Holmgren, E.** (ACINN)
 : Thesis: *Studying peak water with the OGGM model*
-
-**Schmitt, P.** (ACINN)
-: Thesis: *Estimation of ice thickness using inverse methods*
 
 **Wöckinger, S.** (ACINN)
 : Thesis: *High Resolution Climate Simulations in the Rio Santa Basin, Peru, with COSMO-CLM-GPU*

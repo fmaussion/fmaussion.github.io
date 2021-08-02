@@ -14,6 +14,9 @@ modified: 2016-05-09
 **Schirmeister, Z.** (master thesis)
 : Future climate change in the Peruvian Andes as described by CORDEX data ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/5884055))
 
+**Schmitt, P.** (master thesis)
+: Flowline glacier bed estimation with numerical modelling and cost minimization : Extending the open source model COMBINE 1D ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/6139027))
+
 **Zauner, C.** (master thesis)
 : Meteorological analysis of a Puspa rain event in the Callejón de Huaylas, Peruvian Andes, with the help of atmospheric simulations and observations ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/5548678))
 
