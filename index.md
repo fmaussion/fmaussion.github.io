@@ -11,7 +11,7 @@ title: "About"
   </div>
 </footer>
 
-I am an assistant professor at the 
+I am an associate professor at the 
 [Department of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at),
  part of the [Research Centre for Climate](https://www.uibk.ac.at/climate-cryosphere)
 at the University of Innsbruck.
@@ -29,5 +29,5 @@ On this website you'll find infos and links to the projects I contribute to.
 
 ### Contact
 <p>
-I live in Innsbruck, Austria. When there isn't a global pandemic, you'll find me in my <a href="http://acinn.uibk.ac.at/persons/fabien_maussion">office</a> at the usual
+I live in Innsbruck, Austria. When there isn't a global pandemic, you'll find me in my <a href="https://www.uibk.ac.at/acinn/people/fabien-maussion.html.en">office</a> at the usual
 working hours.  Otherwise, you can reach me at <script>document.write("<n uers=\"znvygb:snovra.znhffvba@hvox.np.ng\">snovra.znhffvba@hvox.np.ng</n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}))</script><noscript><span style="unicode-bidi:bidi-override;direction:rtl;">moc.liamg@reyohs</span></noscript>.</p>

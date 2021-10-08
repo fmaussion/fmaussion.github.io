@@ -14,14 +14,11 @@ modified: 2018-09-22
 <b><u> <a href="http://www.biomet.co.at/people/lorenz-hanchen/">Lorenz Hänchen</a></u></b> (Institute of Ecology, co-supervised)
 : Working on the spatio-temporal variability in water availability and demand in the Peruvian Andes *([project website](https://agroclim-huaraz.info))*
 
-<b><u> <a href="">Patrick Schmitt</a></u></b> (ACINN)
+<b><u> <a href="https://www.uibk.ac.at/acinn/people/niklas-richter.html.en">Niklas Richter</a></u></b> (ACINN)
+: Studying atmospheric drivers of glacier change in High Mountain Asia
+
+<b><u> <a href="https://www.uibk.ac.at/acinn/people/patrick-schmitt.html.en">Patrick Schmitt</a></u></b> (ACINN)
 : Working on the global glacier response under climate targets overshoot scenarios (EU project PROVIDE)
-
-
-### Visiting students
-
-<b><u> <a href="https://www.uibk.ac.at/acinn/people/li-fei.html.en">Li Fei 李斐</a></u></b> (Institute of Tibetan Plateau Research, China, exchange PhD student)
-: Working on ice volume estimates in High Mountain Asia
 
 ### Post-docs
 
@@ -63,3 +60,8 @@ Click [here]({{ site.url }}/team/theses) for the list of past advisees.
     <a href="https://oggm.org/img/blog/3rd_workshop/group_s.jpeg"><img src="https://oggm.org/img/blog/3rd_workshop/group_s.jpeg"></a>
     <figcaption>Group photo of the <u><a href="https://oggm.org/2018/06/29/3nd-oggm-worshop-summary/">2018 OGGM Workshop</a></u> in Innsbruck</figcaption>
 </figure>
+
+### Past visiting students
+
+<b><u> <a href="https://www.uibk.ac.at/acinn/people/li-fei.html.en">Li Fei 李斐</a></u></b> (Institute of Tibetan Plateau Research, China, exchange PhD student)
+: Working on ice volume estimates in High Mountain Asia
