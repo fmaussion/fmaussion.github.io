@@ -11,14 +11,14 @@ modified: 2018-09-22
 <b><u> <a href="https://www.uibk.ac.at/acinn/people/lilian-schuster.html.en">Lilian Schuster</a></u></b> (ACINN)
 : Working on the uncertainty of large scale surface mass-balance models *([project website](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/uncertainties-glacier-smb.html.en))*
 
+<b><u> <a href="https://www.uibk.ac.at/acinn/people/patrick-schmitt.html.en">Patrick Schmitt</a></u></b> (ACINN)
+: Working on the global glacier response under climate targets overshoot scenarios (EU project PROVIDE)
+
 <b><u> <a href="http://www.biomet.co.at/people/lorenz-hanchen/">Lorenz Hänchen</a></u></b> (Institute of Ecology, co-supervised)
 : Working on the spatio-temporal variability in water availability and demand in the Peruvian Andes *([project website](https://agroclim-huaraz.info))*
 
-<b><u> <a href="https://www.uibk.ac.at/acinn/people/niklas-richter.html.en">Niklas Richter</a></u></b> (ACINN)
+<b><u> <a href="https://www.uibk.ac.at/acinn/people/niklas-richter.html.en">Niklas Richter</a></u></b> (ACINN, co-supervised)
 : Studying atmospheric drivers of glacier change in High Mountain Asia
-
-<b><u> <a href="https://www.uibk.ac.at/acinn/people/patrick-schmitt.html.en">Patrick Schmitt</a></u></b> (ACINN)
-: Working on the global glacier response under climate targets overshoot scenarios (EU project PROVIDE)
 
 ### Post-docs
 
@@ -40,17 +40,20 @@ modified: 2018-09-22
 
 **Employed on projects:**
 
-**Schmitt, P.** (ACINN)
+**Holmgren, E.** (ACINN)
 : Student helper working on [<u>OGGM-Edu</u>](http://edu.oggm.org)
 
-**Oberrauch, M.** (ACINN)
-: Student helper working with OGGM
+**Schroeder, M.** (ACINN)
+: Student helper working on [<u>OGGM-Edu</u>](http://edu.oggm.org)
+
+**Fischer, A.** (ACINN)
+: Student helper working on the Randolph Glacier Inventory
 
 Click [here]({{ site.url }}/team/theses) for the list of past advisees.
 
 ### Completed PhDs
 
-<b><u> <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=11&ved=2ahUKEwjd5vat3M7dAhUCtIsKHYIIC40QFjAKegQIBBAB&url=https%3A%2F%2Fwww.geographie.uni-bremen.de%2Findex.php%3Foption%3Dcom_jresearch%26view%3Dmember%26task%3Dshow%26id%3D81&usg=AOvVaw1Y9ciN7wx4RrZ89nv0XAOM">Julia Eis</a></u></b> (2020, Uni Bremen, co-supervised)
+<b><u> <a href="https://geographie.uni-bremen.de/index.php?option=com_jresearch&view=member&task=show&id=81">Julia Eis</a></u></b> (2020, Uni Bremen, co-supervised)
 : Reconstructing glacier evolution using a flowline model ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://media.suub.uni-bremen.de/handle/elib/4635))
 
 <b><u> <a href="https://www.researchgate.net/profile/Beatriz_Recinos">Beatriz Recinos</a></u></b> (2020, Uni Bremen, co-supervised)
