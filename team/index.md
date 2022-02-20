@@ -43,11 +43,14 @@ modified: 2018-09-22
 **Holmgren, E.** (ACINN)
 : Student helper working on [<u>OGGM-Edu</u>](http://edu.oggm.org)
 
+**Roura Adserias, F.** (ACINN)
+: Student helper working on the [Randolph Glacier Inventory](http://www.glims.org/RGI/)
+
 **Schroeder, M.** (ACINN)
 : Student helper working on [<u>OGGM-Edu</u>](http://edu.oggm.org)
 
 **Fischer, A.** (ACINN)
-: Student helper working on the Randolph Glacier Inventory
+: Student helper working on the [Randolph Glacier Inventory](http://www.glims.org/RGI/)
 
 Click [here]({{ site.url }}/team/theses) for the list of past advisees.
 

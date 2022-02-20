@@ -22,6 +22,7 @@ Site hosted on <a href="https://pages.github.com/" rel="nofollow"> GitHub</a>, p
 * [Publications]({{ site.url }}/images/fm-header-3.jpg): Watzespitze seen from the Steinbock pass (Austrian Alps)
 * [Teaching]({{ site.url }}/images/fm-header-4.jpg): Zhadang Glacier, Mount Nyainqêntanglha (7162 m a.s.l.), and Nam Co lake (Tibet)
 * [Software]({{ site.url }}/images/fm-header-5.jpg): Prins Karls Forland (Svalbard)
+* [CV]({{ site.url }}/images/fm-header-9.jpg): Dolomites, Italy
 * [Posts]({{ site.url }}/images/fm-header-6.jpg): Valley on the way to Naimona’nyi Glacier (Tibet)
 * [Team]({{ site.url }}/images/fm-header-7.jpg): Landmannalaugar, Iceland
 * [About]({{ site.url }}/images/fm-header-8.jpg): Pyrenees, France

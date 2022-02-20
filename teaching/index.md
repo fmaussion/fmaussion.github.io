@@ -9,20 +9,21 @@ modified: 2016-05-09
 I teach various courses[^1] at the ACINN, mostly for students
 in [atmospheric sciences](http://acinn.uibk.ac.at/education-imgi).
 
+## Online lecture notes
+
+**Winter semester**
+
 <a href="http://fabienmaussion.info/scientific_programming"  style="color:blue"> Click here</a> <font color="blue">if you are here for the <b>Scientific Programming</b> online lecture notes.</font> <br>
 <a href="https://fabienmaussion.info/climate_system"  style="color:blue"> Click here</a> <font color="blue">if you are here for the <b>Climate System</b> online lecture practicals.</font>
+
+**Summer semester**
+
+<a href="https://fabienmaussion.info/intro_to_programming"  style="color:red"> Click here</a> <font color="red">if you are here for the <b>Introduction to  Programming</b> online lecture notes.</font> <br>
+<a href="https://fabienmaussion.info/advanced_programming"  style="color:red"> Click here</a> <font color="red">if you are here for the <b>Advanced Scientific Programming</b> online lecture notes.</font>
 
 [^1]: VO ("Vorlesung", regular lectures) VU ("Vorlesung mit Übung", lectures with integrated practicals), and SE ("Seminars").
 
 ## Current courses
-
-### VO - Introduction to meteorology and climatology
-
-[Fundamentals of the climate system](https://orawww.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=16W&lvnr_id_in=707606)
-for undergraduate students (winter semester, 2hrs). Topics: components of the
-climate system, general circulation of the atmosphere and of the oceans,
-climate variability (ENSO, NAO, Monsoon), climate change and climate policy.
-
 
 ### VU - Physics of the climate system
 
@@ -32,7 +33,6 @@ study of the general circulation of the atmosphere using reanalysis data and
 Python.
 Topics: climate variability, synoptic climatology, paleoclimate, climate modelling,
 climate change and feedbacks.
-
 The lecture practicals are [available online](http://fabienmaussion.info/climate_system/).
 
 <figure class="half">
@@ -40,17 +40,39 @@ The lecture practicals are [available online](http://fabienmaussion.info/climate
     <a href="/images/teaching/era-ek.jpg"><img src="/images/teaching/era-ek.jpg"></a>
 </figure>
 
+### VU - The Cryosphere in the Climate System
 
+[Advanced course in glaciology](https://orawww.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=16S&lvnr_id_in=707711)
+for graduate students (summer semester, 3hrs, co-taught with others).
+Practicals: analyse automatic weather station data, compute the energy and mass
+balance of a glacier surface, [OGGM-Edu](https://edu.oggm.org).
+
+### VU - Introduction to Programming
+
+[Introduction course in programming](https://lfuonline.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=22S&lvnr_id_in=707638)
+for undergraduate students (winter semester, 2+1hrs).
+The lecture notes are [available online](http://fabienmaussion.info/intro_to_programming/).
 
 ### VU - Scientific Programming
 
-[Advanced course in programming](https://orawww.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=18S&lvnr_id_in=707716)
-for graduate students (winter semester, 2+1hrs). Modern programming techniques for (geo-)scientists:
-numerics, software structure, unit testing, object oriented programming, version control, open development practices...
-
+[Scientific programming](https://orawww.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=18S&lvnr_id_in=707716)
+for graduate students (winter semester, 2+1hrs).
 The lecture notes are [available online](http://fabienmaussion.info/scientific_programming/).
 
+### VU - Advanced Scientific Programming
+
+Optional, [advanced course in programming](https://lfuonline.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=22S&lvnr_id_in=707833)
+for graduate students (summer semester, 2hrs).
+The lecture notes are [available online](http://fabienmaussion.info/advanced_programming/).
+
 ## Past courses
+
+### VO - Introduction to meteorology and climatology
+
+[Fundamentals of the climate system](https://orawww.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=16W&lvnr_id_in=707606)
+for undergraduate students (winter semester, 2hrs). Topics: components of the
+climate system, general circulation of the atmosphere and of the oceans,
+climate variability (ENSO, NAO, Monsoon), climate change and climate policy.
 
 ### VU - Transparency and communication in Earth Sciences
 
@@ -65,14 +87,6 @@ summarizes their result to a broader audience.
 <figure>
     <a href="https://transparency-lecture.github.io"><img src="/images/teaching/transp.jpg"></a>
 </figure>
-
-### VU - The Cryosphere in the Climate System
-
-[Advanced course in glaciology](https://orawww.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=16S&lvnr_id_in=707711)
-for graduate students (winter semester, 3hrs, co-taught with others).
-Practicals: analyse automatic weather station data, compute the energy and mass
-balance of a glacier surface.
-
 
 ### SE - Literature seminar glaciology / climatology
 
