@@ -22,7 +22,8 @@ Personal website: [fabienmaussion.info](https://fabienmaussion.info)
 - 2014--2015: Post-doc at the Department of Atmospheric and Cryospheric Sciences ([ACINN](https://www.uibk.ac.at/acinn)), Universität Innsbruck
 - 2015--2016: University Assistant at [ACINN](https://www.uibk.ac.at/acinn), Universität Innsbruck
 - 2016--2021: Assistant professor at [ACINN](https://www.uibk.ac.at/acinn), Universität Innsbruck
-- Since 2021: Associate professor at [ACINN](https://www.uibk.ac.at/acinn), Universität Innsbruck
+- 2021: 3 months research stay as "invited professor" at [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/) & [Institut des Géosciences de l’Environnement](https://www.ige-grenoble.fr/)
+- Since October 2021: Associate professor at [ACINN](https://www.uibk.ac.at/acinn), Universität Innsbruck
 
 ## Education
 
@@ -52,7 +53,8 @@ Supervisor: Dieter Scherer. Reviewers: Christoph Schneider (RWTH Aachen), Georg 
 - Member of the IACS working group: [Glacier ice thickness estimation](https://cryosphericsciences.org/activities/ice-thickness/)
 - Member of the CLIC working group: [Glacier Model Intercomparison Project](http://www.climate-cryosphere.org/mips/glaciermip)
 - Scientific editor: [Geoscientific Model Development](https://www.geosci-model-dev.net/) (EGU Journal)
-- Reviewer: *J. Geophys. Res., J. Hydrometeorol., Int. J. Climatol., J. Hydrol., The Cryosph., J. Glaciol., Hydrol. Earth Syst. Sci., Q.J.R. Meteorol. Soc., Earth Syst. Dynam., ...*
+- Session convener [Observing and modelling glaciers at regional to global scales](https://meetingorganizer.copernicus.org/EGU22/session/42447) (EGU2020-2022), [Climate modeling in Mountain regions](https://www.uibk.ac.at/congress/imc2019/program/1-1-b.html.en) ([IMC2019](https://www.uibk.ac.at/congress/imc2019)), [Scientific Committee](https://www.imc2022.info/scientific-committee/) at [IMC2022](https://www.imc2022.info)...
+- Reviewer: *J. Climate, J. Geophys. Res., Nature, Nature CC, J. Hydrometeorol., Int. J. Climatol., J. Hydrol., The Cryosph., J. Glaciol., Hydrol. Earth Syst. Sci., Q.J.R. Meteorol. Soc., Earth Syst. Dynam., ...*
 
 ## Contributions to open source software and open data
 

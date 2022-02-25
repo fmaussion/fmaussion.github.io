@@ -144,9 +144,10 @@ journal [Geoscientific Model Development](https://gmd.copernicus.org/).
 
 ### As PI (current):
 - 2021--2024: [PROVIDE](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/provide.html.en) -- Paris Agreement Overshooting – Reversibility, Climate Impacts and Adaptation Needs (H2020, 230k€) 
+- 2022--2024: [A future-ready Open Global Glacier Model (OGGM)](https://oggm.org/img/blog/software_project/dfg_software_proposal_final.pdf) (DFG, 180k€, co-PI: Ben Marzeion) 
 - 2021--2024: [UNCERTAIN](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/uncertainties-glacier-smb.html.en) -- Certainties and uncertainties in the future surface mass balance of mountain glaciers ([ÖAW](https://www.oeaw.ac.at/oesterreichische-akademie-der-wissenschaften), 120k€, together with PhD student [Lilian Schuster](https://www.uibk.ac.at/acinn/people/lilian-schuster.html.en)) 
 - 2019--2022: [AgroClim - Huaraz](https://agroclim-huaraz.info/), "Water availability and water demand in the Peruvian Andes" ([ÖAW](https://www.oeaw.ac.at/oesterreichische-akademie-der-wissenschaften), 443k€) 
-- 2020--2022: [Scaling regional sea-level changes with climate forcings](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/scaling_regional_sea_level_changes.html.en) (FWF, Co-PI)
+- 2020--2022: [Scaling regional sea-level changes with climate forcings](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/scaling_regional_sea_level_changes.html.en) (FWF, replacing previous PI Kristin Richter)
 
 ### As PI (completed):
 - 2018--2021: [Modelling glacier length changes in Alps on the base of tree-ring based temperature reconstructions for the last 2500 years](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/modelling-glacier-length-changes.html.en) (Universtität Innsbruck, 120k€, Co-PI)
