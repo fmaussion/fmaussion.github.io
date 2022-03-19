@@ -6,7 +6,7 @@ title: "Curriculum Vitae: Fabien Maussion"
 modified: 2022-02-20
 ---
 
-*Last updated: February 2022*
+*Last updated: March 2022*
 
 Department of Atmospheric and Cryospheric Sciences <br>
 Research centre for Climate <br>
@@ -17,21 +17,23 @@ Personal website: [fabienmaussion.info](https://fabienmaussion.info)
 
 ## Professional career
 
-- 2006--2007: Interim year as engineering trainee – Space mechanics at [C-S Group](https://www.c-s.fr), Toulouse
-- 2008--2014: PhD / Post-doc at the [Chair of Climatology](http://klima.tu-berlin.de), Technische Universität Berlin
-- 2014--2015: Post-doc at the Department of Atmospheric and Cryospheric Sciences ([ACINN](https://www.uibk.ac.at/acinn)), Universität Innsbruck
-- 2015--2016: University Assistant at [ACINN](https://www.uibk.ac.at/acinn), Universität Innsbruck
-- 2016--2021: Assistant professor at [ACINN](https://www.uibk.ac.at/acinn), Universität Innsbruck
-- 2021: 3 months research stay as "invited professor" at [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/) & [Institut des Géosciences de l’Environnement](https://www.ige-grenoble.fr/)
 - Since October 2021: Associate professor at [ACINN](https://www.uibk.ac.at/acinn), Universität Innsbruck
+- 2021: 3 months research stay as "invited professor" at [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/) & [Institut des Géosciences de l’Environnement](https://www.ige-grenoble.fr/)
+- 2016--2021: Assistant professor at [ACINN](https://www.uibk.ac.at/acinn), Universität Innsbruck
+- 2015--2016: University Assistant at [ACINN](https://www.uibk.ac.at/acinn), Universität Innsbruck
+- 2014--2015: Post-doc at the Department of Atmospheric and Cryospheric Sciences ([ACINN](https://www.uibk.ac.at/acinn)), Universität Innsbruck
+- 2008--2014: PhD / Post-doc at the [Chair of Climatology](http://klima.tu-berlin.de), Technische Universität Berlin
+- 2006--2007: Interim year as engineering trainee – Space mechanics at [C-S Group](https://www.c-s.fr), Toulouse
+
 
 ## Education
 
-- 2002: Baccalaureate (High School Diploma)
-- 2003--2004: Maths and physics preparation class in Strasbourg 
-- 2005--2006: [SUPAÉRO](https://www.isae-supaero.fr/en/) -- Institut Supérieur de l’Aéronautique et de l’Espace, Toulouse (aerospace engineering school)
-- 2007--2008: [Technische Universität Berlin](https://www.tu.berlin/) – International exchange year and Master degree
+- 2019: Data assimilation course at the University of Reading (1 week) and ECMWF (1 week)
 - 2008--2014: [Technische Universität Berlin - Chair of Climatology](https://www.klima.tu-berlin.de) – PhD thesis
+- 2007--2008: [Technische Universität Berlin](https://www.tu.berlin/) – International exchange year and Master degree
+- 2005--2006: [SUPAÉRO](https://www.isae-supaero.fr/en/) -- Institut Supérieur de l’Aéronautique et de l’Espace, Toulouse (aerospace engineering school)
+- 2003--2004: Maths and physics preparation class in Strasbourg 
+- 2002: Baccalaureate (High School Diploma)
 
 **PhD Thesis** defended in February 2014 with the title "A new atmospheric dataset for High Asia : development,
 validation and applications in climatology and in glaciology" (summa cum laude). <br>
