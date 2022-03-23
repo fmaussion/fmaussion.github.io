@@ -18,6 +18,7 @@ Personal website: [fabienmaussion.info](https://fabienmaussion.info)
 ## Professional career
 
 - Since October 2021: Associate professor at [ACINN](https://www.uibk.ac.at/acinn), Universität Innsbruck
+- **[Habilitation](https://en.wikipedia.org/wiki/Habilitation)** obtained in September with the title "[Numerical modelling of global glacier change](https://fabienmaussion.info/habil2.0/welcome.html)" (University of Innsbruck)
 - 2021: 3 months research stay as "invited professor" at [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/) & [Institut des Géosciences de l’Environnement](https://www.ige-grenoble.fr/)
 - 2016--2021: Assistant professor at [ACINN](https://www.uibk.ac.at/acinn), Universität Innsbruck
 - 2015--2016: University Assistant at [ACINN](https://www.uibk.ac.at/acinn), Universität Innsbruck
