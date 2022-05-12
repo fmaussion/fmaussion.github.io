@@ -6,6 +6,16 @@ title: "Supervised theses (completed)"
 modified: 2016-05-09
 ---
 
+
+### 2022
+
+**Albrecht, P.** (ACINN)
+: Thesis: *Past climate change in the Rio Santa Basin, Peruvian Andes, as described by multiple datasets* ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/7672540))
+
+**Wöckinger, S.** (ACINN)
+: Thesis: *Evaluation of COSMO-CLM high-resolution climate simulations over the Rio Santa basin, Peru, with focus on precipitation processes* ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/7301691))
+
+
 ### 2021
 
 **Oberrauch, M.** (master thesis)

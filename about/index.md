@@ -29,11 +29,5 @@ Site hosted on <a href="https://pages.github.com/" rel="nofollow"> GitHub</a>, p
 
 ### Other things
 
-Before moving to Innsbruck, I was working at the
-[Chair of Climatology](http://www.klima.tu-berlin.de/index.php?show=home_start&lan=en/),
-TU Berlin, where I obtained my PhD in 2014.
-I graduated from the French aerospace engineering school
-[ISAE-Supaero](http://www.isae.fr/en) in 2008.
-
 In my spare time I enjoy hiking and climbing mountains, making pictures, and
 playing music (current: [Dreizimmerwohnung](http://dreizimmerwohnung.info/), past: [Inti Watana](https://www.jamendo.com/artist/348758/inti-watana/albums), [Warum Nicht!](http://wnband.wixsite.com/warum-nicht), [Silly Circus Band](http://sillycircusband.bandcamp.com/)).

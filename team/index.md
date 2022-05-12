@@ -20,23 +20,28 @@ modified: 2018-09-22
 <b><u> <a href="https://www.uibk.ac.at/acinn/people/niklas-richter.html.en">Niklas Richter</a></u></b> (ACINN, co-supervised)
 : Studying atmospheric drivers of glacier change in High Mountain Asia
 
+### Visiting students
+
+<b><u> <a href="https://rodaguayo.github.io/">Rodrigo Aguayo</a></u></b> (University of Concepción, Chile, exchange PhD student)
+: Working on glacier peak water in Patagonia
+
 ### Post-docs
 
-<b><u> <a href="https://www.uibk.ac.at/acinn/people/anouk-vlug.html.en">Anouk Vlug</a></u></b> (ACINN)
-: Working on the influence of climate forcings on glacier change over the last millennium  *([project website](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/scaling_regional_sea_level_changes.html.en))*
+<b><u> <a href="https://www.uibk.ac.at/acinn/people/anouk-vlug.html.en">Anouk Vlug</a></u></b> (ACINN & Uni Bremen)
+: Working on the DFG Project "A future ready Open Global Glacier Model" *([project website](https://oggm.org))*
 
 ### Student advisees
 
 **Thesis advisees:**
 
-**Albrecht, P.** (ACINN)
-: Thesis: *Past climate change in the Rio Santa Basin, Peruvian Andes*
+**Castiglione, A.** (ACINN)
+: Thesis: *Attribution of a severe weather event to climate change.*
 
 **Holmgren, E.** (ACINN)
-: Thesis: *Studying peak water with the OGGM model*
+: Thesis: *Studying peak water with the OGGM model.*
 
-**Wöckinger, S.** (ACINN)
-: Thesis: *High Resolution Climate Simulations in the Rio Santa Basin, Peru, with COSMO-CLM-GPU*
+**Roura Adserias, F.** (ACINN)
+: Thesis: *When will glaciers in the Pyrenees disappear?*
 
 **Employed on projects:**
 
@@ -62,12 +67,16 @@ Click [here]({{ site.url }}/team/theses) for the list of past advisees.
 <b><u> <a href="https://www.researchgate.net/profile/Beatriz_Recinos">Beatriz Recinos</a></u></b> (2020, Uni Bremen, co-supervised)
 : Ocean-glacier interaction on the large regional scale ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://media.suub.uni-bremen.de/handle/elib/4637))
 
-<figure>
-    <a href="https://oggm.org/img/blog/3rd_workshop/group_s.jpeg"><img src="https://oggm.org/img/blog/3rd_workshop/group_s.jpeg"></a>
-    <figcaption>Group photo of the <u><a href="https://oggm.org/2018/06/29/3nd-oggm-worshop-summary/">2018 OGGM Workshop</a></u> in Innsbruck</figcaption>
-</figure>
+<b><u> <a href="https://www.uibk.ac.at/acinn/people/anouk-vlug.html.en">Anouk Vlug</a></u></b> (2021, Uni Bremen, co-supervised)
+: The influence of climate variability on the mass balance of Canadian Arctic land-terminating glaciers, in simulations of the last millennium ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://media.suub.uni-bremen.de/handle/elib/5896))
 
 ### Past visiting students
 
 <b><u> <a href="https://www.uibk.ac.at/acinn/people/li-fei.html.en">Li Fei 李斐</a></u></b> (Institute of Tibetan Plateau Research, China, exchange PhD student)
 : Working on ice volume estimates in High Mountain Asia
+
+<figure>
+    <a href="https://oggm.org/img/blog/5th_workshop/group_picture_hostel.jpg"><img src="https://oggm.org/img/blog/5th_workshop/group_picture_hostel.jpg"></a>
+    <figcaption>Group photo of the <u><a href="https://oggm.org/2021/10/12/5th-oggm-worshop-summary/">2021 OGGM Workshop</a></u> in Neuharlingersiel</figcaption>
+</figure>
+

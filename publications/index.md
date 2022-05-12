@@ -10,7 +10,11 @@ title: "Publications and outreach"
 ![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-3211-506X)   
 ![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.com/citations?user=tTpQiSgAAAAJ&hl=fr)   
 ![Mendeley]({{ site.url }}/images/mendeley.png) [Mendeley](https://www.mendeley.com/profiles/fabien-maussion/)    
-![ResearcherID]({{ site.url }}/images/rid.png) [ResearcherID](http://www.researcherid.com/rid/B-9814-2013)   
+![ResearcherID]({{ site.url }}/images/rid.png) [ResearcherID](http://www.researcherid.com/rid/B-9814-2013)  
+
+*New (October 2021):* My habilitation thesis ([wikipedia](https://en.wikipedia.org/wiki/Habilitation)) was recently accepted.
+You can find an online copy [here](https://fabienmaussion.info/habil2.0).
+
 
 ## Press (selection)
 
@@ -34,10 +38,14 @@ title: "Publications and outreach"
 
 [OGGM-Edu](https://edu.oggm.org), an interactive platform to learn and teach about glaciers
 
-*New (Feb 2021):* I recently submitted my habilitation thesis ([wikipedia](https://en.wikipedia.org/wiki/Habilitation)). 
-You can find an online copy [here](https://fabienmaussion.info/habil2.0).
 
 ## Online presentations (selection)
+
+
+<iframe src="https://player.vimeo.com/video/704103224" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+The public lecture of my habilitation (online copy [here](https://fabienmaussion.info/habil2.0)).
+
 
 <iframe width="752" height="423" src="https://www.youtube.com/embed/ttJMxcwXUjw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
