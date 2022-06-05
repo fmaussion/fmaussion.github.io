@@ -6,5 +6,5 @@ title: "Curriculum Vitae: Fabien Maussion"
 modified: 2022-02-20
 ---
 
-- Web: [CV Maussion]({{ site.url }}/cv/cv_maussion.html)
-- PDF: [CV Maussion]({{ site.url }}/cv/cv_maussion.pdf)
+- [Web version]({{ site.url }}/cv/cv_maussion.html)
+- [PDF version]({{ site.url }}/cv/cv_maussion.pdf)
