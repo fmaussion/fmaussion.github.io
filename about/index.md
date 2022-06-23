@@ -30,4 +30,4 @@ Site hosted on <a href="https://pages.github.com/" rel="nofollow"> GitHub</a>, p
 ### Other things
 
 In my spare time I enjoy hiking and climbing mountains, making pictures, and
-playing music (current: [Dreizimmerwohnung](http://dreizimmerwohnung.info/), past: [Inti Watana](https://www.jamendo.com/artist/348758/inti-watana/albums), [Warum Nicht!](http://wnband.wixsite.com/warum-nicht), [Silly Circus Band](http://sillycircusband.bandcamp.com/)).
+playing music. Current: [Dreizimmerwohnung](http://dreizimmerwohnung.info/). Past: Inti Watana ([EP](https://www.jamendo.com/artist/348758/inti-watana/albums)), Warum Nicht! ([site](http://wnband.wixsite.com/warum-nicht), [EP](https://warumnichtband.bandcamp.com/)), Silly Circus Band ([EP](http://sillycircusband.bandcamp.com/)).
