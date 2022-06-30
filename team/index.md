@@ -37,9 +37,6 @@ modified: 2018-09-22
 **Castiglione, A.** (ACINN)
 : Thesis: *Attribution of a severe weather event to climate change.*
 
-**Holmgren, E.** (ACINN)
-: Thesis: *Studying peak water with the OGGM model.*
-
 **Roura Adserias, F.** (ACINN)
 : Thesis: *When will glaciers in the Pyrenees disappear?*
 

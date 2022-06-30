@@ -3,14 +3,17 @@ layout: page
 image:
   feature: fm-header-4.jpg
 title: "Supervised theses (completed)"
-modified: 2016-05-09
+modified: 2022-06-30
 ---
 
 
 ### 2022
 
+**Holmgren, E.** (ACINN)
+: Thesis: *21st century glacier runoff and how it buffers drought in 75 large-scale basins* ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/7754587))
+
 **Albrecht, P.** (ACINN)
-: Thesis: *Past climate change in the Rio Santa Basin, Peruvian Andes, as described by multiple datasets* ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/7672540))
+: Thesis: *Past climate change in the Rio Santa Basin, Peruvian Andes, as described by multiple datasets* ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/7149410))
 
 **Wöckinger, S.** (ACINN)
 : Thesis: *Evaluation of COSMO-CLM high-resolution climate simulations over the Rio Santa basin, Peru, with focus on precipitation processes* ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/7301691))
