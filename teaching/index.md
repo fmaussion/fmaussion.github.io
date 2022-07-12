@@ -44,7 +44,7 @@ The lecture practicals are [available online](http://fabienmaussion.info/climate
 
 [Advanced course in glaciology](https://orawww.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=16S&lvnr_id_in=707711)
 for graduate students (summer semester, 3hrs, co-taught with others).
-Practicals: analyse automatic weather station data, compute the energy and mass
+Practicals: automatic weather station data, energy and mass
 balance of a glacier surface, [OGGM-Edu](https://edu.oggm.org).
 
 ### VU - Introduction to Programming
@@ -109,19 +109,23 @@ topics. Some of my recent presentations are available online:
 explains it in a little more detail)
 
 
-## Student evaluations
+## Past courses & Student evaluations
 
 Semester | Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Level | Institution&nbsp; | Evaluation |
 :---|:---|:---|:---|:---|:---|
-Winter 2021/22&nbsp; |Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2021WS_SciPro.pdf)  |  
+Summer 2022&nbsp; | Advanced Scientific Programming | Graduate | ACINN | not evaluated |
+Summer 2022&nbsp; | The Cryosphere in the Climate System (shared) | Graduate | ACINN | not evaluated |
+Summer 2022&nbsp; | Scientific Communication (shared) | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2022SS_PopUp.pdf)  |  
+Summer 2022&nbsp; | Introduction to Programming | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2022SS_InPro.pdf)  |  
+Winter 2021/22&nbsp; | Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2021WS_SciPro.pdf)  |  
 Winter 2021/22 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2021WS_PhyClim.pdf)  |  
-Winter 2020/21&nbsp; |Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2020WS_SciPro.pdf)  |  
+Winter 2020/21&nbsp; | Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2020WS_SciPro.pdf)  |  
 Winter 2020/21 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2020WS_PhyClim.pdf)  |  
 Winter 2020/21 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2020WS_EKlim.pdf) |
-Winter 2019/20&nbsp; |Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2019WS_SciPro.pdf)  |  
+Winter 2019/20&nbsp; | Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2019WS_SciPro.pdf)  |  
 Winter 2019/20 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2019WS_PhyClim.pdf)  |  
 Winter 2019/20 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2019WS_EKlim.pdf) |
-Winter 2018/19 |Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018WS_SciPro.pdf)  |  
+Winter 2018/19 | Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018WS_SciPro.pdf)  |  
 Winter 2018/19 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018WS_PhyClim.pdf)  |  
 Winter 2018/19 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018WS_EKlim.pdf) |
 Summer 2018 | Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018SS_SciPro.pdf) |
