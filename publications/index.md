@@ -31,6 +31,9 @@ You can find an online copy [here](https://fabienmaussion.info/habil2.0).
 - [Tiroler Tageszeitung: Große Studie - Gletscher verlieren pro Jahr 335 Mrd. Tonnen Eis](https://www.tt.com/panorama/natur/15520085/grosse-studie-gletscher-verlieren-pro-jahr-335-mrd-tonnen-eis) (in German)
 - [Tiroler Tageszeitung: Einhaltung der Klimaziele bremst Anstieg des Meeresspiegels](https://www.tt.com/artikel/30790911/einhaltung-der-klimaziele-bremst-anstieg-des-meeresspiegels) (in German)
 - [ORF.at: 1,5-Grad-Ziel halbiert Meeresspiegelanstieg](https://science.orf.at/stories/3206397/) (in German)
+- [Der Standard: Gefährliche Dammbrüche im Hochgebirge nehmen zu](https://www.derstandard.at/story/2000133842761/gletscherseengefaehrliche-dammbrueche-im-hochgebirge), also [on ORF](https://tirol.orf.at/stories/3145914/)
+- [UIBK: Nega­tivre­kord: Glet­sch­er­bi­lanz rutscht immer frü­her ins Minus](https://www.uibk.ac.at/de/newsroom/2022/negativrekord-gletscherbilanz-rutscht-immer-fruher-ins-minus/) (in German)
+
 
 ## Outreach and education
 
@@ -63,3 +66,7 @@ on the topic of **Open source and Open science**. Slides available [here](http:/
 
 For the [ACINN graduate seminar](https://www.uibk.ac.at/acinn/graduate-seminar/index.html.en)
 on the topic of **OGGM-Edu: an interactive platform to learn and teach about glaciers**. Slides available [here](https://github.com/OGGM/oggm-edu-talk/raw/master/oggm-edu-talk.pdf)
+
+<iframe src="https://player.vimeo.com/video/657803384?h=a147040a61" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+Who is Fabien? A short presentation video made by the University of Innsbruck's press office.
