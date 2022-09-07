@@ -41,6 +41,15 @@ You can find an online copy [here](https://fabienmaussion.info/habil2.0).
 
 [OGGM-Edu](https://edu.oggm.org), an interactive platform to learn and teach about glaciers
 
+## Outreach videos
+
+<iframe src="https://ves.prosiebensat1puls4.tv/v/c44e503833b64e9f27197a484f4257c0.html" width="640" height="420" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+A 2 minutes video for the German TV broadcast Puls4, for a series called "climate heros" (that's a bit too much ;-). 
+
+<iframe src="https://player.vimeo.com/video/657803384?h=a147040a61" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+Who is Fabien? A short presentation video made by the University of Innsbruck's press office.
 
 ## Online presentations (selection)
 
@@ -67,6 +76,3 @@ on the topic of **Open source and Open science**. Slides available [here](http:/
 For the [ACINN graduate seminar](https://www.uibk.ac.at/acinn/graduate-seminar/index.html.en)
 on the topic of **OGGM-Edu: an interactive platform to learn and teach about glaciers**. Slides available [here](https://github.com/OGGM/oggm-edu-talk/raw/master/oggm-edu-talk.pdf)
 
-<iframe src="https://player.vimeo.com/video/657803384?h=a147040a61" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-Who is Fabien? A short presentation video made by the University of Innsbruck's press office.
