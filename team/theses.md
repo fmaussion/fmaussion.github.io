@@ -9,14 +9,17 @@ modified: 2022-06-30
 
 ### 2022
 
-**Holmgren, E.** (ACINN)
+**Holmgren, E.** (master thesis)
 : Thesis: *21st century glacier runoff and how it buffers drought in 75 large-scale basins* ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/7754587))
 
-**Albrecht, P.** (ACINN)
+**Albrecht, P.** (master thesis)
 : Thesis: *Past climate change in the Rio Santa Basin, Peruvian Andes, as described by multiple datasets* ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/7149410))
 
-**Wöckinger, S.** (ACINN)
+**Wöckinger, S.** (master thesis)
 : Thesis: *Evaluation of COSMO-CLM high-resolution climate simulations over the Rio Santa basin, Peru, with focus on precipitation processes* ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/7301691))
+
+**Jehle, L.** (bachelor thesis)
+: Thesis: *Analyse des Wetters im Rio-Santa Tal - Auswertung der Wetterstation Llupa und Datenvergleich mit dem WRF-Modell*
 
 
 ### 2021
@@ -38,10 +41,10 @@ modified: 2022-06-30
 **Castellani, M.** (master thesis)
 : Estimating Glacier Ice Thickness with Machine Learning ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-60115))
 
-**Schuster, L.** (ACINN)
+**Schuster, L.** (master thesis)
 : Response time sensitivity of glaciers using the Open Global Glacier Model ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/4864453))
 
-**Trichtl, M.** (ACINN)
+**Trichtl, M.** (master thesis)
 : The atmospheric water budget over the Tibetan Plateau in ERA-Interim and ERA5 reanalyses ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/4888002))
 
 ### 2019

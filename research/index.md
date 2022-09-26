@@ -35,6 +35,7 @@ and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.
 [Eis et al., 2021](https://www.frontiersin.org/articles/10.3389/feart.2021.595755/full); 
 [Pelto et al., 2020](https://doi.org/10.1017/jog.2020.75); 
 [Rounce et al., 2021](https://doi.org/10.1029/2020GL091311);
+[Furian et al., 2022](https://www.frontiersin.org/articles/10.3389/feart.2022.821798/full);
 
 ### Climate controls on glacier mass-balance
 
@@ -53,6 +54,19 @@ and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.
 [Mölg et al., 2014](http://www.nature.com/nclimate/journal/v4/n1/full/nclimate2055.html);
 [Zolles et al., 2019](https://www.the-cryosphere.net/13/469/2019/tc-13-469-2019.html);
 [Galos et al., 2017](https://tc.copernicus.org/articles/11/1417/2017/);
+
+### Water availability and water demand in the Peruvian Andes
+
+<figure>
+    <a href="/images/research/Fig_NDVI.jpg" >
+    <img src="/images/research/Fig_NDVI.jpg" alt="missing" width="100%" />
+    </a>
+    <figcaption>Figure: Seasonal domain mean time series and linear regressions for NDVI (Hänchen et al., 2022)</figcaption>
+</figure>
+
+**Relevant publications:**
+[Hänchen et al., 2022](https://esd.copernicus.org/articles/13/595/2022/); 
+[AgroClim-Huaraz](https://agroclim-huaraz.info);
 
 ### Climate of the Tibetan Plateau
 
