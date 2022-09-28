@@ -10,7 +10,7 @@ title: "Publications and outreach"
 ![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-3211-506X)   
 ![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.com/citations?user=tTpQiSgAAAAJ&hl=fr)   
 ![Mendeley]({{ site.url }}/images/mendeley.png) [Mendeley](https://www.mendeley.com/profiles/fabien-maussion/)    
-![ResearcherID]({{ site.url }}/images/rid.png) [ResearcherID](http://www.researcherid.com/rid/B-9814-2013)  
+![Web of Science]({{ site.url }}/images/rid.png) [Web of Science](https://www.webofscience.com/wos/author/record/B-9814-2013)  
 
 *New (October 2021):* My habilitation thesis ([wikipedia](https://en.wikipedia.org/wiki/Habilitation)) was recently accepted.
 You can find an online copy [here](https://fabienmaussion.info/habil2.0).
