@@ -25,7 +25,7 @@ teach about glaciers. It is a project inspired by OGGM but separate from it.
 The [Randolph Glacier Inventory](https://www.glims.org/RGI/index.html) is a global collection of glacier outlines.
 I am the co-chair of a [working group of the same name](https://cryosphericsciences.org/activities/working-groups/rgi-working-group/), and we developed [tools](https://github.com/GLIMS-RGI) and [datasets](https://rgitools.readthedocs.io/en/latest/dems.html) for the RGI.
 
-<a href="http://xarray.pydata.org"><img src="https://xarray.pydata.org/en/latest/_static/dataset-diagram-logo.png" width="200"></a>
+<a href="http://xarray.pydata.org"><img src="https://docs.xarray.dev/en/stable/_static/dataset-diagram-logo.png" width="200"></a>
 
 [Xarray](https://xarray.pydata.org) is a Python library to handle labeled,
 multi-dimensional datasets widely used in the geosciences.
