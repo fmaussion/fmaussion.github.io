@@ -14,7 +14,8 @@ in [atmospheric sciences](http://acinn.uibk.ac.at/education-imgi).
 **Winter semester**
 
 <a href="http://fabienmaussion.info/scientific_programming"  style="color:blue"> Click here</a> <font color="blue">if you are here for the <b>Scientific Programming</b> online lecture notes.</font> <br>
-<a href="https://fabienmaussion.info/climate_system"  style="color:blue"> Click here</a> <font color="blue">if you are here for the <b>Climate System</b> online lecture practicals.</font>
+<a href="https://fabienmaussion.info/climate_system"  style="color:blue"> Click here</a> <font color="blue">if you are here for the <b>Master Physics of the Climate System</b> online lecture practicals.</font>
+<a href="https://fabienmaussion.info/climate_practicals_bsc"  style="color:blue"> Click here</a> <font color="blue">if you are here for the <b>Bachelor Climate System</b> online lecture practicals.</font>
 
 **Summer semester**
 
