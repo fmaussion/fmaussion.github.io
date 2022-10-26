@@ -27,6 +27,9 @@ modified: 2018-09-22
 
 ### Post-docs
 
+<b><u> <a href="https://agroclim-huaraz.info/2022/03/01/welcome-emily.html">Emily Potter</a></u></b> (ACINN)
+: Working on the ÖAW Project "AgroClim Huaraz" *([project website](https://agroclim-huaraz.info/))*
+
 <b><u> <a href="https://www.uibk.ac.at/acinn/people/anouk-vlug.html.en">Anouk Vlug</a></u></b> (ACINN & Uni Bremen)
 : Working on the DFG Project "A future ready Open Global Glacier Model" *([project website](https://oggm.org))*
 
