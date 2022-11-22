@@ -34,6 +34,8 @@ You can find an online copy [here](https://fabienmaussion.info/habil2.0).
 - [Der Standard: Gefährliche Dammbrüche im Hochgebirge nehmen zu](https://www.derstandard.at/story/2000133842761/gletscherseengefaehrliche-dammbrueche-im-hochgebirge), also [on ORF](https://tirol.orf.at/stories/3145914/)
 - [UIBK: Nega­tivre­kord: Glet­sch­er­bi­lanz rutscht immer frü­her ins Minus](https://www.uibk.ac.at/de/newsroom/2022/negativrekord-gletscherbilanz-rutscht-immer-fruher-ins-minus/) (in German)
 - [ORF Science: Modell zeigt Abschied der Eisriesen](https://science.orf.at/stories/3215079) and the associated [podcast](https://sound.orf.at/podcast/oe1/young-science/der-abschied-der-eisriesen) (in German)
+- [SRF Radio from COP27 (Switzerland): warum der Meeresspiegel weiter steigen dürfte](https://www.srf.ch/audio/echo-der-zeit/klimakonferenz-warum-der-meeresspiegel-weiter-steigen-duerfte)
+
 
 ## Outreach and education
 
@@ -52,6 +54,11 @@ A 2 minutes video for the German TV broadcast Puls4, for a series called "climat
 Who is Fabien? A short presentation video made by the University of Innsbruck's press office.
 
 ## Online presentations (selection)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FGvt87FpVQY?start=1293" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Presentation given at COP27 in Sharm-El-Sheik for the [Cryosphere Pavillion (ICCI)](https://iccinet.org/cop-27-cryosphere-pavilion-focus-day-schedule/).
 
 
 <iframe src="https://player.vimeo.com/video/704103224" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
