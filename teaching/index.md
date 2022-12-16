@@ -7,7 +7,7 @@ modified: 2016-05-09
 ---
 
 I teach various courses[^1] at the ACINN, mostly for students
-in [atmospheric sciences](http://acinn.uibk.ac.at/education-imgi).
+in [atmospheric sciences](https://www.uibk.ac.at/acinn/studies/index.html.en).
 
 ## Online lecture notes
 
