@@ -20,11 +20,6 @@ modified: 2018-09-22
 <b><u> <a href="https://www.uibk.ac.at/acinn/people/niklas-richter.html.en">Niklas Richter</a></u></b> (ACINN, co-supervised)
 : Studying atmospheric drivers of glacier change in High Mountain Asia
 
-### Visiting students
-
-<b><u> <a href="https://rodaguayo.github.io/">Rodrigo Aguayo</a></u></b> (University of Concepción, Chile, exchange PhD student)
-: Working on glacier peak water in Patagonia
-
 ### Post-docs
 
 <b><u> <a href="https://agroclim-huaraz.info/2022/03/01/welcome-emily.html">Emily Potter</a></u></b> (ACINN)
@@ -33,31 +28,6 @@ modified: 2018-09-22
 <b><u> <a href="https://www.uibk.ac.at/acinn/people/anouk-vlug.html.en">Anouk Vlug</a></u></b> (ACINN & Uni Bremen)
 : Working on the DFG Project "A future ready Open Global Glacier Model" *([project website](https://oggm.org))*
 
-### Student advisees
-
-**Thesis advisees:**
-
-**Castiglione, A.** (ACINN)
-: Thesis: *Attribution of a severe weather event to climate change.*
-
-**Roura Adserias, F.** (ACINN)
-: Thesis: *When will glaciers in the Pyrenees disappear?*
-
-**Employed on projects:**
-
-**Holmgren, E.** (ACINN)
-: Student helper working on [<u>OGGM-Edu</u>](http://edu.oggm.org)
-
-**Roura Adserias, F.** (ACINN)
-: Student helper working on the [Randolph Glacier Inventory](http://www.glims.org/RGI/)
-
-**Schroeder, M.** (ACINN)
-: Student helper working on [<u>OGGM-Edu</u>](http://edu.oggm.org)
-
-**Fischer, A.** (ACINN)
-: Student helper working on the [Randolph Glacier Inventory](http://www.glims.org/RGI/)
-
-Click [here]({{ site.url }}/team/theses) for the list of past advisees.
 
 ### Completed PhDs
 
@@ -74,6 +44,36 @@ Click [here]({{ site.url }}/team/theses) for the list of past advisees.
 
 <b><u> <a href="https://www.uibk.ac.at/acinn/people/li-fei.html.en">Li Fei 李斐</a></u></b> (Institute of Tibetan Plateau Research, China, exchange PhD student)
 : Working on ice volume estimates in High Mountain Asia
+
+<b><u> <a href="https://rodaguayo.github.io/">Rodrigo Aguayo</a></u></b> (University of Concepción, Chile, exchange PhD student)
+: Working on glacier peak water in Patagonia
+
+### Student advisees
+
+**Thesis advisees:**
+
+**Castiglione, A.** (ACINN)
+: Thesis: *Attribution of a severe weather event to climate change.*
+
+**Roura Adserias, F.** (ACINN)
+: Thesis: *When will glaciers in the Pyrenees disappear?*
+
+**Chizzola, R.** (ACINN)
+: Thesis: *Influence of the future changes of the AMOC on North Atlantic glaciers.*
+
+**Employed on projects:**
+
+**Roura Adserias, F.** (ACINN)
+: Student helper working on the [Randolph Glacier Inventory](http://www.glims.org/RGI/)
+
+**Schroeder, M.** (ACINN)
+: Student helper working on [<u>OGGM-Edu</u>](http://edu.oggm.org)
+
+**Fischer, A.** (ACINN)
+: Student helper working on the [Randolph Glacier Inventory](http://www.glims.org/RGI/)
+
+Click [here]({{ site.url }}/team/theses) for the list of past advisees.
+
 
 <figure>
     <a href="https://oggm.org/img/blog/5th_workshop/group_picture_hostel.jpg"><img src="https://oggm.org/img/blog/5th_workshop/group_picture_hostel.jpg"></a>

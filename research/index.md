@@ -36,6 +36,8 @@ and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.
 [Pelto et al., 2020](https://doi.org/10.1017/jog.2020.75); 
 [Rounce et al., 2021](https://doi.org/10.1029/2020GL091311);
 [Furian et al., 2022](https://www.frontiersin.org/articles/10.3389/feart.2022.821798/full);
+[Hock et al., 2023](https://doi.org/10.1017/jog.2023.1);
+[Rounce et al., 2023](https://doi.org/10.1126/science.abo1324);
 
 ### Climate controls on glacier mass-balance
 

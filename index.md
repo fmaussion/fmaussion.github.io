@@ -12,11 +12,10 @@ title: "About"
 </footer>
 
 I am an associate professor at the 
-[Department of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at),
- part of the [Research Centre for Climate](https://www.uibk.ac.at/climate-cryosphere)
-at the University of Innsbruck. In July 2023, I will move to
+[Department of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at), 
+University of Innsbruck. **In July 2023**, I will move to
 the [School of Geographical Sciences](http://www.bristol.ac.uk/geography), 
-[University of Bristol](https://www.bristol.ac.uk).
+University of Bristol.
 
 I&#160;specialize in the study of our **climate system**, in particular 
 its **atmosphere, cryosphere and how they interact**. 
@@ -26,8 +25,8 @@ but I don't mind going to the field sometimes as well!
 I am also active around the topics of **open science, open education, and open source**.
 On this website you'll find infos and links to the projects I contribute to.
 
-<img src="images/acinn_logo.png" alt="ACINN Logo" style="width:350px;"> 
-<img src="images/uob_logo.png" alt="UoB Logo" style="width:350px;"> 
+<a href="https://www.uibk.ac.at/en/"><img src="images/uibk_logo.png" alt="ACINN Logo" style="width:350px;"></a>
+<a href="http://www.bristol.ac.uk"><img src="images/uob_logo.png" alt="UoB Logo" style="width:350px;"></a>
 
 ### Contact
 
