@@ -25,8 +25,8 @@ but I don't mind going to the field sometimes as well!
 I am also active around the topics of **open science, open education, and open source**.
 On this website you'll find infos and links to the projects I contribute to.
 
-<a href="https://www.uibk.ac.at/en/"><img src="images/uibk_logo.png" alt="ACINN Logo" style="width:350px;"></a>
-<a href="http://www.bristol.ac.uk"><img src="images/uob_logo.png" alt="UoB Logo" style="width:350px;"></a>
+<a href="https://www.uibk.ac.at/en/"><img src="images/uibk_logo.png" alt="ACINN Logo" style="width:200px;margin: 5px 5px 5px 5px;"></a>
+<a href="http://www.bristol.ac.uk"><img src="images/uob_logo.png" alt="UoB Logo" style="width:200px;margin: 5px 5px 5px 5px;"></a>
 
 ### Contact
 
