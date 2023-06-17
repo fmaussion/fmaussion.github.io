@@ -114,6 +114,8 @@ explains it in a little more detail)
 
 Semester&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Level | Institution&nbsp; | Evaluation |
 :---|:---|:---|:---|:---|:---|
+Summer 2023 | PhD seminar on careers outside of academia  | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2023SS_Career.pdf)  |  
+Summer 2023 | Introduction to Programming | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2023SS_InPro.pdf)  |  
 Winter 2022 | Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2022WS_SciPro.pdf)  |  
 Winter 2022 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2022WS_PhyClim.pdf)  |  
 Winter 2022 | The climate system (shared) | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2022WS_BscClim.pdf)  |  
