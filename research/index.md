@@ -23,20 +23,21 @@ and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.
 </figure>
 
 **Relevant publications:** 
-[Maussion et al., 2019](https://www.geosci-model-dev.net/12/909/2019/gmd-12-909-2019.html); 
-[Marzeion et al., 2018](https://www.nature.com/articles/s41558-018-0093-1); 
-[Marzeion et al., 2020](https://doi.org/10.1029/2019EF001470); 
-[Goosse et al., 2018](https://www.clim-past.net/14/1119/2018/cp-14-1119-2018.html); 
-[Farinotti et al., 2017](https://www.the-cryosphere.net/11/949/2017/); 
-[Farinotti et al., 2019](https://www.nature.com/articles/s41561-019-0300-3); 
-[Recinos et al., 2019](https://www.the-cryosphere.net/13/2657/2019/tc-13-2657-2019.html); 
-[Recinos et al., 2021](https://doi.org/10.1017/jog.2021.63); 
-[Eis et al., 2019](https://www.the-cryosphere.net/13/3317/2019/); 
-[Eis et al., 2021](https://www.frontiersin.org/articles/10.3389/feart.2021.595755/full); 
-[Pelto et al., 2020](https://doi.org/10.1017/jog.2020.75); 
+[Maussion et al., 2019](https://www.geosci-model-dev.net/12/909/2019/gmd-12-909-2019.html);
+[Marzeion et al., 2018](https://www.nature.com/articles/s41558-018-0093-1);
+[Marzeion et al., 2020](https://doi.org/10.1029/2019EF001470);
+[Goosse et al., 2018](https://www.clim-past.net/14/1119/2018/cp-14-1119-2018.html);
+[Farinotti et al., 2017](https://www.the-cryosphere.net/11/949/2017/);
+[Farinotti et al., 2019](https://www.nature.com/articles/s41561-019-0300-3);
+[Recinos et al., 2019](https://www.the-cryosphere.net/13/2657/2019/tc-13-2657-2019.html);
+[Recinos et al., 2021](https://doi.org/10.1017/jog.2021.63);
+[Eis et al., 2019](https://www.the-cryosphere.net/13/3317/2019/);
+[Eis et al., 2021](https://www.frontiersin.org/articles/10.3389/feart.2021.595755/full);
+[Pelto et al., 2020](https://doi.org/10.1017/jog.2020.75);
 [Rounce et al., 2021](https://doi.org/10.1029/2020GL091311);
 [Furian et al., 2022](https://www.frontiersin.org/articles/10.3389/feart.2022.821798/full);
 [Hock et al., 2023](https://doi.org/10.1017/jog.2023.1);
+[Malles et al., 2023](https://doi.org/10.1017/jog.2023.19);
 [Rounce et al., 2023](https://doi.org/10.1126/science.abo1324);
 
 ### Climate controls on glacier mass-balance
@@ -67,8 +68,8 @@ and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.
 </figure>
 
 **Relevant publications:**
-[Hänchen et al., 2022](https://esd.copernicus.org/articles/13/595/2022/); 
-[AgroClim-Huaraz](https://agroclim-huaraz.info);
+[Hänchen et al., 2022](https://esd.copernicus.org/articles/13/595/2022/);
+[Klein et al., 2023](https://iopscience.iop.org/article/10.1088/1748-9326/acb72b);
 
 ### Climate of the Tibetan Plateau
 
@@ -95,7 +96,6 @@ and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.
 [Maussion et al., 2014](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-13-00282.1); 
 [Curio et al., 2015](http://www.earth-syst-dynam.net/6/109/2015/esd-6-109-2015.html);
 
-
 ### Dynamical downscaling with the WRF model
 
 <figure>
@@ -118,7 +118,6 @@ and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.
 [Maussion et al., 2014](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-13-00282.1);
 [Collier et al., 2013](http://www.the-cryosphere.net/7/779/2013/tc-7-779-2013.html);
 [Collier et al., 2015](http://www.the-cryosphere.net/9/1617/2015/);
-
 
 ### Interdisciplinary approaches
 
@@ -145,7 +144,6 @@ and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.
 [Schuster et al., 2021](https://wcd.copernicus.org/articles/2/1/2021/);
 [Azam et al., 2021](https://www.science.org/doi/abs/10.1126/science.abf3668);
 
-
 ### Open science
 
 I am fascinated by the opportunities offered by sharing our data and methods
@@ -155,24 +153,27 @@ and most of the research data and the publications I contributed to
 are open access. I am also a scientific editor for the open-access
 journal [Geoscientific Model Development](https://gmd.copernicus.org/).
 
-
 ## Research projects & grants
 
-### As PI (current):
-- 2021--2024: [PROVIDE](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/provide.html.en) -- Paris Agreement Overshooting – Reversibility, Climate Impacts and Adaptation Needs (H2020, 230k€) 
-- 2022--2024: [A future-ready Open Global Glacier Model (OGGM)](https://oggm.org/img/blog/software_project/dfg_software_proposal_final.pdf) (DFG, 180k€, co-PI: Ben Marzeion) 
-- 2021--2024: [UNCERTAIN](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/uncertainties-glacier-smb.html.en) -- Certainties and uncertainties in the future surface mass balance of mountain glaciers ([ÖAW](https://www.oeaw.ac.at/oesterreichische-akademie-der-wissenschaften), 120k€, together with PhD student [Lilian Schuster](https://www.uibk.ac.at/acinn/people/lilian-schuster.html.en)) 
-- 2019--2022: [AgroClim - Huaraz](https://agroclim-huaraz.info/), "Water availability and water demand in the Peruvian Andes" ([ÖAW](https://www.oeaw.ac.at/oesterreichische-akademie-der-wissenschaften), 443k€) 
-- 2020--2022: [Scaling regional sea-level changes with climate forcings](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/scaling_regional_sea_level_changes.html.en) (FWF, replacing previous PI Kristin Richter)
+### As PI (current)
 
-### As PI (completed):
-- 2018--2021: [Modelling glacier length changes in Alps on the base of tree-ring based temperature reconstructions for the last 2500 years](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/modelling-glacier-length-changes.html.en) (Universtität Innsbruck, 120k€, Co-PI)
-- 2019--2020: "Glaciers on the Cloud: OGGM-Edu" (University of Innsbruck, 20k€) 
-- 2018--2019: [The Upper Grindelwald Glacier as indicator for Holocene climate variability](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/holocene-climate-variability.html.en) (TWF, 10k€) 
+- 2021--2024: [PROVIDE](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/provide.html.en) -- Paris Agreement Overshooting – Reversibility, Climate Impacts and Adaptation Needs (H2020)
+- 2022--2024: [A future-ready Open Global Glacier Model (OGGM)](https://oggm.org/img/blog/software_project/dfg_software_proposal_final.pdf) (DFG)
+- 2023--2025: [HYdro power: iMpact on the ELecTricity sector in Austria due to Climate Change in glaciated high alpine areas (HyMELT-CC)](https://forschung.boku.ac.at/fis/suchen.projekt_uebersicht?sprache_in=de&menue_id_in=300&id_in=14978) (Austrian Climate Research Programme)
+- 2021--2024: [UNCERTAIN](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/uncertainties-glacier-smb.html.en) -- Certainties and uncertainties in the future surface mass balance of mountain glaciers ([ÖAW](https://www.oeaw.ac.at/oesterreichische-akademie-der-wissenschaften), together with PhD student [Lilian Schuster](https://www.uibk.ac.at/acinn/people/lilian-schuster.html.en))
+
+### As PI (completed)
+
+- 2019--2023: [AgroClim - Huaraz](https://agroclim-huaraz.info/), "Water availability and water demand in the Peruvian Andes" ([ÖAW](https://www.oeaw.ac.at/oesterreichische-akademie-der-wissenschaften))
+- 2020--2022: [Scaling regional sea-level changes with climate forcings](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/scaling_regional_sea_level_changes.html.en) (FWF, replacing previous PI Kristin Richter)
+- 2018--2021: [Modelling glacier length changes in Alps on the base of tree-ring based temperature reconstructions for the last 2500 years](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/modelling-glacier-length-changes.html.en) (Universtität Innsbruck, Co-PI)
+- 2019--2020: "Glaciers on the Cloud: OGGM-Edu" (University of Innsbruck)
+- 2018--2019: [The Upper Grindelwald Glacier as indicator for Holocene climate variability](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/holocene-climate-variability.html.en) (TWF)
 
 ### As collaborator
+
 - 2021--2024: Landslides and Climate Change in highly Sensible Environments: Seismology, Earth Observation and Artificial Intelligence – [HighLand](https://anr.fr/Project-ANR-20-CE01-0006)
 - 2015--2021: Atmospheric Downscaling for Glacierized mountain environments – [DoG](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/dog.html.en)
-- 2014--2015: [Multidecadal to Centennial Climate Variability: Assessing the Conditions for the Glaciation of Tropical Mountains](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/glaciation-of-tropical-mountains.html.en) (FWF) 
+- 2014--2015: [Multidecadal to Centennial Climate Variability: Assessing the Conditions for the Glaciation of Tropical Mountains](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/glaciation-of-tropical-mountains.html.en) (FWF)
 - 2011--2014: [WET](https://www.klima.tu-berlin.de/index.php?show=reg_klima_hochasien_wet&lan=en) -- Variability and Trends in Water Balance Components of Benchmark Drainage Basins on the Tibetan Plateau (BMBF) 
-- 2008--2014: [DynRG-TIP](https://www.klima.tu-berlin.de/index.php?show=reg_klima_hochasien_dynrgtip&lan=en) -- Dynamic Response of Glaciers on the Tibetan Plateau to Climate Change (DFG) 
+- 2008--2014: [DynRG-TIP](https://www.klima.tu-berlin.de/index.php?show=reg_klima_hochasien_dynrgtip&lan=en) -- Dynamic Response of Glaciers on the Tibetan Plateau to Climate Change (DFG)
