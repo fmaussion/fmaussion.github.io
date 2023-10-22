@@ -13,7 +13,7 @@ title: "About"
 
 I am an associate professor at the [Bristol Glaciology Centre](http://www.bristol.ac.uk/geography/research/bgc),
 [School of Geographical Sciences](http://www.bristol.ac.uk/geography), University of Bristol.
-Before 2023, I was employed at the [Department of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at),
+Before July 2023, I was employed at the [Department of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at),
 University of Innsbruck
 
 I&#160;specialize in the study of our **climate system**, in particular
@@ -21,7 +21,9 @@ its **atmosphere, cryosphere and how they interact**.
 I do this mostly with the help of computer models,
 but I don't mind going to the field sometimes as well!
 
-I am also active around the topics of **open science, open education, and open source**.
+I am also active around the topics of **open science, open education, and open source**. 
+At Bristol, I am the programme director of the [MSc Climate Change Science and Policy](https://www.bristol.ac.uk/study/postgraduate/taught/msc-climate-change-science-and-policy). 
+
 On this website you'll find infos and links to the projects I contribute to.
 
 <a href="http://www.bristol.ac.uk"><img src="images/uob_logo.png" alt="UoB Logo" style="width:200px;margin: 5px 5px 5px 5px;"></a>
