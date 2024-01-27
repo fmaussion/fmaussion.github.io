@@ -7,12 +7,11 @@ title: "Publications and outreach"
 
 ## Peer-reviewed publications
 
-![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-3211-506X)   
-![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.com/citations?user=tTpQiSgAAAAJ&hl=fr)   
-![Mendeley]({{ site.url }}/images/mendeley.png) [Mendeley](https://www.mendeley.com/profiles/fabien-maussion/)    
-![Web of Science]({{ site.url }}/images/rid.png) [Web of Science](https://www.webofscience.com/wos/author/record/B-9814-2013)  
+![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-3211-506X)<br>
+![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.com/citations?user=tTpQiSgAAAAJ&hl=fr)<br>
+![Web of Science]({{ site.url }}/images/rid.png) [Web of Science](https://www.webofscience.com/wos/author/record/B-9814-2013)<br>
 
-*New (October 2021):* My habilitation thesis ([wikipedia](https://en.wikipedia.org/wiki/Habilitation)) was recently accepted.
+*October 2021:* My habilitation thesis ([wikipedia](https://en.wikipedia.org/wiki/Habilitation)) was recently accepted.
 You can find an online copy [here](https://fabienmaussion.info/habil2.0).
 
 
@@ -39,7 +38,7 @@ You can find an online copy [here](https://fabienmaussion.info/habil2.0).
 
 ## Outreach and education
 
-[![oggm-edu](https://edu.oggm.org/en/latest/_static/logos/oggm_edu_s_alpha.png)](https://edu.oggm.org)   
+[![oggm-edu](https://edu.oggm.org/en/latest/_static/logos/oggm_edu_s_alpha.png)](https://edu.oggm.org)
 
 [OGGM-Edu](https://edu.oggm.org), an interactive platform to learn and teach about glaciers
 
@@ -47,7 +46,7 @@ You can find an online copy [here](https://fabienmaussion.info/habil2.0).
 
 <iframe src="https://ves.prosiebensat1puls4.tv/v/c44e503833b64e9f27197a484f4257c0.html" width="640" height="420" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-A 2 minutes video for the German TV broadcast Puls4, for a series called "climate heros" (that's a bit too much ;-). 
+A 2 minutes video for the German TV broadcast Puls4, for a series called "climate heros" (that's a bit too much ;-).
 
 <iframe src="https://player.vimeo.com/video/657803384?h=a147040a61" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 

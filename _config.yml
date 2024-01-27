@@ -35,7 +35,7 @@ owner:
   bitbucket: fmaussion
   orcid: 0000-0002-3211-506X
   scholar: tTpQiSgAAAAJ
-  mendeley: fabien-maussion
+  mendeley:
   researchgate:
   stackoverflow: #http://stackoverflow.com/users/123456/username
   email:
@@ -50,7 +50,7 @@ owner:
     ad-slot:
   bing-verify:
   linkedin: #username
-  instagram: uibk.climate
+  instagram:
   lastfm: #username
   tumblr: #username
   pinterest: #username

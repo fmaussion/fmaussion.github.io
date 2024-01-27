@@ -20,12 +20,12 @@ and the [Glacier Model Intercomparison Project](http://www.climate-cryosphere.or
 [OGGM-Edu](http://edu.oggm.org) is an educational platform to learn and
 teach about glaciers. It is a project inspired by OGGM but separate from it.
 
-<a href="https://github.com/GLIMS-RGI"><img src="https://www.glims.org/assets/banners/glimsbanner.png" width="400"></a>
+<a href="https://www.glims.org/rgi_user_guide"><img src="https://www.glims.org/rgi_user_guide/_static/rgi_logo_square.png" width="150"></a>
 
 The [Randolph Glacier Inventory](https://www.glims.org/RGI/index.html) is a global collection of glacier outlines.
-I am the co-chair of a [working group of the same name](https://cryosphericsciences.org/activities/working-groups/rgi-working-group/), and we developed [tools](https://github.com/GLIMS-RGI) and [datasets](https://rgitools.readthedocs.io/en/latest/dems.html) for the RGI.
+I am the co-chair of a [working group of the same name](https://cryosphericsciences.org/activities/working-groups/rgi-working-group/), and we developed [tools](https://github.com/GLIMS-RGI) and [datasets](https://www.glims.org/rgi_user_guide) for the RGI.
 
-<a href="http://xarray.pydata.org"><img src="https://docs.xarray.dev/en/stable/_static/dataset-diagram-logo.png" width="200"></a>
+<a href="http://xarray.pydata.org"><img src="https://docs.xarray.dev/en/stable/_static/Xarray_Logo_RGB_Final.svg" width="200"></a>
 
 [Xarray](https://xarray.pydata.org) is a Python library to handle labeled,
 multi-dimensional datasets widely used in the geosciences.
@@ -36,7 +36,7 @@ Xarray is a fiscally sponsored project of [NumFOCUS](https://numfocus.org/).
 
 <a href="https://www.klima.tu-berlin.de/index.php?show=daten_har"><img src="https://www.klima.tu-berlin.de/daten/har/pics/domains_wet.png" width="100"></a>
 
-The [High Asia Refined analysis (HAR)](https://www.klima.tu-berlin.de/index.php?show=daten_har) is an atmospheric dataset I generated during my 
+The [High Asia Refined analysis (HAR)](https://www.klima.tu-berlin.de/index.php?show=daten_har) is an atmospheric dataset I generated during my
 PhD thesis: the data is openly available. The dataset now has a little sister, [HARv2](https://www.klima.tu-berlin.de/index.php?show=daten_har2)
 
 ### Salem

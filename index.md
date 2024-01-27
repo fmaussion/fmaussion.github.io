@@ -21,8 +21,8 @@ its **atmosphere, cryosphere and how they interact**.
 I do this mostly with the help of computer models,
 but I don't mind going to the field sometimes as well!
 
-I am also active around the topics of **open science, open education, and open source**. 
-At Bristol, I am the programme director of the [MSc Climate Change Science and Policy](https://www.bristol.ac.uk/study/postgraduate/taught/msc-climate-change-science-and-policy). 
+I am also active around the topics of **open science, open education, and open source**.
+At Bristol, I am the programme director of the [MSc Climate Change Science and Policy](https://www.bristol.ac.uk/study/postgraduate/taught/msc-climate-change-science-and-policy).
 
 On this website you'll find infos and links to the projects I contribute to.
 
