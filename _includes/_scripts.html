@@ -4,14 +4,14 @@
 {% if site.owner.google.analytics %}
 {% if jekyll.environment == 'production' %}
 <!-- Asynchronous Google Analytics snippet -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.owner.google.analytics }}"></script>
 <script>
-  window['ga-disable-{{ site.google_analytics }}'] = window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1";
+  window['ga-disable-{{ site.owner.google.analytics }}'] = window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1";
   window.dataLayer = window.dataLayer || [];
   function gtag(){window.dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', '{{ site.google_analytics }}');
+  gtag('config', '{{ site.owner.google.analytics }}');
 </script>
 {% endif %}
 {% endif %}
