@@ -8,20 +8,19 @@ modified: 2016-05-09
 
 I taught various courses at the University of Innsbruck, mostly for students
 in [atmospheric sciences](https://www.uibk.ac.at/acinn/studies/index.html.en).
-At Bristol, I will teach the [Quantifying Climate Risks](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=GEOGM0045) unit open to postgraduate students in the [MSc Climate Change Science and Policy](https://www.bristol.ac.uk/study/postgraduate/taught/msc-climate-change-science-and-policy).
+At Bristol, I will teach the [Quantifying Climate Risks](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24%2F25&unitCode=GEOGM0045) unit in 2025, open to postgraduate students in the [MSc Climate Change Science and Policy](https://www.bristol.ac.uk/study/postgraduate/taught/msc-climate-change-science-and-policy).
 
 ## Online lecture notes
 
-**Winter semester**
+<ul>
+<li><a href="http://fabienmaussion.info/intro_to_programming"> Introduction to  Programming</a> (undergraduate / bachelor level)</li>
+<li><a href="http://fabienmaussion.info/scientific_programming"> Scientific Programming</a> (postgraduate / masters level)</li>
+<li><a href="https://fabienmaussion.info/climate_system"> Physics of the Climate System Practicals</a>  (postgraduate / masters level)</li>
+</ul>
 
-<a href="http://fabienmaussion.info/scientific_programming"  style="color:blue"> Click here</a> <font color="blue">if you are here for the <b>Scientific Programming</b> online lecture notes.</font> <br>
-<a href="https://fabienmaussion.info/climate_system"  style="color:blue"> Click here</a> <font color="blue">if you are here for the <b>Master Physics of the Climate System</b> online lecture practicals.</font>
-<a href="https://fabienmaussion.info/climate_practicals_bsc"  style="color:blue"> Click here</a> <font color="blue">if you are here for the <b>Bachelor Climate System</b> online lecture practicals.</font>
-
-**Summer semester**
-
-<a href="https://fabienmaussion.info/intro_to_programming"  style="color:red"> Click here</a> <font color="red">if you are here for the <b>Introduction to  Programming</b> online lecture notes.</font> <br>
-<a href="https://fabienmaussion.info/advanced_programming"  style="color:red"> Click here</a> <font color="red">if you are here for the <b>Advanced Scientific Programming</b> online lecture notes.</font>
+Less developped:<br>
+<a href="https://fabienmaussion.info/advanced_programming"> Advanced Scientific Programming</a><br>
+<a href="https://fabienmaussion.info/climate_practicals_bsc"> Climate System Practicals</a> (undergraduate / bachelor level)
 
 [^1]: VO ("Vorlesung", regular lectures) VU ("Vorlesung mit Übung", lectures with integrated practicals), and SE ("Seminars").
 

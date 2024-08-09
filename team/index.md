@@ -54,33 +54,12 @@ modified: 2018-09-22
 
 ### Student advisees
 
-**Master thesis advisees:**
-
-**Castiglione, A.** (ACINN)
-: Thesis: *Attribution of a severe weather event to climate change.*
-
-**Roura Adserias, F.** (ACINN)
-: Thesis: *When will glaciers in the Pyrenees disappear?*
-
-**Chizzola, R.** (ACINN)
-: Thesis: *Influence of the future changes of the AMOC on North Atlantic glaciers.*
-
-**Employed on projects:**
-
-**Roura Adserias, F.** (ACINN)
-: Student helper working on the [Randolph Glacier Inventory](http://www.glims.org/RGI/)
-
-**Schroeder, M.** (ACINN)
-: Student helper working on [<u>OGGM-Edu</u>](http://edu.oggm.org)
-
-**Fischer, A.** (ACINN)
-: Student helper working on the [Randolph Glacier Inventory](http://www.glims.org/RGI/)
-
 Click [here]({{ site.url }}/team/theses) for the list of past advisees.
-
 
 <figure>
     <a href="https://oggm.org/img/blog/5th_workshop/group_picture_hostel.jpg"><img src="https://oggm.org/img/blog/5th_workshop/group_picture_hostel.jpg"></a>
-    <figcaption>Group photo of the <u><a href="https://oggm.org/2021/10/12/5th-oggm-worshop-summary/">2021 OGGM Workshop</a></u> in Neuharlingersiel</figcaption>
+
+    <a href="{{ site.url }}/grou-oggm.jpg"><img src="{{ site.url }}/images/group-oggm.jpg"></a>
+    <figcaption>Group photo of the <u><a href="https://oggm.org/2021/10/12/5th-oggm-worshop-summary/">2021</a></u> and <u><a href="https://oggm.org/2022/11/20/6st-oggm-worshop-summary/">2022</a></u> OGGM Workshops</figcaption>
 </figure>
 

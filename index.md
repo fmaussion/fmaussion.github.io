@@ -2,7 +2,6 @@
 layout: homepage
 image:
   feature: fm-header-1.jpg
-title: "About"
 ---
 
 <footer role="contentinfo">
@@ -11,23 +10,17 @@ title: "About"
   </div>
 </footer>
 
-I am an associate professor at the [Bristol Glaciology Centre](http://www.bristol.ac.uk/geography/research/bgc),
-[School of Geographical Sciences](http://www.bristol.ac.uk/geography), University of Bristol.
-Before July 2023, I was employed at the [Department of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at),
-University of Innsbruck
-
-I&#160;specialize in the study of our **climate system**, in particular
-its **atmosphere, cryosphere and how they interact**.
-I do this mostly with the help of computer models,
-but I don't mind going to the field sometimes as well!
-
-I am also active around the topics of **open science, open education, and open source**.
-At Bristol, I am the programme director of the [MSc Climate Change Science and Policy](https://www.bristol.ac.uk/study/postgraduate/taught/msc-climate-change-science-and-policy).
-
-On this website you'll find infos and links to the projects I contribute to.
+I am an Associate Professor at the [Bristol Glaciology Centre](http://www.bristol.ac.uk/geography/research/bgc), within the [School of Geographical Sciences](http://www.bristol.ac.uk/geography) at the University of Bristol. Prior to July 2023, I was employed at the [Department of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at) at the University of Innsbruck.
 
 <a href="http://www.bristol.ac.uk"><img src="images/uob_logo.png" alt="UoB Logo" style="width:200px;margin: 5px 5px 5px 5px;"></a>
 <a href="https://www.uibk.ac.at/en/"><img src="images/uibk_logo.png" alt="ACINN Logo" style="width:200px;margin: 5px 5px 5px 5px;"></a>
+
+I specialize in the study of our **climate system**. My work primarily involves the use of computer models, though I also enjoy participating in fieldwork from time to time!
+I have studied the hydroclimate dynamics of the [Tibetan Plateau](https://www.tu.berlin/en/klima/research/regional-climatology/high-asia/dynrg-tip) and the [Tropical Andes](https://agroclim-huaraz.info), and have led a number of expeditions in mountain regions.
+
+My recent research has focused on how to best quantify **past and future glacier changes** and their associated impacts, including sea-level rise and changes in freshwater availability. The community glacier model I developed ([OGGM](http://oggm.org)) has informed [IPCC reports](https://www.ipcc.ch/report/ar6/wg1/) and [policy briefs](https://iccinet.org/statecryo23), serves as a cornerstone of [global glacier data infrastructure](https://docs.oggm.org/en/stable/shop.html), and is helping to [train the next generation of climate scientists](https://edu.oggm.org).
+
+I am actively engaged in the areas of [science communication]({{ site.url }}/publications), [open education]({{ site.url }}/teaching), and [open source software]({{ site.url }}/software). I led or contributed to the development of well-known Python packages such as [OGGM](http://oggm.org), [salem](https://salem.readthedocs.io), and [xarray](https://xarray.dev). At Bristol, I am the Programme Director of the [MSc in Climate Change Science and Policy](https://www.bristol.ac.uk/study/postgraduate/taught/msc-climate-change-science-and-policy).
 
 ### Contact
 

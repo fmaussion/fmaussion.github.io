@@ -22,7 +22,7 @@ the glacier geometrical widths; (c) inversion of the glacier thickness using a m
 and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.</figcaption>
 </figure>
 
-**Relevant publications:** 
+**Relevant publications:**
 [Maussion et al., 2019](https://www.geosci-model-dev.net/12/909/2019/gmd-12-909-2019.html);
 [Marzeion et al., 2018](https://www.nature.com/articles/s41558-018-0093-1);
 [Marzeion et al., 2020](https://doi.org/10.1029/2019EF001470);
@@ -52,8 +52,8 @@ and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.
 </figure>
 
 **Relevant publications:**
-[Maussion et al., 2015](http://www.the-cryosphere.net/9/1663/2015/); 
-[Mölg et al., 2012](http://www.the-cryosphere.net/6/1445/2012/); 
+[Maussion et al., 2015](http://www.the-cryosphere.net/9/1663/2015/);
+[Mölg et al., 2012](http://www.the-cryosphere.net/6/1445/2012/);
 [Mölg et al., 2014](http://www.nature.com/nclimate/journal/v4/n1/full/nclimate2055.html);
 [Zolles et al., 2019](https://www.the-cryosphere.net/13/469/2019/tc-13-469-2019.html);
 [Galos et al., 2017](https://tc.copernicus.org/articles/11/1417/2017/);
@@ -69,7 +69,8 @@ and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.
 
 **Relevant publications:**
 [Hänchen et al., 2022](https://esd.copernicus.org/articles/13/595/2022/);
-[Klein et al., 2023](https://iopscience.iop.org/article/10.1088/1748-9326/acb72b);
+[Klein et al., 2023a](https://iopscience.iop.org/article/10.1088/1748-9326/acb72b);
+[Klein et al., 2023b](https://iopscience.iop.org/article/10.1088/2515-7620/ace516/meta);
 
 ### Climate of the Tibetan Plateau
 
@@ -87,13 +88,13 @@ and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.
     of the few weather stations available (Maussion et al., 2014). Middle: atmospheric
     water transport towards the Tibetan Plateau in July plotted along cross-sections
     of the Himalayas (Curio et al., 2015). Right: Wind vectors and geopotential
-    height in July as computed by the  <a href="http://www.klima.tu-berlin.de/har/">HAR</a>  
+    height in July as computed by the  <a href="http://www.klima.tu-berlin.de/har/">HAR</a>
     (Maussion et al., 2014). </figcaption>
 </figure>
 
 **Relevant publications:**
-[Mölg et al., 2017](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JD027414); 
-[Maussion et al., 2014](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-13-00282.1); 
+[Mölg et al., 2017](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JD027414);
+[Maussion et al., 2014](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-13-00282.1);
 [Curio et al., 2015](http://www.earth-syst-dynam.net/6/109/2015/esd-6-109-2015.html);
 
 ### Dynamical downscaling with the WRF model
@@ -125,7 +126,7 @@ and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.
     <a href="/images/research/Fig_Multi.jpg" >
     <img src="/images/research/Fig_Multi.jpg" alt="missing" width="100%" />
     </a>
-    <figcaption>Left: atmospheric moisture contribution to precipitation in northeast Greenland 
+    <figcaption>Left: atmospheric moisture contribution to precipitation in northeast Greenland
     (Schuster et al., 2021). Middle: monthly lake Level
     changes as observed and as simulated by a modelling tool combining atmospheric
     and hydrological models (Biskop et al., 2016). Right: mean shear velocities
@@ -143,6 +144,7 @@ and ice-flow modelling approach; (d) spatial interpolation of the ice thickness.
 [Spieß et al., 2015](http://onlinelibrary.wiley.com/doi/10.1111/geoa.12102/abstract);
 [Schuster et al., 2021](https://wcd.copernicus.org/articles/2/1/2021/);
 [Azam et al., 2021](https://www.science.org/doi/abs/10.1126/science.abf3668);
+[Hanus et al., 2024](https://gmd.copernicus.org/articles/17/5123/2024/);
 
 ### Open science
 
@@ -175,5 +177,5 @@ journal [Geoscientific Model Development](https://gmd.copernicus.org/).
 - 2021--2024: Landslides and Climate Change in highly Sensible Environments: Seismology, Earth Observation and Artificial Intelligence – [HighLand](https://anr.fr/Project-ANR-20-CE01-0006)
 - 2015--2021: Atmospheric Downscaling for Glacierized mountain environments – [DoG](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/dog.html.en)
 - 2014--2015: [Multidecadal to Centennial Climate Variability: Assessing the Conditions for the Glaciation of Tropical Mountains](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/glaciation-of-tropical-mountains.html.en) (FWF)
-- 2011--2014: [WET](https://www.klima.tu-berlin.de/index.php?show=reg_klima_hochasien_wet&lan=en) -- Variability and Trends in Water Balance Components of Benchmark Drainage Basins on the Tibetan Plateau (BMBF) 
+- 2011--2014: [WET](https://www.klima.tu-berlin.de/index.php?show=reg_klima_hochasien_wet&lan=en) -- Variability and Trends in Water Balance Components of Benchmark Drainage Basins on the Tibetan Plateau (BMBF)
 - 2008--2014: [DynRG-TIP](https://www.klima.tu-berlin.de/index.php?show=reg_klima_hochasien_dynrgtip&lan=en) -- Dynamic Response of Glaciers on the Tibetan Plateau to Climate Change (DFG)

@@ -31,7 +31,6 @@ I am the co-chair of a [working group of the same name](https://cryosphericscien
 multi-dimensional datasets widely used in the geosciences.
 Xarray is a fiscally sponsored project of [NumFOCUS](https://numfocus.org/).
 
-
 ### High Asia Refined analysis (HAR)
 
 <a href="https://www.klima.tu-berlin.de/index.php?show=daten_har"><img src="https://www.klima.tu-berlin.de/daten/har/pics/domains_wet.png" width="100"></a>
@@ -41,19 +40,11 @@ PhD thesis: the data is openly available. The dataset now has a little sister, [
 
 ### Salem
 
-[Salem](http://salem.readthedocs.io/en/stable/) is a small Python library to do
+[Salem](http://salem.readthedocs.io/en/stable/) is a Python library to do
 geoscientific data processing and plotting. It extends
 [xarray](https://github.com/pydata/xarray) to add
 geolocalised subsetting, masking, and plotting operations to xarray’s
 DataArray and DataSet structures.
-
-### DownGlacier
-
-[DownGlacier](https://bitbucket.org/fmaussion/downglacier) is an empirical
-statistical downscaling (ESD) tool developed to retrieve glacier Surface
-Energy and Mass Balance (SEB/SMB) fluxes from large-scale atmospheric data.
-It can extend measured (or modelled) SEB/SMB timeseries
-to longer time periods in a semi-automated manner.
 
 ### motionless
 
@@ -64,7 +55,7 @@ takes the pain out of generating Google Static Map URLs.
 
 See my [GitHub profile](https://github.com/fmaussion) for other projects I contribute to.
 
-In times not so far away I used to develop a bunch of tools with
+In times far away I used to develop a bunch of tools with
 [IDL](https://en.wikipedia.org/wiki/IDL_%28programming_language%29), which are
 available on request. My very first experience with open-source was for
 my master thesis, during which I had the chance to participate to the development

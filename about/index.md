@@ -14,7 +14,12 @@ The views expressed on this site are personal and do not necessarily represent t
 
 Unless specified otherwise, the content of this site (including images) are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
-Site hosted on <a href="https://pages.github.com/" rel="nofollow"> GitHub</a>, powered by <a href="http://jekyllrb.com" rel="nofollow"> Jekyll</a> using the <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> theme (V2).
+Site hosted on <a href="https://pages.github.com/" rel="nofollow"> GitHub Pages</a>, powered by <a href="http://jekyllrb.com" rel="nofollow"> Jekyll</a> using the <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> theme (V2).
+
+## Privacy notice
+
+This site does not collect any personal data. I use
+<a href="https://plausible.io/" rel="nofollow"> Plausible Analytics</a>, a cookieless and privacy focused Google Analytics alternative to collect statistics about my site's usage. This site however is hosted on <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection" rel="nofollow"> GitHub Pages</a>, which will collect your IP address.
 
 ### About the panoramas
 * [Homepage]({{ site.url }}/images/fm-header-1.jpg): Lake La’nga Co and Lake Mapam Yumco near Mount Kailash (Tibet)

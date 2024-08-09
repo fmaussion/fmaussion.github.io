@@ -6,6 +6,18 @@ title: "Supervised theses (completed)"
 modified: 2022-06-30
 ---
 
+### 2024
+
+**Chizzola, R.** (master thesis)
+: Thesis: *Influence of the future changes of the Atlantic Meridional Overturning Circulation on North Atlantic Glaciers* ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/9648318))
+
+### 2023
+
+**Roura Adserias, F.** (master thesis)
+: Thesis: *Toward ice-free Pyrenees: the case of Aneto glacier* ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/8648007))
+
+**Castiglione, A.** (master thesis)
+: Thesis: *From global warming to extreme precipitation: An attribution study of the Vaia storm (2018) to raise climate change risk-perception in the Trentino population* ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/8498770))
 
 ### 2022
 
@@ -20,7 +32,6 @@ modified: 2022-06-30
 
 **Jehle, L.** (bachelor thesis)
 : Thesis: *Analyse des Wetters im Rio-Santa Tal - Auswertung der Wetterstation Llupa und Datenvergleich mit dem WRF-Modell*
-
 
 ### 2021
 
