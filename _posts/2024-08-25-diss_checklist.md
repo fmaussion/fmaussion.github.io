@@ -31,10 +31,10 @@ This guide is intended for my postgraduate students at Bristol writing their fin
 The checks below are non-negotiable. Failing to abide by these simple checks will most likely prevent you from getting an outstanding mark. They are very easy to avoid: just go through the list!
 
 - **Stay healthy**
-  - Take regular breaks and long, deep breaths — a 5-minute break every 30 minutes makes you much more productive and settled.
-  - Work in groups — it helps to stay motivated!
-  - Back-up your work regularly. A loss of data could be devastating.
   - Check the submission guidelines to avoid last-minute surprises.
+  - Back-up your work regularly. A loss of data could be devastating.
+  - Work in a group — it helps to stay motivated!
+  - Take regular breaks and long, deep breaths — a 5-minute break every 30 minutes makes you much more productive and settled.
 
 - **Check the overall formatting**
   - Title, name, study program, and formalities required by the university guidelines.
