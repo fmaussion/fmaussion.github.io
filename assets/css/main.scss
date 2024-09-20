@@ -27,3 +27,37 @@ sitemap: false
 @import "vendor/academicons-1.6.0/academicons";
 @import "vendor/magnific-popup/magnific-popup";
 //@import "vendor/google/fonts";
+
+// Custom
+.highlight-box {
+    background-color: #f0f8ff; /* Light blue background */
+    border: 2px solid #007acc; /* Blue border */
+    padding: 15px;
+    border-radius: 10px;
+    color: #333; /* Text color */
+    font-family: 'Arial', sans-serif;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+  }
+
+  .highlight-box h2 {
+    color: #007acc; /* Heading color */
+  }
+
+  .highlight-box a {
+    color: #007acc; /* Link color */
+    text-decoration: none;
+  }
+
+  .highlight-box a:hover {
+    text-decoration: underline;
+  }
+
+  .no-bullets {
+    list-style-type: none;
+    padding-left: 0;
+  }
+
+  .no-bullets li {
+    margin-bottom: 8px; /* Adds a bit of spacing between items */
+  }

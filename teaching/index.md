@@ -2,7 +2,7 @@
 layout: page
 image:
   feature: fm-header-4.jpg
-title: "Teaching"
+title: "Lecture notes"
 modified: 2016-05-09
 ---
 
@@ -12,15 +12,19 @@ At Bristol, I will teach the [Quantifying Climate Risks](https://www.bris.ac.uk/
 
 ## Online lecture notes
 
-<ul>
-<li><a href="http://fabienmaussion.info/intro_to_programming"> Introduction to  Programming</a> (undergraduate / bachelor level)</li>
-<li><a href="http://fabienmaussion.info/scientific_programming"> Scientific Programming</a> (postgraduate / masters level)</li>
-<li><a href="https://fabienmaussion.info/climate_system"> Physics of the Climate System Practicals</a>  (postgraduate / masters level)</li>
-</ul>
+<div class="highlight-box">
+  <b>Open lecture notes with a CC-BY license</b>
+  <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg" alt="CC-BY License" style="width: 90px; float: right; margin-left: 10px;" />
+  <ul class="no-bullets">
+    <li>💻 <a href="http://fabienmaussion.info/intro_to_programming">Introduction to Programming</a> (undergraduate level)</li>
+    <li>🧑‍💻 <a href="http://fabienmaussion.info/scientific_programming">Scientific Programming</a> (postgraduate level)</li>
+    <li>🌍 <a href="https://fabienmaussion.info/climate_system">Physics of the Climate System Practicals</a> (postgraduate level)</li>
+  </ul>
+</div>
 
-Less developped:<br>
+🛠️ Still evolving:<br>
 <a href="https://fabienmaussion.info/advanced_programming"> Advanced Scientific Programming</a><br>
-<a href="https://fabienmaussion.info/climate_practicals_bsc"> Climate System Practicals</a> (undergraduate / bachelor level)
+<a href="https://fabienmaussion.info/climate_practicals_bsc"> Climate System Practicals</a> (bachelor level)
 
 [^1]: VO ("Vorlesung", regular lectures) VU ("Vorlesung mit Übung", lectures with integrated practicals), and SE ("Seminars").
 

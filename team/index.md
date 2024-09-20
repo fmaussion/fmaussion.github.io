@@ -25,13 +25,13 @@ modified: 2018-09-22
 <b><u> <a href="https://www.uibk.ac.at/acinn/people/anouk-vlug.html.en">Dr. Anouk Vlug</a></u></b> (ACINN & Uni Bremen)
 : Working on the DFG Project "A future ready Open Global Glacier Model" *([project website](https://oggm.org))*
 
-<b><u> <a href="https://scholar.google.com/citations?user=_KFP8v4AAAAJ&hl=fr">Dr. Marin Kneib</a></u></b> (ACINN & Uni Grenoble)
-: Working on the SNF Mobility Grant "Contribution of Avalanches to glacIeR mass balaNce (CAIRN)"
-
 ### Past post-docs
 
+<b><u> <a href="https://scholar.google.com/citations?user=_KFP8v4AAAAJ&hl=fr">Dr. Marin Kneib</a></u></b> (ACINN & Uni Grenoble)
+: Worked on the SNF Mobility Grant "Contribution of Avalanches to glacIeR mass balaNce (CAIRN)". Now at [ETH Zürich](https://scholar.google.com/citations?user=_KFP8v4AAAAJ).
+
 <b><u> <a href="https://www.sheffield.ac.uk/geography/people/academic-staff/emily-potter">Dr. Emily Potter</a></u></b> (ACINN)
-: Now at Sheffield University
+: Worked on the [AgroClim Huaraz](https://agroclim-huaraz.info) project. Now at [Sheffield University](https://www.sheffield.ac.uk/geography-planning/people/academic-research/emily-potter).
 
 ### Completed PhDs
 
@@ -62,4 +62,3 @@ Click [here]({{ site.url }}/team/theses) for the list of past advisees.
     <a href="{{ site.url }}/grou-oggm.jpg"><img src="{{ site.url }}/images/group-oggm.jpg"></a>
     <figcaption>Group photo of the <u><a href="https://oggm.org/2021/10/12/5th-oggm-worshop-summary/">2021</a></u> and <u><a href="https://oggm.org/2022/11/20/6st-oggm-worshop-summary/">2022</a></u> OGGM Workshops</figcaption>
 </figure>
-
