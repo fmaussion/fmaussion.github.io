@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Fabien Maussion
-bio: "Climate scientist & glaciologist, expert in global glacier change and related impacts"
+bio: "Climate scientist, glaciologist"
 locale: en_US
 url:
 image:
@@ -30,7 +30,7 @@ kramdown:
 owner:
   name: Fabien Maussion
   avatar: fabi-portrait.jpg
-  bio: "Climate scientist & glaciologist, expert in global glacier change and related impacts"
+  bio: "Climate scientist, glaciologist"
   github: fmaussion
   bitbucket: fmaussion
   orcid: 0000-0002-3211-506X
