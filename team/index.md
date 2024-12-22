@@ -20,11 +20,6 @@ modified: 2018-09-22
 <b><u> <a href="https://www.uibk.ac.at/acinn/people/niklas-richter.html.en">Niklas Richter</a></u></b> (ACINN, co-supervised)
 : Studying atmospheric drivers of glacier change in High Mountain Asia
 
-### Post-docs
-
-<b><u> <a href="https://www.uibk.ac.at/acinn/people/anouk-vlug.html.en">Dr. Anouk Vlug</a></u></b> (ACINN & Uni Bremen)
-: Working on the DFG Project "A future ready Open Global Glacier Model" *([project website](https://oggm.org))*
-
 ### Past post-docs
 
 <b><u> <a href="https://scholar.google.com/citations?user=_KFP8v4AAAAJ&hl=fr">Dr. Marin Kneib</a></u></b> (ACINN & Uni Grenoble)
@@ -32,6 +27,9 @@ modified: 2018-09-22
 
 <b><u> <a href="https://www.sheffield.ac.uk/geography/people/academic-staff/emily-potter">Dr. Emily Potter</a></u></b> (ACINN)
 : Worked on the [AgroClim Huaraz](https://agroclim-huaraz.info) project. Now at [Sheffield University](https://www.sheffield.ac.uk/geography-planning/people/academic-research/emily-potter).
+
+<b><u> <a href="https://www.uibk.ac.at/acinn/people/anouk-vlug.html.en">Dr. Anouk Vlug</a></u></b> (ACINN & Uni Bremen)
+: Worked on the DFG Project "A future ready Open Global Glacier Model" *([project website](https://oggm.org))*
 
 ### Completed PhDs
 

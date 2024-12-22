@@ -10,7 +10,7 @@ image:
   </div>
 </footer>
 
-I am an Associate Professor at the [Bristol Glaciology Centre](http://www.bristol.ac.uk/geography/research/bgc), within the [School of Geographical Sciences](http://www.bristol.ac.uk/geography) at the University of Bristol. Prior to July 2023, I was employed at the [Department of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at) at the University of Innsbruck.
+I am an Associate Professor at the [School of Geographical Sciences](http://www.bristol.ac.uk/geography), University of Bristol. Prior to July 2023, I was employed at the [Department of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at), University of Innsbruck.
 
 <a href="http://www.bristol.ac.uk"><img src="images/uob_logo.png" alt="UoB Logo" style="width:200px;margin: 5px 5px 5px 5px;"></a>
 <a href="https://www.uibk.ac.at/en/"><img src="images/uibk_logo.png" alt="ACINN Logo" style="width:200px;margin: 5px 5px 5px 5px;"></a>
@@ -20,7 +20,7 @@ I have studied the hydroclimate dynamics of the [Tibetan Plateau](https://doi.or
 
 My recent research has focused on the best ways to quantify **past and future glacier changes** and their related impacts, such as sea-level rise and changes in water resources. The community glacier model I developed ([OGGM](http://oggm.org)) has informed [IPCC reports](https://www.ipcc.ch/report/ar6/wg1/) and [policy briefs](https://iccinet.org/statecryo23), serves as a cornerstone of [global glacier data infrastructure](https://docs.oggm.org/en/stable/shop.html), and is helping to [train the next generation of climate scientists](https://edu.oggm.org).
 
-I am actively engaged in the areas of [science communication]({{ site.url }}/publications), [open education]({{ site.url }}/teaching), and [open source software]({{ site.url }}/software). I contributed to the development of well-known Python packages such as [OGGM](http://oggm.org), [salem](https://salem.readthedocs.io), and [xarray](https://xarray.dev). At Bristol, I am the Programme Director of the [MSc in Climate Change Science and Policy](https://www.bristol.ac.uk/study/postgraduate/taught/msc-climate-change-science-and-policy).
+I am actively engaged in the areas of [science communication]({{ site.url }}/publications), [open education]({{ site.url }}/teaching), and [open source software]({{ site.url }}/software). I contributed to the development of well-known Python packages such as [OGGM](http://oggm.org), [salem](https://salem.readthedocs.io), and [xarray](https://xarray.dev). At Bristol, I am the co-Director of the [Bristol Glaciology Centre](http://www.bristol.ac.uk/geography/research/bgc), and Programme Director of the [MSc in Climate Change Science and Policy](https://www.bristol.ac.uk/study/postgraduate/taught/msc-climate-change-science-and-policy).
 
 ### Contact
 
