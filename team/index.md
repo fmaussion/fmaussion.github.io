@@ -57,6 +57,6 @@ Click [here]({{ site.url }}/team/theses) for the list of past advisees.
 <figure>
     <a href="https://oggm.org/img/blog/5th_workshop/group_picture_hostel.jpg"><img src="https://oggm.org/img/blog/5th_workshop/group_picture_hostel.jpg"></a>
 
-    <a href="{{ site.url }}/grou-oggm.jpg"><img src="{{ site.url }}/images/group-oggm.jpg"></a>
+    <a href="{{ site.url }}/images/group-oggm.jpg"><img src="{{ site.url }}/images/group-oggm.jpg"></a>
     <figcaption>Group photo of the <u><a href="https://oggm.org/2021/10/12/5th-oggm-worshop-summary/">2021</a></u> and <u><a href="https://oggm.org/2022/11/20/6st-oggm-worshop-summary/">2022</a></u> OGGM Workshops</figcaption>
 </figure>
