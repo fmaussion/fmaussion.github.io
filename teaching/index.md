@@ -19,10 +19,11 @@ At Bristol, I will teach the [Quantifying Climate Risks](https://www.bris.ac.uk/
     <li>💻 <a href="http://fabienmaussion.info/intro_to_programming">Introduction to Programming</a> (undergraduate level)</li>
     <li>🧑‍💻 <a href="http://fabienmaussion.info/scientific_programming">Scientific Programming</a> (postgraduate level)</li>
     <li>🌍 <a href="https://fabienmaussion.info/climate_system">Physics of the Climate System Practicals</a> (postgraduate level)</li>
+    <li>📊<a href="https://fabienmaussion.info/climate_risks">Quantifying Climate Risks Practicals</a> (postgraduate level)</li>
   </ul>
 </div>
 
-🛠️ Still evolving:<br>
+🛠️ Less polished:<br>
 <a href="https://fabienmaussion.info/advanced_programming"> Advanced Scientific Programming</a><br>
 <a href="https://fabienmaussion.info/climate_practicals_bsc"> Climate System Practicals</a> (bachelor level)
 
