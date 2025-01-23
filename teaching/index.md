@@ -19,7 +19,7 @@ At Bristol, I will teach the [Quantifying Climate Risks](https://www.bris.ac.uk/
     <li>💻 <a href="http://fabienmaussion.info/intro_to_programming">Introduction to Programming</a> (undergraduate level)</li>
     <li>🧑‍💻 <a href="http://fabienmaussion.info/scientific_programming">Scientific Programming</a> (postgraduate level)</li>
     <li>🌍 <a href="https://fabienmaussion.info/climate_system">Physics of the Climate System Practicals</a> (postgraduate level)</li>
-    <li>📊<a href="https://fabienmaussion.info/climate_risks">Quantifying Climate Risks Practicals</a> (postgraduate level)</li>
+    <li>📊 <a href="https://fabienmaussion.info/climate_risks">Quantifying Climate Risks Practicals</a> (postgraduate level)</li>
   </ul>
 </div>
 
@@ -154,5 +154,3 @@ Summer 2016 | Literature seminar glaciology / climatology | Graduate | ACINN | -
 Winter 2015 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2015WS_PhyClim.pdf) |
 Summer 2013 | Scientific programming and statistics | Graduate | TU Berlin | - |
 Summer 2011 | Meteorological field excursion in north Sweden | Graduate | TU Berlin | - |
-
-<hr />

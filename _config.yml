@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Fabien Maussion
-bio: "Climate scientist, glaciologist"
+bio: "Climate scientist & glaciologist"
 locale: en_US
 url:
 image:
@@ -30,7 +30,7 @@ kramdown:
 owner:
   name: Fabien Maussion
   avatar: fabi-portrait.jpg
-  bio: "Climate scientist, glaciologist"
+  bio: "Climate scientist & glaciologist"
   github: fmaussion
   bitbucket: fmaussion
   orcid: 0000-0002-3211-506X
@@ -40,7 +40,7 @@ owner:
   stackoverflow: #http://stackoverflow.com/users/123456/username
   email:
   disqus-shortname: fmaussion
-  twitter: FabClimate
+  twitter:
   facebook: #username
   google:
     plus: #username
@@ -49,7 +49,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  linkedin: #username
+  linkedin: fabclimate
   instagram:
   lastfm: #username
   tumblr: #username
