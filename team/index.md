@@ -20,6 +20,11 @@ modified: 2018-09-22
 <b><u> <a href="https://www.uibk.ac.at/acinn/people/niklas-richter.html.en">Niklas Richter</a></u></b> (ACINN, co-supervised)
 : Studying atmospheric drivers of glacier change in High Mountain Asia
 
+### Post-docs
+
+<b><u> <a href="https://research-information.bris.ac.uk/en/persons/tian-li-2">Dr. Tian Li</a></u></b> (Bristol, Leverhulme Fellow)
+: Working of large scale calving estimation with machine learning
+
 ### Past post-docs
 
 <b><u> <a href="https://scholar.google.com/citations?user=_KFP8v4AAAAJ&hl=fr">Dr. Marin Kneib</a></u></b> (ACINN & Uni Grenoble)
