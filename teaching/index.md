@@ -114,43 +114,43 @@ topics. Some of my recent presentations are available online:
 [this blog post]({{ site.url }}/2017/02/18/html-presentations-w-rise/))
 explains it in a little more detail)
 
-
 ## Student evaluations
 
 Semester&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Level | Institution&nbsp; | Evaluation |
 :---|:---|:---|:---|:---|:---|
-Summer 2022 | Advanced Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2023SS_AdvPro.pdf) |
-Summer 2023 | PhD seminar on careers outside of academia  | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2023SS_Career.pdf)  |
+2024/25 | Quantifying Climate Risks | PostGrad | Bristol | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/202424_QCR.pdf) |
+Summer 2023 | Advanced Scientific Programming | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2023SS_AdvPro.pdf) |
+Summer 2023 | PhD seminar on careers outside of academia  | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2023SS_Career.pdf)  |
 Summer 2023 | Introduction to Programming | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2023SS_InPro.pdf)  |
-Winter 2022 | Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2022WS_SciPro.pdf)  |
-Winter 2022 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2022WS_PhyClim.pdf)  |
+Winter 2022 | Scientific Programming | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2022WS_SciPro.pdf)  |
+Winter 2022 | Physics of the climate system | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2022WS_PhyClim.pdf)  |
 Winter 2022 | The climate system (shared) | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2022WS_BscClim.pdf)  |
-Summer 2022 | Advanced Scientific Programming | Graduate | ACINN | - |
-Summer 2022 | The Cryosphere in the Climate System (shared) | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2022SS_Cryo.pdf)  |
-Summer 2022 | Scientific Communication (shared) | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2022SS_PopUp.pdf)  |
+Summer 2022 | Advanced Scientific Programming | Masters | ACINN | - |
+Summer 2022 | The Cryosphere in the Climate System (shared) | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2022SS_Cryo.pdf)  |
+Summer 2022 | Scientific Communication (shared) | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2022SS_PopUp.pdf)  |
 Summer 2022 | Introduction to Programming | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2022SS_InPro.pdf)  |
-Winter 2021 | Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2021WS_SciPro.pdf)  |
-Winter 2021 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2021WS_PhyClim.pdf)  |
-Winter 2020 | Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2020WS_SciPro.pdf)  |
-Winter 2020 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2020WS_PhyClim.pdf)  |
+Winter 2021 | Scientific Programming | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2021WS_SciPro.pdf)  |
+Winter 2021 | Physics of the climate system | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2021WS_PhyClim.pdf)  |
+Winter 2020 | Scientific Programming | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2020WS_SciPro.pdf)  |
+Winter 2020 | Physics of the climate system | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2020WS_PhyClim.pdf)  |
 Winter 2020 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2020WS_EKlim.pdf) |
-Winter 2019 | Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2019WS_SciPro.pdf)  |
-Winter 2019 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2019WS_PhyClim.pdf)  |
+Winter 2019 | Scientific Programming | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2019WS_SciPro.pdf)  |
+Winter 2019 | Physics of the climate system | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2019WS_PhyClim.pdf)  |
 Winter 2019 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2019WS_EKlim.pdf) |
-Winter 2018 | Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018WS_SciPro.pdf)  |
-Winter 2018 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018WS_PhyClim.pdf)  |
+Winter 2018 | Scientific Programming | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018WS_SciPro.pdf)  |
+Winter 2018 | Physics of the climate system | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018WS_PhyClim.pdf)  |
 Winter 2018 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018WS_EKlim.pdf) |
-Summer 2018 | Scientific Programming | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018SS_SciPro.pdf) |
-Summer 2018 | Transparency and communication in Earth Sc. | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018SS_Transparency.pdf) |
-Winter 2017 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2017WS_PhyClim.pdf) |
+Summer 2018 | Scientific Programming | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018SS_SciPro.pdf) |
+Summer 2018 | Transparency and communication in Earth Sc. | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2018SS_Transparency.pdf) |
+Winter 2017 | Physics of the climate system | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2017WS_PhyClim.pdf) |
 Winter 2017 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2017WS_EKlim.pdf) |
-Summer 2017 | The Cryosphere in the Climate System | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2017SS_Cryo.pdf) |
-Winter 2016 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2016WS_PhyClim.pdf) |
+Summer 2017 | The Cryosphere in the Climate System | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2017SS_Cryo.pdf) |
+Winter 2016 | Physics of the climate system | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2016WS_PhyClim.pdf) |
 Winter 2016 | Einführung in die Klimatologie | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2016WS_EKlim.pdf) |
-Winter 2016 | Literature seminar glaciology / climatology | Graduate | ACINN | - |
-Summer 2016 | The Cryosphere in the Climate System | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2016SS_Cryo.pdf) |
+Winter 2016 | Literature seminar glaciology / climatology | Masters | ACINN | - |
+Summer 2016 | The Cryosphere in the Climate System | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2016SS_Cryo.pdf) |
 Summer 2016 | The climate system | Undergrad&nbsp; | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2016SS_Klima.pdf) |
-Summer 2016 | Literature seminar glaciology / climatology | Graduate | ACINN | - |
-Winter 2015 | Physics of the climate system | Graduate | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2015WS_PhyClim.pdf) |
-Summer 2013 | Scientific programming and statistics | Graduate | TU Berlin | - |
-Summer 2011 | Meteorological field excursion in north Sweden | Graduate | TU Berlin | - |
+Summer 2016 | Literature seminar glaciology / climatology | Masters | ACINN | - |
+Winter 2015 | Physics of the climate system | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2015WS_PhyClim.pdf) |
+Summer 2013 | Scientific programming and statistics | Masters | TU Berlin | - |
+Summer 2011 | Meteorological field excursion in north Sweden | Masters | TU Berlin | - |
