@@ -11,9 +11,6 @@ title: "Publications and outreach"
 ![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.com/citations?user=tTpQiSgAAAAJ&hl=fr)<br>
 ![Web of Science]({{ site.url }}/images/rid.png) [Web of Science](https://www.webofscience.com/wos/author/record/B-9814-2013)<br>
 
-*October 2021:* My habilitation thesis ([wikipedia](https://en.wikipedia.org/wiki/Habilitation)) was recently accepted.
-You can find an online copy [here](https://fabienmaussion.info/habil2.0).
-
 
 ## Press (selection)
 
@@ -34,6 +31,8 @@ You can find an online copy [here](https://fabienmaussion.info/habil2.0).
 - [UIBK: Nega­tivre­kord: Glet­sch­er­bi­lanz rutscht immer frü­her ins Minus](https://www.uibk.ac.at/de/newsroom/2022/negativrekord-gletscherbilanz-rutscht-immer-fruher-ins-minus/) (in German)
 - [ORF Science: Modell zeigt Abschied der Eisriesen](https://science.orf.at/stories/3215079) and the associated [podcast](https://sound.orf.at/podcast/oe1/young-science/der-abschied-der-eisriesen) (in German)
 - [SRF Radio from COP27 (Switzerland): Der Meeresspiegel steigt – das sind die Szenarien](https://www.srf.ch/news/international/klimakonferenz-in-aegypten-der-meeresspiegel-steigt-das-sind-die-szenarien) ([radio interview](https://www.srf.ch/audio/echo-der-zeit/klimakonferenz-warum-der-meeresspiegel-weiter-steigen-duerfte?partId=12289153))
+- [Der Spiegel: Österreichs Gletscher tauen in den nächsten Jahrzehnten weg](https://www.spiegel.de/wissenschaft/natur/klimawandel-gletscher-in-oesterreich-tauen-in-den-naechsten-jahrzehnten-weg-a-f0653090-3a29-480a-bacd-84c6d2b1d352) (in German)
+- [GermanEye: Rapid Glacier Melting in Tirol Due to Climate Change](https://thegermanyeye.com/rapid-glacier-melting-tirol-climate-change-16883) (in German)
 
 
 ## Outreach and education
