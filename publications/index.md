@@ -53,6 +53,9 @@ Who is Fabien? A short presentation video made by the University of Innsbruck's 
 
 ## Online presentations (selection)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o5DID5VVkq8?start=130" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Presentation given at the Bonn Climate Change Conference 2024 with [ICCI](https://iccinet.org).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FGvt87FpVQY?start=1293" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

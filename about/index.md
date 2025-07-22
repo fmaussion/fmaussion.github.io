@@ -16,6 +16,10 @@ Unless specified otherwise, the content of this site (including images) are lice
 
 Site hosted on <a href="https://pages.github.com/" rel="nofollow"> GitHub Pages</a>, powered by <a href="http://jekyllrb.com" rel="nofollow"> Jekyll</a> using the <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> theme (V2).
 
+## Short biography
+
+For public use: [Short biography]({{ site.url }}/about/bio)
+
 ## Privacy notice
 
 This site does not collect any personal data. I use
