@@ -8,8 +8,8 @@ modified: 2018-09-22
 
 ### PhD students
 
-<b><u> <a href="https://www.uibk.ac.at/acinn/people/lilian-schuster.html.en">Lilian Schuster</a></u></b> (ACINN)
-: Working on the uncertainty of large scale surface mass-balance models *([project website](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/uncertainties-glacier-smb.html.en))*
+<b><u> Chloe Hancock</u></b> (Bristol)
+: Working on quantifying the uncertainty of glacier runoff projections.
 
 <b><u> <a href="https://www.uibk.ac.at/acinn/people/patrick-schmitt.html.en">Patrick Schmitt</a></u></b> (ACINN)
 : Working on the global glacier response under climate targets overshoot scenarios (EU project PROVIDE)
@@ -24,6 +24,10 @@ modified: 2018-09-22
 
 <b><u> <a href="https://research-information.bris.ac.uk/en/persons/tian-li-2">Dr. Tian Li</a></u></b> (Bristol, Leverhulme Fellow)
 : Working of large scale calving estimation with machine learning
+
+<b><u> <a href="https://research-information.bris.ac.uk/en/persons/ritu-anilkumar">Dr. Ritu Anilkumar</a></u></b> (Bristol, project LiquidIce): Working on estimating the global mass balance of glaciers.
+
+<b><u> <a href="https://earthsciences.osu.edu/people/lamantia.31">Dr. Kara Lamantia</a></u></b> (Bristol, Newton Fellow starting Jan 2026): Working on glacier health metrics from space.
 
 ### Past post-docs
 
