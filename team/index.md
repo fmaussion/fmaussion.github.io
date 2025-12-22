@@ -14,9 +14,6 @@ modified: 2018-09-22
 <b><u> <a href="https://www.uibk.ac.at/acinn/people/patrick-schmitt.html.en">Patrick Schmitt</a></u></b> (ACINN)
 : Working on the global glacier response under climate targets overshoot scenarios (EU project PROVIDE)
 
-<b><u> <a href="http://www.biomet.co.at/people/lorenz-hanchen/">Lorenz Hänchen</a></u></b> (Institute of Ecology, co-supervised)
-: Working on the spatio-temporal variability in water availability and demand in the Peruvian Andes *([project website](https://agroclim-huaraz.info))*
-
 <b><u> <a href="https://www.uibk.ac.at/acinn/people/niklas-richter.html.en">Niklas Richter</a></u></b> (ACINN, co-supervised)
 : Studying atmospheric drivers of glacier change in High Mountain Asia
 
@@ -42,14 +39,20 @@ modified: 2018-09-22
 
 ### Completed PhDs
 
+<b><u> <a href="http://www.biomet.co.at/people/lorenz-hanchen/">Lorenz Hänchen</a></u></b> (Uni Innsbruck, co-supervised, 2025)
+: Working on the spatio-temporal variability in water availability and demand in the Peruvian Andes *([project website](https://agroclim-huaraz.info))*
+
+<b><u> <a href="https://lilianschuster.github.io">Lilian Schuster</a></u></b> (2025, Uni Innsbruck)
+: Improving our understanding of future multi-century mountain glacier changes and runoff  ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://ulb-dok.uibk.ac.at/urn/urn:nbn:at:at-ubi:1-167640))
+
+<b><u> <a href="https://www.uibk.ac.at/acinn/people/anouk-vlug.html.en">Anouk Vlug</a></u></b> (2021, Uni Bremen, co-supervised)
+: The influence of climate variability on the mass balance of Canadian Arctic land-terminating glaciers, in simulations of the last millennium ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://media.suub.uni-bremen.de/handle/elib/5896))
+
 <b><u> <a href="https://geographie.uni-bremen.de/index.php?option=com_jresearch&view=member&task=show&id=81">Julia Eis</a></u></b> (2020, Uni Bremen, co-supervised)
 : Reconstructing glacier evolution using a flowline model ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://media.suub.uni-bremen.de/handle/elib/4635))
 
 <b><u> <a href="https://www.researchgate.net/profile/Beatriz_Recinos">Beatriz Recinos</a></u></b> (2020, Uni Bremen, co-supervised)
 : Ocean-glacier interaction on the large regional scale ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://media.suub.uni-bremen.de/handle/elib/4637))
-
-<b><u> <a href="https://www.uibk.ac.at/acinn/people/anouk-vlug.html.en">Anouk Vlug</a></u></b> (2021, Uni Bremen, co-supervised)
-: The influence of climate variability on the mass balance of Canadian Arctic land-terminating glaciers, in simulations of the last millennium ([<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](https://media.suub.uni-bremen.de/handle/elib/5896))
 
 ### Past visiting students
 

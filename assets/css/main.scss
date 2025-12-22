@@ -61,3 +61,46 @@ sitemap: false
   .no-bullets li {
     margin-bottom: 8px; /* Adds a bit of spacing between items */
   }
+
+details.explain-box {
+  border: 1px solid #cfd8dc;
+  border-radius: 6px;
+  padding: 0;
+  margin: 1.2em 0;
+  background: #f7f9fb;
+}
+
+details.explain-box summary {
+  padding: 0.8em 1em;
+  cursor: pointer;
+  font-weight: 600;
+  list-style: none;
+  position: relative;
+}
+
+/* remove default triangle in some browsers */
+details.explain-box summary::-webkit-details-marker {
+  display: none;
+}
+
+/* custom arrow */
+details.explain-box summary::before {
+  content: "▶";
+  margin-right: 0.6em;
+  display: inline-block;
+  transition: transform 0.2s ease;
+  color: #555;
+}
+
+details.explain-box[open] summary::before {
+  transform: rotate(90deg);
+}
+
+details.explain-box summary:hover {
+  background: #eef3f7;
+}
+
+/* content padding */
+details.explain-box > *:not(summary) {
+  padding: 0.8em 1em 1em 1em;
+}
