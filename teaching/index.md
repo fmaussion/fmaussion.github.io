@@ -118,6 +118,7 @@ explains it in a little more detail)
 
 Semester&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Level | Institution&nbsp; | Evaluation |
 :---|:---|:---|:---|:---|:---|
+2025/26 | Quantifying Climate Risks | PostGrad | Bristol | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/202526_QCR.pdf) |
 2024/25 | Quantifying Climate Risks | PostGrad | Bristol | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/202424_QCR.pdf) |
 Summer 2023 | Advanced Scientific Programming | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2023SS_AdvPro.pdf) |
 Summer 2023 | PhD seminar on careers outside of academia  | Masters | ACINN | [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Link](/images/teaching/eval/2023SS_Career.pdf)  |
