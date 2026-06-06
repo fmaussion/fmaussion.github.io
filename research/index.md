@@ -157,25 +157,4 @@ journal [Geoscientific Model Development](https://gmd.copernicus.org/).
 
 ## Research projects & grants
 
-### As PI (current)
-
-- 2021--2024: [PROVIDE](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/provide.html.en) -- Paris Agreement Overshooting – Reversibility, Climate Impacts and Adaptation Needs (H2020)
-- 2022--2024: [A future-ready Open Global Glacier Model (OGGM)](https://oggm.org/img/blog/software_project/dfg_software_proposal_final.pdf) (DFG)
-- 2023--2025: [HYdro power: iMpact on the ELecTricity sector in Austria due to Climate Change in glaciated high alpine areas (HyMELT-CC)](https://forschung.boku.ac.at/fis/suchen.projekt_uebersicht?sprache_in=de&menue_id_in=300&id_in=14978) (Austrian Climate Research Programme)
-- 2021--2024: [UNCERTAIN](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/uncertainties-glacier-smb.html.en) -- Certainties and uncertainties in the future surface mass balance of mountain glaciers ([ÖAW](https://www.oeaw.ac.at/oesterreichische-akademie-der-wissenschaften), together with PhD student [Lilian Schuster](https://www.uibk.ac.at/acinn/people/lilian-schuster.html.en))
-
-### As PI (completed)
-
-- 2019--2023: [AgroClim - Huaraz](https://agroclim-huaraz.info/), "Water availability and water demand in the Peruvian Andes" ([ÖAW](https://www.oeaw.ac.at/oesterreichische-akademie-der-wissenschaften))
-- 2020--2022: [Scaling regional sea-level changes with climate forcings](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/scaling_regional_sea_level_changes.html.en) (FWF, replacing previous PI Kristin Richter)
-- 2018--2021: [Modelling glacier length changes in Alps on the base of tree-ring based temperature reconstructions for the last 2500 years](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/modelling-glacier-length-changes.html.en) (Universtität Innsbruck, Co-PI)
-- 2019--2020: "Glaciers on the Cloud: OGGM-Edu" (University of Innsbruck)
-- 2018--2019: [The Upper Grindelwald Glacier as indicator for Holocene climate variability](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/holocene-climate-variability.html.en) (TWF)
-
-### As collaborator
-
-- 2021--2024: Landslides and Climate Change in highly Sensible Environments: Seismology, Earth Observation and Artificial Intelligence – [HighLand](https://anr.fr/Project-ANR-20-CE01-0006)
-- 2015--2021: Atmospheric Downscaling for Glacierized mountain environments – [DoG](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/dog.html.en)
-- 2014--2015: [Multidecadal to Centennial Climate Variability: Assessing the Conditions for the Glaciation of Tropical Mountains](https://www.uibk.ac.at/acinn/research/ice-and-climate/projects/glaciation-of-tropical-mountains.html.en) (FWF)
-- 2011--2014: [WET](https://www.klima.tu-berlin.de/index.php?show=reg_klima_hochasien_wet&lan=en) -- Variability and Trends in Water Balance Components of Benchmark Drainage Basins on the Tibetan Plateau (BMBF)
-- 2008--2014: [DynRG-TIP](https://www.klima.tu-berlin.de/index.php?show=reg_klima_hochasien_dynrgtip&lan=en) -- Dynamic Response of Glaciers on the Tibetan Plateau to Climate Change (DFG)
+See [CV]({{ site.url }}/cv/cv_maussion.html).
