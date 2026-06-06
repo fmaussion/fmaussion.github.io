@@ -12,8 +12,8 @@ image:
 
 I am an Associate Professor at the [School of Geographical Sciences](http://www.bristol.ac.uk/geography), University of Bristol. Prior to July 2023, I was employed at the [Department of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at), University of Innsbruck.
 
-<a href="http://www.bristol.ac.uk"><img src="images/uob_logo.png" alt="UoB Logo" style="width:200px;margin: 5px 5px 5px 5px;"></a>
-<a href="https://www.uibk.ac.at/en/"><img src="images/uibk_logo.png" alt="ACINN Logo" style="width:200px;margin: 5px 5px 5px 5px;"></a>
+<a href="http://www.bristol.ac.uk"><img src="images/uob_logo.svg" alt="UoB Logo" style="width:200px;margin: 5px 5px 5px 5px;"></a>
+<a href="https://www.uibk.ac.at/en/"><img src="images/uibk_logo.svg" alt="ACINN Logo" style="width:200px;margin: 5px 5px 5px 5px;"></a>
 
 I specialize in the study of the **climate of mountain regions**.
 I have studied the hydroclimate dynamics of the [Tibetan Plateau](https://doi.org/10.1175/JCLI-D-13-00282.1) and the [Tropical Andes](https://agroclim-huaraz.info), and led scientific expeditions in these regions.
